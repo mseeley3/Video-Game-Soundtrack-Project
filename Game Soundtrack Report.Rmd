@@ -1,0 +1,273 @@
+---
+title: "Does the Soundtrack Affect the Success of Video Games"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+###Introduction
+
+One of the fastest growing sectors of the entertainment industry today is video games. [VentureBeat](http://venturebeat.com/2016/06/08/the-u-s-and-global-game-industries-will-grow-a-healthy-amount-by-2020-pwc-forecasts/) predicts a compound growth of 3.7 from 2015 to 2020 for the U.S. industry, reaching a total game revenue of $20.3 billion in 2020. With such a steady industry, it is important to identify the factors that contribute to a video games success. Success in this report will be defined by how the game is rated and by its sales numbers.
+
+A factor often overlooked when rating video games is the soundtrack. Most reviews ignore music in favor of other factors such as gameplay. While the aspects a consumer directly interacts with are more critical to discuss in a review, I believe music is important due to its ability to evoke an [emotional response](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4038858/). If users develop a emotional connection to the game, depending on the quality of the soundtrack this emotion can be appealed to years after the user has stoped playing by using the soundtrack. This connection may be beneficial in terms of marketing future games.
+
+
+###The Dataset
+
+The dataset used for this project was collected from several sources. The name, critic score, user score, release date, and genre of the top 100 scored games from 2007-2016 were collected from [MetaCritic](http://www.metacritic.com/browse/games/score/metascore/year/pc/filtered?year_selected=2016&sort=desc). Global sales estimates of the games from MetaCritic were collected from [VGChartz](http://www.vgchartz.com/platform/48/microsoft-windows/). Video game soundtrack data was collected using Youtube's search API. I chose to use youtube as a metric for rating a soundtrack's popularity based on personal experience of finding youtube to be a reliable source for game music.
+
+Each game title along with the word "soundtrack" was entered into the API. The results were then filtered for the number of relevent videos, views, likes, dislikes, and comments. Using these three sources of data, one could reasonable analyze if a game's soundtrack is relevent to a game.
+
+```{r echo= FALSE, results= 'hide', include= FALSE}
+require(curl)
+require(jsonlite)
+library(dplyr)
+library(tidyr)
+library(lubridate)
+library(rvest)
+library(httr)
+library(stringdist)
+library(R.utils)
+library(ggplot2)
+library(lazyeval)
+
+setwd("/Users/monicaseeley/Documents/R Files/Youtube API/")
+
+game_soundtrack_df<- read.csv("game_soundtrack_df.csv")
+
+game_soundtrack_df<-
+  game_soundtrack_df %>%
+  mutate(sales_per_mil = cut(global_sales, c(0, 0.25, 0.5, 0.75, 1, Inf) , labels = c(0, 0.25, 0.5, 0.75, 1), right= FALSE))
+
+```
+
+###Critics Opinion vs Users
+
+To get a better view of the gameing landscape, game scores by both critics and users were collected from MetaCritic. Critic scores gave a more professional opinion of a game and came from game review websites such as Gaming Nexus, PC Gamer, and GamingTrend. Users on the other hand, gave insight into how the game was actually faring on the ground level. Over the 10 years the dataset spanns, critic and user opinion has become more and more divisive.
+
+```{r echo= FALSE}
+game_soundtrack_df %>% 
+  filter(is.na(game_user_score) == FALSE) %>%
+  mutate(year = year(game_release_date), diff = (game_critic_score)/10 - game_user_score) %>% 
+  group_by(year) %>% 
+  summarize(avg_diff = mean(diff)) %>%
+  ggplot(aes(x= year, y= avg_diff)) + 
+  geom_point() +
+  ggtitle("Difference in opinion between Critics and Users")
+```
+
+By looking at the scores, we can see that over the years critics on average have rated games higher and higher while users have become more and more critical.
+
+```{r echo= FALSE}
+game_soundtrack_df %>%
+  filter(is.na(game_user_score) == FALSE) %>%
+  mutate(year = year(game_release_date), critic_scores = (game_critic_score)/10, user_scores = game_user_score) %>% 
+  group_by(year) %>% 
+  summarize(avg_critic = mean(critic_scores), avg_user = mean(user_scores)) %>%
+  ggplot(aes(x= year, y= score))+
+  geom_point(aes(y= avg_critic, colour = "critic")) +
+  geom_point(aes(y= avg_user, colour = "user"))+
+  ggtitle("Average Critic and User Score")
+```
+
+To better understand the data, games were separated into bins based on the sale number it was able to reach. For example, games that were able to hit half a million but not 3/4th of a million are sorted into bin "0.5". Once separated, we can see that users fluxuate much more in their scores year to year than critics, and that there is a big dip in opinion in 2013 for games that sold quarter of a million or more.
+
+```{r echo= FALSE}
+game_soundtrack_df %>%
+filter(is.na(game_user_score) == FALSE) %>%
+filter(is.na(global_sales) == FALSE) %>%
+mutate(year = year(game_release_date), critic_scores = (game_critic_score)/10) %>% 
+group_by(year, sales_per_mil) %>%
+summarize(avg_critic = mean(critic_scores), avg_user = mean(game_user_score)) %>%
+gather(var, score, -c(year, sales_per_mil)) %>%
+ggplot(aes(x= year)) +
+geom_line(aes(y= score, color= sales_per_mil, alpha= sales_per_mil)) +
+facet_wrap(~var)
+```
+
+###Do games that score better sell better?
+
+From previous graphs it is obvious that user scores differ from critic scores both in the actual score and in the variance of their scores. And when looking at scores and sales, we can see that there is a trend of games that scored higher with the critics end up selling more. However, this trend does not appear when comparing the scores users gave and sales. An explanation for this could be that gamers use the professional critic's opinion to base their purchase decisions, but once they play the game for themselves the gamers have differnt opinions. 
+
+
+```{r echo= FALSE}
+game_soundtrack_df %>%
+  filter(!is.na(game_critic_score)) %>%
+  filter(!is.na(game_user_score)) %>%
+  filter(!is.na(global_sales)) %>%
+  mutate(critic_score= game_critic_score/10, user_score= game_user_score) %>%
+  select(critic_score, user_score, global_sales) %>%
+  gather(score_type, score, -c(global_sales)) %>%
+  ggplot(aes(x= score, y= global_sales, colour= score_type)) +
+  geom_point() +
+  geom_smooth(method = lm, se= TRUE, colour= "black") +
+  facet_wrap(~score_type)+
+  ggtitle("How a Game is Scored and Sold (by the millions)")
+
+```
+
+```{r echo= FALSE}
+df<-
+  game_soundtrack_df %>%
+  filter(is.na(game_user_score) == FALSE) %>%
+  filter(is.na(game_critic_score) == FALSE) %>%
+  filter(is.na(global_sales) == FALSE) %>%
+  filter(global_sales < 6)
+```
+
+###Predicting Sales
+
+To best predict sales, a linear regression model needed to be made. Out of all the scoring information available, it was found that the number of positive critic scores predicted the sales the best. 
+
+```{r echo= TRUE}
+cor(df$game_critic_score, df$global_sales)
+cor(df$game_user_score, df$global_sales)
+```
+
+```{r echo= TRUE}
+fit<- lm(global_sales ~ game_critic_score, game_soundtrack_df)
+summary(fit)
+```
+
+```{r echo= TRUE}
+fit2<- lm(global_sales ~ game_user_score, game_soundtrack_df)
+summary(fit2)
+```
+
+We can see that the correlation between critic scores and sales is while positive the correlation between user scores and sales is negative. The Adjusted R-square is better for critic scores than user scores. 
+
+Now we will test try a linear regression with both critic and user scores. There maybe a chance that the more a game sells, the more dissapointed users there will be that leave a negative review. 
+
+```{r echo= TRUE}
+fit3<- lm(global_sales ~ game_critic_score + game_user_score, game_soundtrack_df)
+summary(fit3)
+```
+
+The adjusted square of the combined linear model is more than double compared to the model with only the critic scores. According to the triple stars on the side of variables, both types of scores are significant. However, the variables must be tested as interaction variable to see their effect individually.
+
+```{r echo= TRUE}
+fit4<- lm(global_sales ~ game_critic_score + game_user_score + game_critic_score*game_user_score, game_soundtrack_df)
+summary(fit4)
+```
+
+By looking at the results one can see that even though the addition of user scores increased the adjusted r-square, testing the interaction term resulted in the game_user_score becoming insignificant.
+
+
+###Predicting Sales Part 2
+
+One of the variables available in the game_soundtrack_df dataset is the release date of the games. By separating games by sales and and plotting them by the month they were released, we can see there are high points throughout the year, the highest point being around month 10 or November. Releasing in November probably increases the chance of the game being bought as a gift during the holiday season. From the graph below we can see that this undulating pattern is more prominant in games that sold a million more more. This is likely due to AAA gaming companies having the resources to predict the optimal time to release, and the strict internal policy to release on schedule compared to indie developers. 
+
+```{r echo= FALSE}
+game_soundtrack_df %>%
+  filter(is.na(sales_per_mil) == FALSE) %>%
+  mutate(month= month(game_release_date)) %>%
+  group_by(month, sales_per_mil) %>%
+  count() %>%
+  mutate(number_of_games_sold = n) %>%
+  ggplot(aes(x= month, y= number_of_games_sold, colour= as.factor(sales_per_mil))) +
+  geom_point() +
+  geom_line() +
+  ggtitle("Game sales by month")
+```
+
+Seeing there was such a strong pattern in the release dates, the release month was added to the linear regression. 
+
+```{r echo= TRUE}
+month_test<-
+  game_soundtrack_df %>%
+  mutate(month= as.factor(month(game_release_date)))
+
+fit5<- lm(global_sales ~ game_critic_score + month, month_test)
+summary(fit5)
+```
+
+From the summary of the linear regression above we can see that the month the game is released is significant to its sales if it is released in November. 
+
+###Does the Soundtrack increase users's preception of the game?
+
+Now a linear regression with game sales being tested against the two available metrics of soundtrack popularity, total soundtrack views and average views per soundtrack video, are created.
+
+```{r echo= TRUE}
+fit6<- lm(global_sales ~ video_total_views, data= game_soundtrack_df)
+summary(fit6)
+```
+```{r echo= TRUE}
+fit7<- lm(global_sales ~ video_average_views, data= game_soundtrack_df)
+summary(fit7)
+```
+
+We can see that both metrics are not significant variables to predicting sales. One explination for this is that the music is something that critics and users experience by playing the game after they purchased it. Therefore the music is not a good indicator of whether the game is purchased or not. However, the soundtrack may contribute to how good a critic or user found the game. We can see from the graph below that most games with popular soundtracks were mostly rated 5 or above, and the top 4 most popular soundtracks belong to games that scored 7 or higher.
+
+
+```{r echo= FALSE}
+  game_soundtrack_df %>%
+  filter(!is.na(global_sales)) %>%
+  mutate(game_critic_score= game_critic_score/10, sales_per_mil = cut(global_sales, c(-Inf, 0, 0.25, 0.5, 0.75, 1, Inf), labels = c(0, 0.25, 0.5, 0.75, 1, "+1"))) %>%
+  select(game_user_score, game_critic_score, video_total_views, sales_per_mil) %>%
+  gather(score_type, score, -c(video_total_views, sales_per_mil)) %>%
+  ggplot(aes(x= score, y=video_total_views)) +
+  geom_point(aes(colour= sales_per_mil)) +
+  ggtitle("Scores vs all game soundtracks") +
+  facet_wrap(~score_type)
+```
+
+
+Once we separate games by their sales level, we can see that only games that sold one million or more consistantly have a positive correlation between score and soundtrack popularity. One explination for this is that the game's popularity was what drove interest in the soundtrack, not the other way around. Another explination is that for the most only big budget games have the resources to invest in a good sounding soundtrack, therefore these are the only soundtracks that are listened to.
+
+
+
+```{r echo= FALSE}
+game_soundtrack_df %>%
+  filter(is.na(video_total_views) == FALSE) %>%
+  filter(is.na(sales_per_mil) == FALSE) %>%
+  filter(is.na(game_critic_score) == FALSE) %>%
+  mutate(critic_score= game_critic_score/10) %>%
+  group_by(sales_per_mil, critic_score) %>%
+  summarize(soundtrack_popularity= mean(log(video_total_views))) %>%
+  filter(soundtrack_popularity > 0) %>%
+  ggplot(aes(x = critic_score, y= soundtrack_popularity, colour= as.factor(sales_per_mil))) + 
+  geom_point() +
+  geom_smooth(method = lm, se= TRUE) +
+  facet_wrap(~sales_per_mil) +
+  ggtitle("Soundtrack popularity by Critic Score")
+  
+game_soundtrack_df %>%
+  filter(is.na(video_total_views) == FALSE) %>%
+  filter(is.na(sales_per_mil) == FALSE) %>%
+  filter(is.na(game_user_score) == FALSE) %>%
+  mutate(user_score= game_user_score) %>%
+  group_by(sales_per_mil, user_score) %>%
+  summarize(soundtrack_popularity= mean(log(video_total_views))) %>%
+  filter(soundtrack_popularity > 0) %>%
+  ggplot(aes(x = user_score, y= soundtrack_popularity, colour= as.factor(sales_per_mil))) + 
+  geom_point() +
+  geom_smooth(method = lm, se= TRUE) +
+  facet_wrap(~sales_per_mil) +
+  ggtitle("Soundtrack popularity by User Score")
+```
+
+
+Despite the evidence showing that there is no correlation, we will create a linear regression with scores and soundtrack popularity.
+
+```{r echo= TRUE}
+fit8 = lm(game_user_score ~ video_total_views, data= game_soundtrack_df)
+summary(fit8)
+```
+
+As one can see from the summary above, the total views a soundtrack has is not significant when prediction user scores.
+
+###Conclusion
+
+There are many possible explanations for why soundtrack popularity does not affect how much a game sold or how highly rated it was. A very probable explanation is in the grand scheme of games, the soundtrack just isn't a major factor. Maybe unless a soundtrack is annoying the gamer's overall experience is not affected. Or maybe most game soundtracks are good enough to listen to while playing, but don't have enough appeal to the point that people would look the music up on youtube and listen when away from playing. 
+
+Therefore while it is recommended for game developers creating higher budget to invest a little in to their soundtracks in order to create a polished piece of work, indie developers simiply should create a soundtrack that isn't distracting. 
+
+
+
+
+
+
+
