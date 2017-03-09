@@ -1,0 +1,930 @@
+game_title,game_release_date,game_critic_score,game_user_score,video_number,video_total_views,video_total_likes,video_total_dislikes,video_total_favorites,video_total_comments,game_total_critic_reviews,game_total_user_reviews,game_type,game_rating,game_critic_positive_reviews,game_critic_mixed_reviews,game_critic_negative_reviews,game_user_positive_reviews,game_user_mixed_reviews,game_user_negative_reviews,video_average_views,game_name,links,global_sales
+The Orange Box,2007-10-10,96,9.3,16,9624,158,11,0,52,34,1506,Action,M,34,0,0,227,9,9,601.5,The Orange Box,http://www.vgchartz.com/game/7663/the-orange-box/,0.14
+BioShock,2007-08-21,96,8.5,49,1347339,20804,569,0,3707,44,3650,Action,M,44,0,0,497,130,130,27496.7142857143,BioShock,http://www.vgchartz.com/game/7217/bioshock/,0.41
+Call of Duty 4: Modern Warfare,2007-11-05,92,8.5,48,6341642,89248,3857,0,14358,40,2383,Action,M,40,0,0,339,42,42,132117.541666667,Call of Duty 4: Modern Warfare,http://www.vgchartz.com/game/7608/call-of-duty-4-modern-warfare/,1.15
+Crysis,2007-11-13,91,8,44,1406145,10144,252,0,2421,56,1986,Action,M,56,0,0,273,107,107,31957.8409090909,Crysis,http://www.vgchartz.com/game/7182/crysis/,0.71
+World of Warcraft: The Burning Crusade,2007-01-16,91,7.9,38,2874203,22853,331,0,4644,46,791,Role-Playing,T,45,1,0,77,16,16,75636.9210526316,World of Warcraft: The Burning Crusade,http://www.vgchartz.com/game/7591/world-of-warcraft-the-burning-crusade/,4.09
+Half-Life 2: Episode Two,2007-10-10,90,9.2,50,263140,5485,163,0,465,21,1888,Action,M,21,0,0,292,26,26,5262.8,Half-Life 2,http://www.vgchartz.com/game/7279/half-life-2/,2.37
+World in Conflict,2007-09-18,89,8.1,41,141774,1151,26,0,315,44,302,Strategy,T,43,1,0,42,18,18,3457.90243902439,World in Conflict,http://www.vgchartz.com/game/14503/world-in-conflict/,0.04
+Company of Heroes: Opposing Fronts,2007-09-24,87,8.6,47,357467,2656,72,0,775,36,236,Strategy,M,36,0,0,36,4,4,7605.68085106383,Company of Heroes: Opposing Fronts,http://www.vgchartz.com/game/18479/company-of-heroes-opposing-fronts/,0.04
+Gears of War,2007-11-06,87,7.8,40,1612579,13302,509,0,2125,36,574,Action,M,35,1,0,25,18,18,40314.475,Gears of War,http://www.vgchartz.com/game/13240/gears-of-war/,0.02
+Supreme Commander,2007-02-20,86,8.3,49,319013,2772,154,0,970,44,263,Strategy,E10+,40,4,0,61,10,10,6510.4693877551,Supreme Commander,http://www.vgchartz.com/game/13156/supreme-commander/,0.05
+Sid Meier's Civilization IV: Beyond the Sword,2007-07-23,86,8.6,45,166448,2651,74,0,603,28,174,Strategy,E10+,26,2,0,26,4,4,3698.84444444444,Sid Meier's Civilization IV,http://www.vgchartz.com/game/7308/sid-meiers-civilization-iv/,0.16
+The Lord of the Rings Online: Shadows of Angmar,2007-04-24,86,8.1,27,245037,667,41,0,421,40,259,Role-Playing,T,39,1,0,58,20,20,9075.44444444445,The Lord of the Rings Online: Shadows of Angmar,http://www.vgchartz.com/gamedb/?name=The+Lord+of+the+Rings+Online%3A+Shadows+of+Angmar,0
+IL-2 Sturmovik: 1946,2007-03-13,86,8.8,23,108517,1478,38,0,594,9,116,Simulation,T,9,0,0,20,1,1,4718.13043478261,IL-2 Sturmovik: 1946,http://www.vgchartz.com/game/26046/il-2-sturmovik-1946/,0.04
+The Elder Scrolls IV: Shivering Isles,2007-03-26,86,8.4,18,1320974,17803,360,0,4947,34,185,Role-Playing,M,33,1,0,20,2,2,73387.4444444444,The Elder Scrolls IV: Shivering Isles,NA,0.26
+Command & Conquer 3: Tiberium Wars,2007-03-26,85,8,47,6489753,42873,2603,0,9522,47,395,Strategy,T,43,4,0,51,16,16,138079.85106383,Command & Conquer 3: Tiberium Wars,http://www.vgchartz.com/game/7473/command-amp-conquer-3-tiberium-wars/,0.07
+Medieval II: Total War Kingdoms,2007-08-28,85,8.8,24,972563,7693,432,0,2450,22,170,Strategy,T,21,1,0,17,3,3,40523.4583333333,Medieval II: Total War,http://www.vgchartz.com/game/13249/medieval-ii-total-war/,0.11
+Puzzle Quest: Challenge of the Warlords,2007-10-10,84,8.3,28,154008,308,49,0,65,7,85,Miscellaneous,E10+,6,1,0,14,4,4,5500.28571428571,Puzzle Quest: Challenge of the Warlords,http://www.vgchartz.com/gamedb/?name=Puzzle+Quest%3A+Challenge+of+the+Warlords,0
+DiRT,2007-06-19,84,7.3,31,27994513,46360,5805,0,4118,20,92,Driving,E,20,0,0,9,9,9,903048.806451613,DiRT,http://www.vgchartz.com/game/20132/dirt/,0.02
+Unreal Tournament III,2007-11-19,83,8,35,449899,3094,110,0,675,41,527,Action,M,38,3,0,68,28,28,12854.2571428571,Unreal Tournament III,http://www.vgchartz.com/game/12713/unreal-tournament-iii/,0.06
+Tomb Raider: Anniversary,2007-06-05,83,8,40,2521272,14997,295,0,5133,26,244,Action Adventure,T,25,1,0,32,10,10,63031.8,Tomb Raider: Anniversary,http://www.vgchartz.com/game/28268/tomb-raider-anniversary/,0.03
+RACE 07: Official WTCC Game,2007-10-09,83,9,22,464820,3566,76,0,854,22,181,Driving,E,20,2,0,26,2,2,21128.1818181818,RACE 07: Official WTCC Game,http://www.vgchartz.com/gamedb/?name=RACE+07%3A+Official+WTCC+Game,0
+EverQuest II: Rise of Kunark,2007-11-13,83,7.9,49,39070,699,15,0,217,9,13,Role-Playing,T,9,0,0,6,0,0,797.34693877551,EverQuest II: Rise of Kunark,http://www.vgchartz.com/gamedb/?name=EverQuest+II%3A+Rise+of+Kunark,0
+Europa Universalis III,2007-01-23,83,8.4,30,24478,218,44,0,156,25,196,Strategy,E,21,4,0,28,8,8,815.933333333333,Europa Universalis III,http://www.vgchartz.com/game/17392/europa-universalis-iii/,0.01
+Sam & Max Episode 105: Reality 2.0,2007-03-29,82,8.4,37,112607,1657,26,0,586,23,16,Adventure,NA,20,3,0,1,0,0,3043.43243243243,Sam & Max Episode 105: Reality 2.0,NA,NA
+Neverwinter Nights 2: Mask of The Betrayer,2007-10-09,82,8.8,1,76659,103,8,0,16,25,185,Role-Playing,T,22,3,0,24,5,5,76659,Neverwinter Nights 2,http://www.vgchartz.com/game/7446/neverwinter-nights-2/,0.02
+S.T.A.L.K.E.R.: Shadow of Chernobyl,2007-03-20,82,8.4,36,76137,537,18,0,170,44,1107,Action,M,37,7,0,184,40,40,2114.91666666667,S.T.A.L.K.E.R.: Shadow of Chernobyl,http://www.vgchartz.com/game/12826/stalker-shadow-of-chernobyl/,0.06
+Sam & Max Episode 201: Ice Station Santa,2007-11-08,82,8.5,41,4755854,10612,1126,0,1070,32,15,Adventure,T,29,3,0,2,0,0,115996.43902439,Sam & Max Episode 201: Ice Station Santa,NA,NA
+Supreme Commander: Forged Alliance,2007-11-06,81,8.9,45,1252480,36446,336,0,4025,35,219,Strategy,E10+,31,4,0,42,5,5,27832.8888888889,Supreme Commander: Forged Alliance,http://www.vgchartz.com/game/13157/supreme-commander-forged-alliance/,0.04
+The Witcher,2007-10-30,81,8.8,0,0,0,0,0,0,50,1124,Role-Playing,M,40,10,0,160,15,15,NaN,The Witcher,http://www.vgchartz.com/game/12396/the-witcher/,0.06
+Jade Empire: Special Edition,2007-02-26,81,8.2,26,298063,2631,198,0,813,29,238,Role-Playing,M,24,5,0,21,12,12,11463.9615384615,Jade Empire: Special Edition,http://www.vgchartz.com/game/26515/jade-empire-special-edition/,0
+Age of Empires III: The Asian Dynasties,2007-10-23,81,8.5,50,146190,1821,67,0,798,19,74,Strategy,T,17,2,0,9,1,1,2923.8,Age of Empires III: The Asian Dynasties,http://www.vgchartz.com/game/7426/age-of-empires-iii-the-asian-dynasties/,0.06
+Sam & Max Episode 104: Abe Lincoln Must Die!,2007-02-22,80,7.7,0,0,0,0,0,0,24,39,Adventure,NA,20,4,0,9,1,1,NaN,Sam & Max Episode 104: Abe Lincoln Must Die!,NA,NA
+Titan Quest: Immortal Throne,2007-03-05,80,8.7,48,381885,1321,118,0,706,23,218,Role-Playing,T,20,3,0,41,0,0,7955.9375,Titan Quest: Immortal Throne,http://www.vgchartz.com/game/18612/titan-quest-immortal-throne/,0
+Test Drive Unlimited,2007-03-20,79,8.2,34,3779624,25726,869,0,2111,18,123,Driving,T,16,2,0,13,1,1,111165.411764706,Test Drive Unlimited,http://www.vgchartz.com/game/23911/test-drive-unlimited/,0.02
+Sword of the Stars: Born of Blood,2007-06-05,79,8.1,50,730399,4680,136,0,1280,9,13,Strategy,E10+,8,1,0,4,0,0,14607.98,Sword of the Stars: Born of Blood,http://www.vgchartz.com/gamedb/?name=Sword+of+the+Stars%3A+Born+of+Blood,0
+Sam & Max Episode 106: Bright Side of the Moon,2007-04-26,79,7.3,0,0,0,0,0,0,26,12,Adventure,T,NA,NA,NA,NA,NA,NA,NaN,Sam & Max Episode 106: Bright Side of the Moon,NA,NA
+Guitar Hero III: Legends of Rock,2007-11-13,79,7.2,50,122426,799,37,0,251,15,63,Action,T,11,4,0,9,2,2,2448.52,Guitar Hero III: Legends of Rock,http://www.vgchartz.com/game/22012/guitar-hero-iii-legends-of-rock/,0.02
+Shadowgrounds Survivor,2007-12-06,79,7.8,49,1321663,13917,564,0,2206,21,62,Action,M,17,4,0,11,8,8,26972.7142857143,Shadowgrounds Survivor,http://www.vgchartz.com/gamedb/?name=Shadowgrounds+Survivor,0
+Guild Wars: Eye of the North,2007-08-28,79,8.6,8,140002,844,62,0,153,20,71,Role-Playing,T,15,5,0,8,2,2,17500.25,Guild Wars,http://www.vgchartz.com/game/7417/guild-wars/,0.04
+Nancy Drew: Legend of the Crystal Skull,2007-10-08,79,8.3,13,42234,631,5,0,142,9,7,Adventure,E,NA,NA,NA,NA,NA,NA,3248.76923076923,Nancy Drew: Legend of the Crystal Skull,http://www.vgchartz.com/gamedb/?name=Nancy+Drew%3A+Legend+of+the+Crystal+Skull,NA
+The Sims 2 Seasons,2007-02-27,78,7.3,0,0,0,0,0,0,20,29,Miscellaneous,T,15,5,0,4,1,1,NaN,The Sims 2,http://www.vgchartz.com/game/6479/the-sims-2/,0.29
+Viva Pinata,2007-11-06,78,7.8,13,20305315,125816,3036,0,7232,20,20,Simulation,E,17,2,1,2,0,0,1561947.30769231,Viva Pinata,http://www.vgchartz.com/game/13239/viva-pinata/,0.02
+Medal of Honor: Airborne,2007-09-04,78,7.3,29,11274,140,10,0,59,38,204,Action,T,26,12,0,20,10,10,388.758620689655,Medal of Honor: Airborne,http://www.vgchartz.com/game/21980/medal-of-honor-airborne/,0.05
+Tabula Rasa,2007-10-30,78,8,36,1298718,9345,92,0,2868,34,104,Role-Playing,T,28,6,0,40,9,9,36075.5,Tabula Rasa,http://www.vgchartz.com/gamedb/?name=Tabula+Rasa,0
+Universe at War: Earth Assault,2007-12-10,77,8.5,21,31840,362,1,0,261,48,142,Strategy,T,33,15,0,47,12,12,1516.19047619048,Universe at War: Earth Assault,http://www.vgchartz.com/game/14502/universe-at-war-earth-assault/,0.01
+FIFA Soccer 08,2007-10-09,77,6.1,30,1712593,12796,577,0,3232,7,50,Sports,E,4,3,0,4,7,7,57086.4333333333,FIFA Soccer 08,http://www.vgchartz.com/game/7651/fifa-soccer-08/,0.02
+Stranglehold,2007-09-18,77,7.4,50,1080840,25913,431,0,5319,15,76,Action,M,12,3,0,3,4,4,21616.8,Stranglehold,http://www.vgchartz.com/game/19997/stranglehold/,0
+Battlefield 2142: Northern Strike,2007-03-08,77,8.9,50,2017036,11005,395,0,3339,15,45,Action,T,9,6,0,7,0,0,40340.72,Battlefield 2142: Northern Strike,http://www.vgchartz.com/game/27940/battlefield-2142-northern-strike/,NA
+Battlestations: Midway,2007-01-30,76,7.3,36,1200734,5240,326,0,1075,20,46,Strategy,T,12,8,0,7,7,7,33353.7222222222,Battlestations: Midway,http://www.vgchartz.com/game/24742/battlestations-midway/,0.01
+Tom Clancy's Ghost Recon Advanced Warfighter 2,2007-07-17,76,7.2,31,31904,343,7,0,81,24,66,Action,T,15,9,0,6,8,8,1029.16129032258,Tom Clancy's Ghost Recon Advanced Warfighter 2,http://www.vgchartz.com/game/16128/tom-clancys-ghost-recon-advanced-warfighter-2/,0.01
+Geometry Wars: Retro Evolved,2007-03-07,76,8.8,5,476477,17759,351,0,3750,7,80,Action,E,4,3,0,25,4,4,95295.4,Geometry Wars: Retro Evolved,http://www.vgchartz.com/gamedb/?name=Geometry+Wars%3A+Retro+Evolved,0
+Resident Evil 4,2007-05-15,76,7.4,31,30024,389,26,0,139,15,246,Action Adventure,M,8,7,0,24,20,20,968.516129032258,Resident Evil 4,http://www.vgchartz.com/game/70995/resident-evil-4/,0.03
+City Life: World Edition,2007-02-09,75,8.2,41,192017,2211,98,0,801,7,9,Strategy,E,3,4,0,3,0,0,4683.34146341463,City Life: World Edition,http://www.vgchartz.com/game/27048/city-life-world-edition/,0.04
+Sega Rally Revo,2007-11-19,74,7.6,45,764254,5267,634,0,1132,9,18,Driving,E,7,1,1,2,1,1,16983.4222222222,Sega Rally Revo,http://www.vgchartz.com/game/23580/sega-rally-revo/,0.01
+ArmA: Combat Operations,2007-05-04,74,8,38,112529,841,40,0,208,27,79,Action,M,11,16,0,32,4,4,2961.28947368421,ArmA: Combat Operations,http://www.vgchartz.com/game/27044/arma-combat-operations/,NA
+Destination: Treasure Island,2007-08-21,74,7.7,48,274862,6669,239,0,986,11,6,Adventure,E10+,8,3,0,1,0,0,5726.29166666667,Destination: Treasure Island,http://www.vgchartz.com/gamedb/?name=Destination%3A+Treasure+Island,0
+"Sam & Max Episode 103: The Mole, the Mob and the Meatball",2007-01-25,74,8.2,30,1885427,15937,527,0,4088,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,62847.5666666667,"Sam & Max Episode 103: The Mole, the Mob and the Meatball",NA,NA
+The Sims 2: Bon Voyage,2007-09-04,74,7.3,1,3381690,20556,1122,0,5607,9,24,Simulation,T,7,1,1,5,0,0,3381690,The Sims 2: Bon Voyage,http://www.vgchartz.com/game/12481/the-sims-2-bon-voyage/,0.03
+War Front: Turning Point,2007-02-23,73,7.2,40,43274,312,14,0,120,29,9,Strategy,T,16,13,0,2,1,1,1081.85,War Front: Turning Point,http://www.vgchartz.com/gamedb/?name=War+Front%3A+Turning+Point,0
+Secrets of the Ark: A Broken Sword Game,2007-02-13,73,6.1,14,140706,2694,68,0,560,31,32,Adventure,T,16,14,1,5,1,1,10050.4285714286,Secrets of the Ark: A Broken Sword Game,http://www.vgchartz.com/gamedb/?name=Secrets+of+the+Ark%3A+A+Broken+Sword+Game,0
+Penumbra: Overture,2007-05-08,73,7.8,7,19963,250,3,0,61,28,156,Action Adventure,M,16,12,0,25,12,12,2851.85714285714,Penumbra: Overture,http://www.vgchartz.com/game/26152/penumbra-overture/,0
+Nancy Drew: The White Wolf of Icicle Creek,2007-06-07,73,6.4,0,0,0,0,0,0,9,8,Adventure,E,3,6,0,0,1,1,NaN,Nancy Drew: The White Wolf of Icicle Creek,http://www.vgchartz.com/gamedb/?name=Nancy+Drew%3A+The+White+Wolf+of+Icicle+Creek,0
+The Sims: Life Stories,2007-02-06,72,7.6,48,359645,5991,70,0,2132,21,16,Simulation,T,9,12,0,3,2,2,7492.60416666667,The Sims: Life Stories,http://www.vgchartz.com/game/20017/the-sims-life-stories/,0.01
+Sherlock Holmes: The Awakened,2007-09-11,72,7.4,9,7034727,25682,1822,0,2729,28,38,Adventure,M,14,12,2,2,1,1,781636.333333333,Sherlock Holmes: The Awakened,http://www.vgchartz.com/game/31030/sherlock-holmes-the-awakened/,0
+Call of Juarez,2007-06-12,72,7.9,12,914031,20659,490,0,9339,25,224,Action,M,12,11,2,29,9,9,76169.25,Call of Juarez,http://www.vgchartz.com/game/27047/call-of-juarez/,0.01
+Blazing Angels 2: Secret Missions of WWII,2007-09-21,72,4.9,50,101636,2430,45,0,821,9,9,Simulation,T,5,3,1,0,0,0,2032.72,Blazing Angels 2: Secret Missions of WWII,http://www.vgchartz.com/game/25270/blazing-angels-2-secret-missions-of-wwii/,0
+Halo 2,2007-05-31,72,5.5,19,95489,1215,21,0,453,32,217,Action,M,14,18,0,22,11,11,5025.73684210526,Halo 2,http://www.vgchartz.com/game/12372/halo-2/,0.09
+UFO: Afterlight,2007-06-11,71,7.6,13,139364,212,1,0,620,16,52,Strategy,T,10,5,1,19,2,2,10720.3076923077,UFO: Afterlight,http://www.vgchartz.com/game/23832/ufo-afterlight/,0
+Brian Lara International Cricket 2007,2007-03-23,71,8.3,48,175067,4527,61,0,1202,7,7,Sports,NA,2,5,0,1,0,0,3647.22916666667,Brian Lara International Cricket 2007,http://www.vgchartz.com/game/38395/brian-lara-international-cricket-2007/,NA
+TimeShift,2007-10-30,71,7.6,50,147034,3821,48,0,651,30,126,Action,M,15,15,0,14,8,8,2940.68,TimeShift,http://www.vgchartz.com/game/21975/timeshift/,0.01
+Hellgate: London,2007-10-31,70,6.3,31,87643,289,14,0,86,40,375,Role-Playing,M,11,27,2,76,43,43,2827.1935483871,Hellgate: London,http://www.vgchartz.com/game/18611/hellgate-london/,0.02
+Thrillville: Off the Rails,2007-10-09,70,3,49,8784758,75948,2867,0,24972,8,34,Strategy,E10+,4,3,1,1,2,2,179280.775510204,Thrillville: Off the Rails,http://www.vgchartz.com/game/30012/thrillville-off-the-rails/,0
+Need for Speed: ProStreet,2007-11-13,70,6,49,90769,857,36,0,447,18,166,Driving,E10+,7,11,0,6,10,10,1852.42857142857,Need for Speed: ProStreet,http://www.vgchartz.com/game/15254/need-for-speed-prostreet/,0.04
+Making History: The Calm and the Storm,2007-03-13,70,8.8,15,677918,1636,129,0,513,19,68,Strategy,E,7,12,0,17,4,4,45194.5333333333,Making History: The Calm and the Storm,http://www.vgchartz.com/gamedb/?name=Making+History%3A+The+Calm+and+the+Storm,NA
+Top Spin 2,2007-03-16,70,7.2,18,49336,1327,18,0,107,8,20,Sports,E,2,6,0,2,1,1,2740.88888888889,Top Spin 2,http://www.vgchartz.com/game/33429/top-spin-2/,0
+Nostradamus: The Last Prophecy,2007-09-30,70,5.9,45,32017,223,21,0,81,10,8,Adventure,E10+,2,7,1,1,1,1,711.488888888889,Nostradamus: The Last Prophecy,http://www.vgchartz.com/game/26388/nostradamus-the-last-prophecy/,0
+Heroes of Might and Magic V: Tribes of the East,2007-10-16,70,8.6,50,87195,358,47,0,229,8,91,Strategy,T,3,5,0,9,0,0,1743.9,Heroes of Might and Magic V: Tribes of the East,http://www.vgchartz.com/game/26031/heroes-of-might-and-magic-v-tribes-of-the-east/,0
+Rag Doll Kung Fu,2007-02-12,69,5,49,8422566,42431,1895,0,10760,7,107,Action,T,3,4,0,21,9,9,171889.102040816,Rag Doll Kung Fu,http://www.vgchartz.com/gamedb/?name=Rag+Doll+Kung+Fu,0
+FreeStyle Street Basketball,2007-05-15,69,8.4,26,462362,5237,243,0,911,11,8,Sports,E,2,9,0,5,1,1,17783.1538461538,FreeStyle Street Basketball,http://www.vgchartz.com/gamedb/?name=FreeStyle+Street+Basketball,NA
+Death to Spies,2007-10-16,69,7.7,13,1919257,15443,632,0,2306,14,32,Action Adventure,M,5,6,3,1,5,5,147635.153846154,Death to Spies,http://www.vgchartz.com/game/19932/death-to-spies/,0
+Vanguard: Saga of Heroes,2007-01-30,68,7.1,6,103898,899,15,0,109,32,123,Role-Playing,T,11,19,2,49,9,9,17316.3333333333,Vanguard: Saga of Heroes,http://www.vgchartz.com/game/33135/vanguard-saga-of-heroes/,0
+UFO: Extraterrestrials,2007-05-30,68,6.9,47,402804,2344,55,0,905,15,35,Strategy,E10+,5,10,0,7,3,3,8570.29787234042,UFO: Extraterrestrials,http://www.vgchartz.com/game/34309/ufo-extraterrestrials/,0.01
+Avencast: Rise of the Mage,2007-11-14,68,7.3,9,17145,148,9,0,34,11,34,Role-Playing,T,4,6,1,5,2,2,1905,Avencast: Rise of the Mage,http://www.vgchartz.com/game/28058/avencast-rise-of-the-mage/,NA
+Championship Manager 2008,2007-11-06,68,6.8,34,301820,4462,1159,0,516,9,4,Sports,NA,2,6,1,1,1,1,8877.05882352941,Championship Manager 2008,http://www.vgchartz.com/game/37392/championship-manager-2008/,0
+Alien Shooter: Vengeance,2007-02-16,67,8.3,24,398395,585,44,0,134,17,49,Action,M,7,9,1,9,4,4,16599.7916666667,Alien Shooter: Vengeance,http://www.vgchartz.com/game/51510/alien-shooter-vengeance/,NA
+Fantasy Wars,2007-11-08,67,8.4,32,20677,170,4,0,117,22,42,Strategy,T,10,10,2,13,2,2,646.15625,Fantasy Wars,http://www.vgchartz.com/game/24382/fantasy-wars/,0
+Shadowrun,2007-05-29,67,6.3,18,35933,434,13,0,162,30,36,Action,M,8,21,1,6,1,1,1996.27777777778,Shadowrun,http://www.vgchartz.com/game/13312/shadowrun/,0
+Kane & Lynch: Dead Men,2007-11-20,67,5.9,28,13553,97,4,0,50,24,238,Action,M,6,17,1,24,12,12,484.035714285714,Kane & Lynch: Dead Men,http://www.vgchartz.com/game/12252/kane-amp-lynch-dead-men/,0
+The Sims: Pet Stories,2007-06-19,67,7.8,5,4248,165,2,0,43,10,20,Simulation,T,2,7,1,13,0,0,849.6,The Sims,http://www.vgchartz.com/game/6478/the-sims/,0.05
+Runaway: The Dream of the Turtle,2007-03-14,67,8.1,44,131551,541,45,0,133,26,59,Adventure,T,7,18,1,6,1,1,2989.79545454545,Runaway: The Dream of the Turtle,http://www.vgchartz.com/gamedb/?name=Runaway%3A+The+Dream+of+the+Turtle,0
+Culpa Innata,2007-11-02,66,7.9,0,0,0,0,0,0,13,42,Adventure,M,4,8,1,14,3,3,NaN,Culpa Innata,http://www.vgchartz.com/gamedb/?name=Culpa+Innata,NA
+Team Fortress 2,2008-04-08,92,9.1,48,447355,4975,210,0,1325,17,5980,Action,M,17,0,0,NA,69,69,9319.89583333333,Team Fortress 2,http://www.vgchartz.com/game/14233/team-fortress-2/,0
+Galactic Civilizations II: Twilight of the Arnor,2008-04-30,92,8.4,49,41722904,146209,11479,0,11326,19,132,Strategy,NA,19,0,0,18,4,4,851487.836734694,Galactic Civilizations II: Twilight of the Arnor,http://www.vgchartz.com/gamedb/?name=Galactic+Civilizations+II%3A+Twilight+of+the+Arnor,0
+World of Warcraft: Wrath of the Lich King,2008-11-13,91,7.5,25,2367819,98054,929,0,10903,47,940,Role-Playing,T,47,0,0,61,23,23,94712.76,World of Warcraft: Wrath of the Lich King,http://www.vgchartz.com/game/13834/world-of-warcraft-wrath-of-the-lich-king/,1.32
+Fallout 3,2008-10-28,91,7.9,10,4831,58,1,0,17,48,3491,Role-Playing,M,45,3,0,430,115,115,483.1,Fallout 3,http://www.vgchartz.com/game/13869/fallout-3/,0.98
+Portal,2008-04-08,90,9.3,3,2926,113,4,0,16,27,4141,Action,T,27,0,0,757,43,43,975.333333333333,Portal,http://www.vgchartz.com/game/12414/portal/,0.01
+Grand Theft Auto IV,2008-12-02,90,6.6,35,2932714,34062,1073,0,7798,40,2319,Action Adventure,M,38,2,0,187,89,89,83791.8285714286,Grand Theft Auto IV,http://www.vgchartz.com/game/25503/grand-theft-auto-iv/,0.88
+Mass Effect,2008-05-28,89,8.6,33,43848,874,18,0,210,45,2430,Role-Playing,M,45,0,0,265,48,48,1328.72727272727,Mass Effect,http://www.vgchartz.com/game/16067/mass-effect/,0.67
+GRID,2008-06-03,87,7.9,49,4047833,33706,511,0,6909,25,465,Driving,E,24,1,0,76,18,18,82608.8367346939,GRID,http://www.vgchartz.com/game/21864/grid/,0.04
+Sins of a Solar Empire,2008-02-04,87,8.2,20,324867,19317,113,0,2511,52,275,Strategy,T,51,1,0,78,10,10,16243.35,Sins of a Solar Empire,http://www.vgchartz.com/game/15876/sins-of-a-solar-empire/,0.03
+Warhammer Online: Age of Reckoning,2008-09-16,86,7.9,15,237400,2396,48,0,528,54,374,Role-Playing,T,52,2,0,103,20,20,15826.6666666667,Warhammer Online: Age of Reckoning,http://www.vgchartz.com/game/26942/warhammer-online-age-of-reckoning/,0.02
+Dead Space,2008-10-20,86,8,39,3194961,56306,744,0,17010,28,1116,Action,M,27,1,0,156,47,47,81922.0769230769,Dead Space,http://www.vgchartz.com/game/23324/dead-space/,0.59
+"Sam & Max Episode 205: What's New, Beelzebub?",2008-04-10,85,7.9,35,9032068,58817,4264,0,8510,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,258059.085714286,"Sam & Max Episode 205: What's New, Beelzebub?",NA,NA
+The Lord of the Rings Online: Mines of Moria,2008-11-17,85,8.2,49,22198109,240081,6229,0,36540,24,99,Role-Playing,T,23,1,0,23,1,1,453022.632653061,The Lord of the Rings Online: Mines of Moria,http://www.vgchartz.com/game/26689/the-lord-of-the-rings-online-mines-of-moria/,0.02
+Peggle Deluxe,2008-02-19,85,8.1,0,0,0,0,0,0,9,120,Miscellaneous,E,9,0,0,19,4,4,NaN,Peggle Deluxe,http://www.vgchartz.com/gamedb/?name=Peggle+Deluxe,NA
+Sam & Max Episode 204: Chariots of the Dogs,2008-03-13,85,8.1,21,217276,1452,21,0,254,23,10,Adventure,T,18,5,0,1,0,0,10346.4761904762,Sam & Max Episode 204: Chariots of the Dogs,NA,NA
+Far Cry 2,2008-10-21,85,5.8,47,980115,10628,228,0,2641,34,1353,Action,M,26,8,0,129,125,125,20853.5106382979,Far Cry 2,http://www.vgchartz.com/game/7430/far-cry-2/,0.48
+AudioSurf,2008-02-15,85,8.8,13,1512309,11538,127,0,1745,25,708,Miscellaneous,NA,24,1,0,185,28,28,116331.461538462,AudioSurf,http://www.vgchartz.com/game/16788/audiosurf/,NA
+Spore,2008-09-07,84,5.3,44,115124,947,45,0,422,75,1716,Strategy,E10+,62,13,0,169,121,121,2616.45454545455,Spore,http://www.vgchartz.com/game/14151/spore/,1.17
+Crysis Warhead,2008-09-16,84,7.9,47,533574,7614,120,0,2202,56,519,Action,M,50,6,0,65,24,24,11352.6382978723,Crysis,http://www.vgchartz.com/game/7182/crysis/,0.71
+Call of Duty: World at War,2008-11-10,83,7.5,40,409746,9015,164,0,2373,36,728,Action,M,31,5,0,66,40,40,10243.65,Call of Duty: World at War,http://www.vgchartz.com/game/23994/call-of-duty-world-at-war/,0.18
+Spore Creature Creator,2008-06-17,83,8.1,0,0,0,0,0,0,7,60,Strategy,E,7,0,0,15,5,5,NaN,Spore,http://www.vgchartz.com/game/14151/spore/,1.17
+GTR Evolution,2008-09-01,83,8.2,31,9743115,34448,2626,0,5232,19,63,Driving,E,18,1,0,5,2,2,314294.032258065,GTR Evolution,http://www.vgchartz.com/game/25388/gtr-evolution/,0.03
+Sid Meier's Civilization IV: Colonization,2008-09-22,83,6.7,29,7842556,7211,4160,0,474,32,96,Strategy,E10+,28,4,0,11,10,10,270432.965517241,Sid Meier's Civilization IV,http://www.vgchartz.com/game/7308/sid-meiers-civilization-iv/,0.16
+Out of the Park Baseball 9,2008-06-01,82,7.4,0,0,0,0,0,0,7,8,Sports,E,5,2,0,2,0,0,NaN,Out of the Park Baseball 9,http://www.vgchartz.com/gamedb/?name=Out+of+the+Park+Baseball+9,0
+Strong Bad's Cool Game for Attractive People Episode 2: Strong Badia the Free,2008-09-15,81,8.2,38,3574048,44012,1462,0,9715,22,13,Miscellaneous,E10+,18,4,0,1,0,0,94053.8947368421,Strong Bad's Cool Game for Attractive People Episode 2: Strong Badia the Free,http://www.vgchartz.com/game/39661/strong-bads-cool-game-for-attractive-people-episode-2-strong-badia-the-free/,NA
+Age of Conan: Hyborian Adventures,2008-05-20,80,7.3,45,903036,10395,640,0,1371,44,813,Role-Playing,M,36,8,0,221,51,51,20067.4666666667,Age of Conan: Hyborian Adventures,http://www.vgchartz.com/game/14530/age-of-conan-hyborian-adventures/,0
+Sam & Max Episode 202: Moai Better Blues,2008-01-10,80,7.7,43,420055,8881,188,0,1974,30,9,Adventure,T,25,5,0,2,0,0,9768.72093023256,Sam & Max Episode 202: Moai Better Blues,NA,NA
+Pure,2008-09-16,80,7,37,479572,7508,131,0,1274,18,30,Driving,E,16,2,0,0,0,0,12961.4054054054,Pure,http://www.vgchartz.com/gamedb/?name=Pure,0
+Tomb Raider: Underworld,2008-11-18,80,7.7,40,8900860,157093,2867,0,18448,20,274,Action Adventure,T,18,2,0,33,14,14,222521.5,Tomb Raider: Underworld,http://www.vgchartz.com/game/21885/tomb-raider-underworld/,0.08
+LEGO Batman: The Videogame,2008-09-23,80,7.8,49,25165857,362029,9075,0,56695,15,62,Action Adventure,E10+,13,2,0,6,1,1,513588.918367347,LEGO Batman: The Videogame,http://www.vgchartz.com/game/19095/lego-batman-the-videogame/,0.07
+Brothers in Arms: Hell's Highway,2008-10-07,79,7.9,9,1086080,5638,160,0,1293,22,132,Action,M,18,4,0,28,2,2,120675.555555556,Brothers in Arms: Hell's Highway,http://www.vgchartz.com/game/24383/brothers-in-arms-hells-highway/,0.02
+Europa Universalis: Rome - Vae Victis,2008-11-19,79,8.6,34,208679,2089,74,0,417,7,21,Strategy,E10+,5,2,0,2,0,0,6137.61764705882,Europa Universalis: Rome,http://www.vgchartz.com/game/17394/europa-universalis-rome/,0
+Pro Evolution Soccer 2009,2008-11-12,79,7.4,47,6493302,42900,2603,0,9529,12,34,Sports,E,9,3,0,2,0,0,138155.361702128,Pro Evolution Soccer 2009,NA,0.01
+Assassin's Creed: Director's Cut Edition,2008-04-08,79,7.5,50,4107536,18461,765,0,3622,38,809,Action Adventure,M,30,8,0,84,55,55,82150.72,Assassin's Creed,http://www.vgchartz.com/game/16095/assassins-creed/,0.91
+Strong Bad's Cool Game for Attractive People Episode 3: Baddest of the Bands,2008-10-27,79,8.1,17,8229764,98770,2623,0,28734,18,8,Miscellaneous,E10+,11,7,0,1,0,0,484103.764705882,Strong Bad's Cool Game for Attractive People Episode 3: Baddest of the Bands,http://www.vgchartz.com/game/39662/strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands/,NA
+Sam & Max Episode 203: Night of the Raving Dead,2008-02-12,79,8.2,32,9574,137,3,0,143,26,13,Adventure,T,19,7,0,1,0,0,299.1875,Sam & Max Episode 203: Night of the Raving Dead,NA,NA
+FlatOut: Ultimate Carnage,2008-08-26,79,7.7,32,1365285,6864,272,0,1158,16,129,Driving,T,12,4,0,15,2,2,42665.15625,FlatOut: Ultimate Carnage,http://www.vgchartz.com/game/14754/flatout-ultimate-carnage/,0.01
+King's Bounty: The Legend,2008-09-23,79,8.6,0,0,0,0,0,0,26,265,Strategy,T,21,5,0,37,4,4,NaN,King's Bounty: The Legend,http://www.vgchartz.com/game/18062/kings-bounty-the-legend/,0
+LEGO Indiana Jones: The Original Adventures,2008-06-03,78,7.7,12,8158056,42796,1768,0,3563,14,35,Adventure,E10+,11,3,0,7,0,0,679838,LEGO Indiana Jones: The Original Adventures,http://www.vgchartz.com/game/15201/lego-indiana-jones-the-original-adventures/,0.04
+Tom Clancy's Rainbow Six: Vegas 2,2008-04-15,78,7.3,16,624416,1732,259,0,299,20,186,Action,M,16,4,0,32,16,16,39026,Tom Clancy's Rainbow Six: Vegas 2,http://www.vgchartz.com/game/15671/tom-clancys-rainbow-six-vegas-2/,0.02
+Devil May Cry 4,2008-07-08,78,8.5,16,1621096,9980,322,0,2332,21,355,Action,M,15,6,0,36,6,6,101318.5,Devil May Cry 4,http://www.vgchartz.com/game/14143/devil-may-cry-4/,0.04
+Penumbra: Black Plague,2008-02-13,78,8.7,50,40444106,95887,11509,0,9333,29,176,Action Adventure,M,21,8,0,40,2,2,808882.12,Penumbra: Black Plague,http://www.vgchartz.com/gamedb/?name=Penumbra%3A+Black+Plague,0
+Bejeweled Twist,2008-10-27,78,7.3,49,152573,1343,27,0,537,12,11,Miscellaneous,E,8,4,0,2,0,0,3113.73469387755,Bejeweled Twist,http://www.vgchartz.com/game/33580/bejeweled-twist/,0.05
+FIFA Soccer 09,2008-10-14,77,6.8,48,517992,5616,130,0,1254,15,36,Sports,E,11,4,0,1,1,1,10791.5,FIFA Soccer 09,http://www.vgchartz.com/game/25799/fifa-soccer-09/,0.02
+Command & Conquer 3: Kane's Wrath,2008-03-24,77,8.1,11,198534,808,73,0,62,44,105,Strategy,T,32,12,0,11,8,8,18048.5454545455,Command & Conquer 3: Kane's Wrath,http://www.vgchartz.com/game/15705/command-amp-conquer-3-kanes-wrath/,0.02
+Penny Arcade Adventures: Episode One,2008-05-21,77,8.3,34,1182867,20531,471,0,2757,23,90,Adventure,M,18,4,1,43,2,2,34790.2058823529,Penny Arcade Adventures: Episode One,http://www.vgchartz.com/gamedb/?name=Penny+Arcade+Adventures%3A+Episode+One,NA
+Pirates of the Burning Sea,2008-01-21,76,7.6,35,12205,179,4,0,50,30,61,Role-Playing,T,23,6,1,17,3,3,348.714285714286,Pirates of the Burning Sea,http://www.vgchartz.com/game/26484/pirates-of-the-burning-sea/,0.02
+S.T.A.L.K.E.R.: Clear Sky,2008-09-15,75,7.7,0,0,0,0,0,0,47,484,Action,M,24,22,1,45,28,28,NaN,S.T.A.L.K.E.R.: Clear Sky,http://www.vgchartz.com/game/25387/stalker-clear-sky/,0.04
+The Sims 2 Apartment Life,2008-08-26,75,7.7,50,186152,3021,119,0,691,10,19,Miscellaneous,T,5,5,0,1,0,0,3723.04,The Sims 2,http://www.vgchartz.com/game/6479/the-sims-2/,0.29
+A Vampyre Story,2008-12-02,75,8.5,45,62081,949,56,0,216,33,25,Adventure,T,19,12,2,3,0,0,1379.57777777778,A Vampyre Story,http://www.vgchartz.com/game/26652/a-vampyre-story/,0.02
+Dungeon Runners,2008-07-02,74,5.8,32,1270095,3716,293,0,545,16,12,Role-Playing,T,12,4,0,4,2,2,39690.46875,Dungeon Runners,http://www.vgchartz.com/gamedb/?name=Dungeon+Runners,0
+The Sims 2: FreeTime,2008-02-26,74,7.3,44,1140365,14350,277,0,2386,13,17,Simulation,T,7,5,1,2,0,0,25917.3863636364,The Sims 2: FreeTime,http://www.vgchartz.com/game/18980/the-sims-2-freetime/,0
+Europa Universalis: Rome,2008-04-15,73,6.3,50,4784463,28978,637,0,6294,19,43,Strategy,E10+,11,8,0,2,1,1,95689.26,Europa Universalis: Rome,http://www.vgchartz.com/game/17394/europa-universalis-rome/,0
+Strong Bad's Cool Game for Attractive People Episode 1: Homestar Ruiner,2008-08-11,73,8,49,157967,3752,69,0,622,29,15,Miscellaneous,T,16,12,1,5,0,0,3223.81632653061,Strong Bad's Cool Game for Attractive People Episode 1: Homestar Ruiner,http://www.vgchartz.com/gamedb/?name=Strong+Bad's+Cool+Game+for+Attractive+People+Episode+1%3A+Homestar+Ruiner,0
+The Sims: Castaway Stories,2008-01-29,73,7.6,47,454661,1835,119,0,648,9,22,Simulation,T,5,3,1,1,0,0,9673.63829787234,The Sims,http://www.vgchartz.com/game/6478/the-sims/,0.05
+The Political Machine 2008,2008-06-24,73,6.6,4,131070,655,39,0,110,19,5,Strategy,E10+,9,10,0,1,0,0,32767.5,The Political Machine 2008,http://www.vgchartz.com/game/31013/the-political-machine-2008/,0
+Frontlines: Fuel of War,2008-02-25,73,6.9,47,6493337,42900,2603,0,9529,19,171,Action,T,9,10,0,26,11,11,138156.106382979,Frontlines: Fuel of War,http://www.vgchartz.com/game/21913/frontlines-fuel-of-war/,0.02
+"Warhammer 40,000: Dawn of War - Soulstorm",2008-03-04,73,8.1,20,1623151,9999,322,0,2335,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,81157.55,Warhammer 40,http://www.vgchartz.com/game/20078/warhammer-40000-dawn-of-war-ii/,0.47
+Neverwinter Nights 2: Storm of Zehir,2008-11-18,73,7.2,12,79916,917,22,0,832,15,67,Role-Playing,T,7,8,0,8,3,3,6659.66666666667,Neverwinter Nights 2: Storm of Zehir,http://www.vgchartz.com/game/28309/neverwinter-nights-2-storm-of-zehir/,0.01
+X3: Terran Conflict,2008-10-16,73,7.9,11,5689,236,3,0,66,16,222,Simulation,T,7,9,0,56,14,14,517.181818181818,X3: Terran Conflict,http://www.vgchartz.com/game/33299/x3-terran-conflict/,0.03
+Bully: Scholarship Edition,2008-10-21,72,7.5,39,269973,6451,85,0,1612,11,260,Action Adventure,T,6,4,1,35,15,15,6922.38461538462,Bully: Scholarship Edition,http://www.vgchartz.com/game/27620/bully-scholarship-edition/,0.03
+Mount & Blade,2008-09-30,72,8.7,10,2085354,9510,593,0,1994,28,458,Role-Playing,T,15,12,1,104,15,15,208535.4,Mount & Blade,http://www.vgchartz.com/game/25396/mount-amp-blade/,0.02
+Crazy Machines 2,2008-06-20,72,7.4,7,49054,1457,20,0,431,12,20,Miscellaneous,E,5,7,0,1,0,0,7007.71428571429,Crazy Machines 2,http://www.vgchartz.com/game/19222/crazy-machines-2/,NA
+Rail Simulator,2008-01-16,72,6.9,39,133810,2420,66,0,979,13,24,Simulation,E,6,7,0,4,1,1,3431.02564102564,Rail Simulator,http://www.vgchartz.com/game/15074/rail-simulator/,0.01
+The Lost Crown: A Ghost-hunting Adventure,2008-03-03,71,7.5,46,1225927,24781,212,0,2710,23,26,Action Adventure,T,10,12,1,3,1,1,26650.5869565217,The Lost Crown: A Ghost-hunting Adventure,http://www.vgchartz.com/game/16997/the-lost-crown-a-ghost-hunting-adventure/,0
+Sherlock Holmes: Nemesis,2008-04-14,71,7.5,31,11751,183,5,0,84,20,20,Adventure,E10+,7,13,0,1,3,3,379.064516129032,Sherlock Holmes: Nemesis,http://www.vgchartz.com/game/18654/sherlock-holmes-nemesis/,0
+Sacred 2: Fallen Angel,2008-11-11,71,6.8,40,287846,4468,120,0,870,41,205,Role-Playing,M,21,19,1,22,9,9,7196.15,Sacred 2: Fallen Angel,http://www.vgchartz.com/game/26408/sacred-2-fallen-angel/,0.06
+DreamWorks Kung Fu Panda,2008-06-03,71,7.8,9,3571239,21334,782,0,5382,11,12,Action,E10+,4,6,1,1,1,1,396804.333333333,DreamWorks Kung Fu Panda,http://www.vgchartz.com/gamedb/?name=DreamWorks+Kung+Fu+Panda,NA
+Romance of the Three Kingdoms XI,2008-09-09,70,8.3,21,79206,355,18,0,141,11,43,Strategy,E10+,4,6,1,12,0,0,3771.71428571429,Romance of the Three Kingdoms XI,http://www.vgchartz.com/gamedb/?name=Romance+of+the+Three+Kingdoms+XI,0
+007: Quantum of Solace,2008-11-04,70,6.3,46,639208,4928,237,0,1477,18,54,Action,T,5,13,0,4,5,5,13895.8260869565,007: Quantum of Solace,http://www.vgchartz.com/game/21878/007-quantum-of-solace/,0.03
+MySims,2008-10-28,70,6.4,41,78007,439,24,0,233,12,8,Simulation,E,2,10,0,1,0,0,1902.60975609756,MySims,http://www.vgchartz.com/game/41779/mysims/,0.03
+Lost Planet: Extreme Condition Colonies Edition,2008-05-27,70,7.4,33,118107,688,7,0,356,7,38,Action,T,3,4,0,0,1,1,3579,Lost Planet: Extreme Condition,http://www.vgchartz.com/game/22928/lost-planet-extreme-condition/,0
+Mercenaries 2: World in Flames,2008-09-04,70,5.9,49,290330,2670,102,0,1739,20,65,Action Adventure,T,6,14,0,4,7,7,5925.10204081633,Mercenaries 2: World in Flames,http://www.vgchartz.com/game/21594/mercenaries-2-world-in-flames/,0
+Dracula: Origin,2008-06-02,70,6.5,50,8129925,175621,4405,0,26625,31,21,Adventure,T,12,17,2,1,1,1,162598.5,Dracula: Origin,http://www.vgchartz.com/game/19978/dracula-origin/,0
+Nancy Drew: The Phantom of Venice,2008-07-11,69,6.6,9,964099,6551,335,0,1009,7,8,Adventure,E,3,3,1,0,1,1,107122.111111111,Nancy Drew: The Phantom of Venice,http://www.vgchartz.com/game/23246/nancy-drew-the-phantom-of-venice/,0.01
+Jack Keane,2008-04-15,69,7,49,27431828,216091,9962,0,59138,25,21,Adventure,T,5,20,0,5,1,1,559833.224489796,Jack Keane,http://www.vgchartz.com/game/23881/jack-keane/,0.03
+FIFA Manager 09,2008-12-19,69,7.1,50,40446,500,14,0,231,13,22,Sports,E,5,7,1,2,1,1,808.92,FIFA Manager 09,http://www.vgchartz.com/game/28277/fifa-manager-09/,0
+Nikopol: Secrets of the Immortals,2008-09-20,68,6,48,164798,586,39,0,95,14,30,Adventure,T,6,6,2,3,1,1,3433.29166666667,Nikopol: Secrets of the Immortals,http://www.vgchartz.com/gamedb/?name=Nikopol%3A+Secrets+of+the+Immortals,0
+Sinking Island,2008-08-21,68,7.1,23,27458,146,13,0,24,8,20,Adventure,T,1,7,0,0,1,1,1193.82608695652,Sinking Island,http://www.vgchartz.com/game/32628/sinking-island/,0
+The Experiment,2008-02-05,68,6.5,43,11440937,36080,3804,0,3230,18,11,Adventure,T,6,11,1,0,1,1,266068.302325581,The Experiment,http://www.vgchartz.com/gamedb/?name=The+Experiment,0
+Rhiannon: Curse of the Four Branches,2008-10-05,67,7.1,50,203312,782,21,0,637,10,8,Adventure,T,3,7,0,1,0,0,4066.24,Rhiannon: Curse of the Four Branches,http://www.vgchartz.com/gamedb/?name=Rhiannon%3A+Curse+of+the+Four+Branches,NA
+Minecraft,2009-05-10,93,7.4,33,476233,1191,166,0,286,33,4149,Action Adventure,NA,33,0,0,765,198,198,14431.303030303,Minecraft,NA,NA
+Batman: Arkham Asylum,2009-09-15,91,8.7,27,32149,564,15,0,125,29,1757,Action Adventure,T,29,0,0,189,31,31,1190.7037037037,Batman: Arkham Asylum,http://www.vgchartz.com/game/31495/batman-arkham-asylum/,0.32
+Street Fighter IV,2009-07-01,91,8,50,66012,595,20,0,130,23,356,Action,T,23,0,0,21,4,4,1320.24,Street Fighter IV,http://www.vgchartz.com/game/25077/street-fighter-iv/,0.13
+Dragon Age: Origins,2009-11-03,91,8.6,35,34080,433,28,0,125,67,3576,Role-Playing,M,66,1,0,470,89,89,973.714285714286,Dragon Age: Origins,http://www.vgchartz.com/game/33504/dragon-age-origins/,0.51
+Empire: Total War,2009-03-03,90,6.9,36,5493160,14685,1567,0,4987,62,2989,Strategy,T,61,1,0,327,186,186,152587.777777778,Empire: Total War,http://www.vgchartz.com/game/24380/empire-total-war/,1.09
+Left 4 Dead 2,2009-11-17,89,8.5,50,116808,1631,13,0,1294,55,2552,Action,M,55,0,0,344,76,76,2336.16,Left 4 Dead 2,http://www.vgchartz.com/game/35022/left-4-dead-2/,0.36
+DiRT 2,2009-12-08,89,8.2,4,935,20,0,0,6,22,355,Driving,T,22,0,0,37,5,5,233.75,DiRT 2,http://www.vgchartz.com/game/35654/dirt-2/,0.05
+EVE Online: Special Edition,2009-03-10,88,7.7,34,3096852,196710,6254,0,44808,9,376,Role-Playing,T,9,0,0,96,18,18,91083.8823529412,EVE Online,http://www.vgchartz.com/game/27062/eve-online/,0.2
+Plants vs. Zombies,2009-08-18,87,8.9,9,7018,85,6,0,26,41,898,Strategy,E10+,40,1,0,177,10,10,779.777777777778,Plants vs. Zombies,http://www.vgchartz.com/game/34015/plants-vs-zombies/,0.05
+Football Manager 2010,2009-11-03,87,9,4,1986,13,2,0,7,33,265,Sports,E,33,0,0,9,2,2,496.5,Football Manager 2010,http://www.vgchartz.com/game/36900/football-manager-2010/,0.07
+Burnout Paradise: The Ultimate Box,2009-02-05,87,7.5,6,5177,87,2,0,3,26,437,Driving,E10+,26,0,0,40,15,15,862.833333333333,Burnout Paradise: The Ultimate Box,http://www.vgchartz.com/game/21857/burnout-paradise-the-ultimate-box/,0.09
+The Sims 3,2009-06-02,86,7.6,49,76891,2190,32,0,579,75,896,Simulation,T,74,1,0,110,34,34,1569.20408163265,The Sims 3,http://www.vgchartz.com/game/17805/the-sims-3/,8.02
+The Secret of Monkey Island: Special Edition,2009-07-15,86,9,4,3423,8,1,0,4,23,288,Adventure,E10+,22,1,0,30,3,3,855.75,The Secret of Monkey Island: Special Edition,http://www.vgchartz.com/gamedb/?name=The+Secret+of+Monkey+Island%3A+Special+Edition,0
+"Warhammer 40,000: Dawn of War II",2009-02-18,85,8.1,47,46819109,284202,17216,0,53087,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,996151.255319149,Warhammer 40,http://www.vgchartz.com/game/20078/warhammer-40000-dawn-of-war-ii/,0.47
+Machinarium,2009-10-16,85,8.8,45,21917830,175384,5539,0,55427,47,533,Adventure,NA,43,4,0,75,14,14,487062.888888889,Machinarium,http://www.vgchartz.com/game/37361/machinarium/,0.11
+"Time Gentlemen, Please!",2009-07-02,84,7.6,47,4088157,17732,960,0,4593,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,86982.0638297872,"Time Gentlemen, Please!",http://www.vgchartz.com/gamedb/?name=Time+Gentlemen%2C+Please!,0
+The Lord of the Rings Online: Siege of Mirkwood,2009-12-01,83,7.1,47,1635842,13601,186,0,2575,8,44,Role-Playing,T,8,0,0,5,3,3,34805.1489361702,The Lord of the Rings Online: Siege of Mirkwood,http://www.vgchartz.com/gamedb/?name=The+Lord+of+the+Rings+Online%3A+Siege+of+Mirkwood,NA
+Out of the Park Baseball 10,2009-06-02,83,8.3,33,937313,7457,125,0,2287,7,36,Sports,NA,7,0,0,7,0,0,28403.4242424242,Out of the Park Baseball 10,http://www.vgchartz.com/gamedb/?name=Out+of+the+Park+Baseball+10,0
+Need for Speed: Shift,2009-09-15,83,5.8,46,32929244,416389,8871,0,68577,22,389,Driving,E,21,1,0,38,23,23,715853.130434783,Need for Speed: Shift,http://www.vgchartz.com/game/31148/need-for-speed-shift/,0.06
+Red Faction: Guerrilla,2009-09-15,82,7.5,23,7954758,59164,1771,0,6234,29,309,Action,M,25,4,0,36,27,27,345859.043478261,Red Faction: Guerrilla,http://www.vgchartz.com/game/18683/red-faction-guerrilla/,0.03
+Dawn of Discovery,2009-06-17,82,8.8,20,1757404,16970,271,0,3675,32,132,Strategy,T,29,3,0,26,4,4,87870.2,Dawn of Discovery,http://www.vgchartz.com/game/29583/dawn-of-discovery/,0.38
+Tales of Monkey Island Chapter 3: Lair of the Leviathan,2009-09-29,82,7.9,48,8626740,20505,2297,0,3272,33,28,Adventure,E10+,29,4,0,3,1,1,179723.75,Tales of Monkey Island Chapter 3: Lair of the Leviathan,http://www.vgchartz.com/gamedb/?name=Tales+of+Monkey+Island+Chapter+3%3A+Lair+of+the+Leviathan,0
+Football Manager Live,2009-01-23,82,3.1,34,580411,4073,103,0,1159,23,45,Sports,NA,21,2,0,3,0,0,17070.9117647059,Football Manager Live,http://www.vgchartz.com/game/29601/football-manager-live/,0.01
+DCS: Black Shark,2009-04-13,82,8.5,45,6906318,23930,1677,0,1841,12,54,Simulation,T,9,3,0,6,0,0,153473.733333333,DCS: Black Shark,http://www.vgchartz.com/gamedb/?name=DCS%3A+Black+Shark,0
+The Sims 3: World Adventures,2009-11-16,81,8,50,4035577,78392,1410,0,21607,31,72,Simulation,T,29,2,0,8,0,0,80711.54,The Sims 3: World Adventures,http://www.vgchartz.com/game/37147/the-sims-3-world-adventures/,0.57
+Tales of Monkey Island Chapter 5: Rise of the Pirate God,2009-12-08,81,8.4,0,0,0,0,0,0,33,26,Adventure,E10+,28,5,0,4,0,0,NaN,Tales of Monkey Island Chapter 5: Rise of the Pirate God,http://www.vgchartz.com/gamedb/?name=Tales+of+Monkey+Island+Chapter+5%3A+Rise+of+the+Pirate+God,0
+Borderlands,2009-10-26,81,7.8,45,2479551,16303,398,0,5244,37,1370,Action,M,34,3,0,207,71,71,55101.1333333333,Borderlands,http://www.vgchartz.com/game/13873/borderlands/,0.18
+Fallout 3: Broken Steel,2009-05-05,81,7.4,40,2147751,30680,410,0,3247,18,104,Role-Playing,M,15,3,0,7,1,1,53693.775,Fallout 3,http://www.vgchartz.com/game/13869/fallout-3/,0.98
+Mirror's Edge,2009-01-12,81,8.1,50,938093,13291,184,0,2853,44,1037,Action,T,37,7,0,132,51,51,18761.86,Mirror's Edge,http://www.vgchartz.com/game/21687/mirrors-edge/,0.06
+Defense Grid: The Awakening,2009-07-29,81,8.8,29,58299,705,15,0,114,11,270,Strategy,E10+,8,3,0,68,12,12,2010.31034482759,Defense Grid: The Awakening,http://www.vgchartz.com/gamedb/?name=Defense+Grid%3A+The+Awakening,0
+Osmos,2009-08-18,80,7.6,4,127448,697,17,0,121,22,141,Miscellaneous,E,18,4,0,15,12,12,31862,Osmos,http://www.vgchartz.com/gamedb/?name=Osmos,0
+The Chronicles of Riddick: Assault on Dark Athena,2009-04-07,80,8,24,874585,5577,234,0,1061,26,137,Action,M,21,5,0,16,5,5,36441.0416666667,The Chronicles of Riddick: Assault on Dark Athena,http://www.vgchartz.com/game/30394/the-chronicles-of-riddick-assault-on-dark-athena/,0.01
+AI War: Fleet Command,2009-05-14,80,8.3,5,372,2,0,0,0,8,100,Strategy,NA,6,2,0,30,2,2,74.4,AI War: Fleet Command,http://www.vgchartz.com/game/40224/ai-war-fleet-command/,NA
+Trine,2009-09-11,80,8.2,37,13678591,70742,3606,0,22051,50,492,Action,E10+,43,7,0,62,23,23,369691.648648649,Trine,http://www.vgchartz.com/game/29606/trine/,0.01
+Men of War,2009-03-16,80,8.1,50,5578652,80096,1429,0,16160,22,137,Strategy,M,18,4,0,30,9,9,111573.04,Men of War,http://www.vgchartz.com/game/26389/men-of-war/,0.03
+Tales of Monkey Island Chapter 4: The Trial and Execution of Guybrush Threepwood,2009-10-30,80,8.4,10,522351,7149,123,0,1339,28,27,Adventure,E10+,23,5,0,1,0,0,52235.1,Tales of Monkey Island Chapter 4: The Trial and Execution of Guybrush Threepwood,http://www.vgchartz.com/gamedb/?name=Tales+of+Monkey+Island+Chapter+4%3A+The+Trial+and+Execution+of+Guybrush+Threepwood,0
+Sins of a Solar Empire: Entrenchment,2009-02-25,80,8.1,50,297619,1134,39,0,313,12,18,Strategy,T,11,0,1,2,0,0,5952.38,Sins of a Solar Empire,http://www.vgchartz.com/game/15876/sins-of-a-solar-empire/,0.03
+Fallout 3: Point Lookout,2009-06-23,79,7.8,31,90466,3410,36,0,1000,23,96,Role-Playing,M,19,4,0,3,1,1,2918.25806451613,Fallout 3,http://www.vgchartz.com/game/13869/fallout-3/,0.98
+The Path,2009-03-18,79,7,30,63194,786,22,0,377,20,113,Adventure,NA,14,6,0,18,3,3,2106.46666666667,The Path,http://www.vgchartz.com/gamedb/?name=The+Path,0
+Bookworm Adventures: Volume 2,2009-07-30,79,7.6,44,111632,1925,31,0,743,15,11,Miscellaneous,E10+,11,4,0,5,0,0,2537.09090909091,Bookworm,http://www.vgchartz.com/game/72051/bookworm/,NA
+Tropico 3,2009-10-20,79,8.2,48,419527,1270,56,0,435,48,186,Strategy,T,40,8,0,30,10,10,8740.14583333333,Tropico 3,http://www.vgchartz.com/game/34534/tropico-3/,0.04
+Tales of Monkey Island Chapter 1: Launch of the Screaming Narwhal,2009-07-07,79,8.2,0,0,0,0,0,0,54,69,Adventure,E10+,41,13,0,11,6,6,NaN,Tales of Monkey Island Chapter 1: Launch of the Screaming Narwhal,http://www.vgchartz.com/gamedb/?name=Tales+of+Monkey+Island+Chapter+1%3A+Launch+of+the+Screaming+Narwhal,0
+Prototype,2009-06-10,79,7.9,28,10054,938,8,0,1705,35,581,Action Adventure,M,27,8,0,111,27,27,359.071428571429,Prototype,http://www.vgchartz.com/gamedb/?name=Prototype,0
+Free Realms,2009-04-29,79,6.4,50,2441003,63680,954,0,18167,8,14,Role-Playing,E10+,6,2,0,5,1,1,48820.06,Free Realms,http://www.vgchartz.com/gamedb/?name=Free+Realms,0
+King Arthur: The Role-Playing Wargame,2009-11-24,79,7.9,11,1935,26,1,0,21,23,134,Strategy,T,21,2,0,24,9,9,175.909090909091,King Arthur: The Role-Playing Wargame,http://www.vgchartz.com/gamedb/?name=King+Arthur%3A+The+Role-Playing+Wargame,NA
+Overlord II,2009-06-23,79,8.1,28,3595352,32422,788,0,2615,32,159,Action Adventure,T,28,4,0,22,6,6,128405.428571429,Overlord II,http://www.vgchartz.com/game/31607/overlord-ii/,0.03
+F.E.A.R. 2: Project Origin,2009-02-10,79,7.8,45,215955,980,71,0,207,49,525,Action,M,39,10,0,54,35,35,4799,F.E.A.R. 2: Project Origin,http://www.vgchartz.com/game/26638/fear-2-project-origin/,0.08
+Crayon Physics Deluxe,2009-01-07,79,7.6,25,45689,432,13,0,137,15,79,Miscellaneous,E,10,5,0,12,6,6,1827.56,Crayon Physics Deluxe,http://www.vgchartz.com/game/35449/crayon-physics-deluxe/,NA
+Zuma's Revenge!,2009-09-15,78,7.9,28,385008,3279,47,0,420,17,35,Miscellaneous,E,13,4,0,2,4,4,13750.2857142857,Zuma's Revenge!,http://www.vgchartz.com/game/38987/zumas-revenge/,0.01
+Closure,2009-01-01,78,6.6,17,956299,6240,1040,0,1685,8,60,Action,NA,7,1,0,8,4,4,56252.8823529412,Closure,http://www.vgchartz.com/game/38913/closure/,NA
+League of Legends,2009-10-27,78,5.5,47,405278,1257,55,0,416,37,2833,Role-Playing,T,28,9,0,303,142,142,8622.93617021277,League of Legends,http://www.vgchartz.com/gamedb/?name=League+of+Legends,0
+Wings of Prey,2009-12-25,78,7.7,44,1003998,11553,253,0,2797,16,93,Simulation,T,13,3,0,14,6,6,22818.1363636364,Wings of Prey,http://www.vgchartz.com/gamedb/?name=Wings+of+Prey,0
+Pro Evolution Soccer 2010,2009-10-23,78,6.9,49,156321,3093,68,0,2613,8,49,Sports,E,5,3,0,1,0,0,3190.22448979592,Pro Evolution Soccer 2010,http://www.vgchartz.com/game/33402/pro-evolution-soccer-2010/,0.01
+Call of Juarez: Bound in Blood,2009-06-30,78,8,18,3411278,19208,883,0,2228,39,283,Action,M,28,10,1,25,13,13,189515.444444444,Call of Juarez: Bound in Blood,http://www.vgchartz.com/game/30703/call-of-juarez-bound-in-blood/,0.03
+Nancy Drew: The Ransom of the Seven Ships,2009-07-14,78,8.6,11,9373,172,2,0,51,7,5,Adventure,E,NA,NA,NA,NA,NA,NA,852.090909090909,Nancy Drew: The Ransom of the Seven Ships,http://www.vgchartz.com/gamedb/?name=Nancy+Drew%3A+The+Ransom+of+the+Seven+Ships,NA
+Fallout 3: The Pitt,2009-03-24,78,6.9,33,59110,735,30,0,197,15,94,Role-Playing,M,11,4,0,1,5,5,1791.21212121212,Fallout 3,http://www.vgchartz.com/game/13869/fallout-3/,0.98
+ArmA II,2009-06-26,77,7.5,50,697388,2570,96,0,726,38,590,Action,M,23,15,0,105,37,37,13947.76,ArmA II,http://www.vgchartz.com/game/31777/arma-ii/,0.14
+Tales of Monkey Island Chapter 2: The Siege of Spinner Cay,2009-08-20,77,7.5,31,339291,1846,66,0,437,36,38,Adventure,E10+,25,11,0,3,3,3,10944.8709677419,Tales of Monkey Island Chapter 2: The Siege of Spinner Cay,http://www.vgchartz.com/gamedb/?name=Tales+of+Monkey+Island+Chapter+2%3A+The+Siege+of+Spinner+Cay,0
+Hearts of Iron III,2009-08-11,77,7.1,38,7332765,189306,3894,0,75764,23,234,Strategy,E10+,18,5,0,31,11,11,192967.5,Hearts of Iron III,http://www.vgchartz.com/game/29831/hearts-of-iron-iii/,0.08
+The Void,2009-12-15,77,8.3,48,108632,754,33,0,273,12,97,Action Adventure,NA,8,4,0,19,3,3,2263.16666666667,The Void,http://www.vgchartz.com/game/41893/the-void/,0.03
+Rise of Flight: The First Great Air War,2009-06-29,77,7.6,42,14079579,162399,3974,0,61347,14,79,Simulation,E10+,9,5,0,21,4,4,335228.071428571,Rise of Flight: The First Great Air War,http://www.vgchartz.com/gamedb/?name=Rise+of+Flight%3A+The+First+Great+Air+War,0
+Risen,2009-10-02,77,8.1,47,111164,2427,30,0,667,32,686,Role-Playing,M,21,11,0,85,25,25,2365.1914893617,Risen,http://www.vgchartz.com/game/33934/risen/,0.14
+X-Men Origins: Wolverine,2009-05-01,77,8.1,17,10447,322,13,0,95,22,133,Action,M,14,8,0,2,4,4,614.529411764706,X-Men Origins: Wolverine,NA,NA
+Men of War: Red Tide,2009-11-01,77,8.2,16,539512,665,220,0,77,10,33,Strategy,T,8,2,0,4,1,1,33719.5,Men of War: Red Tide,http://www.vgchartz.com/game/40380/men-of-war-red-tide/,0
+Aion,2009-09-22,76,6.6,18,1103888,11467,245,0,702,42,419,Role-Playing,T,29,12,1,79,33,33,61327.1111111111,Aion,NA,NA
+Peggle Nights,2009-03-26,76,8.1,47,24430563,126022,6327,0,15813,15,24,Miscellaneous,E,10,5,0,2,0,0,519799.212765957,Peggle Nights,http://www.vgchartz.com/game/33872/peggle-nights/,0.02
+Operation Flashpoint: Dragon Rising,2009-10-06,76,4.9,10,79551,414,14,0,235,29,539,Action,M,18,11,0,32,32,32,7955.1,Operation Flashpoint: Dragon Rising,http://www.vgchartz.com/game/23420/operation-flashpoint-dragon-rising/,0.06
+The Saboteur,2009-12-08,76,7.9,19,41019,213,17,0,65,20,239,Action Adventure,M,13,7,0,38,10,10,2158.89473684211,The Saboteur,http://www.vgchartz.com/game/33813/the-saboteur/,0.06
+Nancy Drew: Warnings at Waverly Academy,2009-10-13,76,6.7,37,234126,2946,119,0,405,8,10,Adventure,E,4,4,0,0,1,1,6327.72972972973,Nancy Drew: Warnings at Waverly Academy,http://www.vgchartz.com/gamedb/?name=Nancy+Drew%3A+Warnings+at+Waverly+Academy,0
+"Wallace & Gromit's Grand Adventures, Episode 1: Fright of the Bumblebees",2009-03-23,76,7.5,5,22060,290,1,0,179,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4412,"Wallace & Gromit's Grand Adventures, Episode 1: Fright of the Bumblebees",http://www.vgchartz.com/gamedb/?name=Wallace+&+Gromit's+Grand+Adventures%2C+Episode+1%3A+Fright+of+the+Bumblebees,0
+Demigod,2009-04-14,76,7.9,7,6871,106,11,0,33,50,183,Strategy,T,31,19,0,46,10,10,981.571428571429,Demigod,http://www.vgchartz.com/game/26398/demigod/,0.02
+FIFA Manager 10,2009-10-30,75,5.5,47,46780798,717596,12678,0,155212,22,24,Sports,E,13,8,1,4,3,3,995336.127659575,FIFA Manager 10,http://www.vgchartz.com/gamedb/?name=FIFA+Manager+10,0
+"Wallace & Gromit's Grand Adventures, Episode 3: Muzzled!",2009-06-15,75,7.5,50,182860,611,24,0,172,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3657.2,"Wallace & Gromit's Grand Adventures, Episode 3: Muzzled!",http://www.vgchartz.com/gamedb/?name=Wallace+&+Gromit's+Grand+Adventures%2C+Episode+1%3A+Fright+of+the+Bumblebees,0
+BattleForge,2009-03-23,75,7,47,112941,1340,21,0,352,37,112,Strategy,T,24,13,0,15,2,2,2403,BattleForge,http://www.vgchartz.com/game/29179/battleforge/,0.01
+And Yet It Moves,2009-04-02,75,6.2,40,1292250,6967,186,0,1473,10,110,Action,E,6,4,0,9,13,13,32306.25,And Yet It Moves,http://www.vgchartz.com/game/34072/and-yet-it-moves/,NA
+The Dark Eye: Drakensang,2009-02-23,75,8.6,18,116625,403,16,0,187,35,155,Role-Playing,T,23,12,0,24,5,5,6479.16666666667,The Dark Eye: Drakensang,http://www.vgchartz.com/gamedb/?name=The+Dark+Eye%3A+Drakensang,NA
+Battlestations: Pacific,2009-05-12,74,8.4,35,920481,6633,114,0,1824,31,46,Strategy,T,19,12,0,10,1,1,26299.4571428571,Battlestations: Pacific,http://www.vgchartz.com/game/32029/battlestations-pacific/,0.03
+Ghostbusters: The Video Game,2009-06-16,74,7.7,40,3050890,7743,2847,0,874,26,131,Action,T,16,10,0,26,13,13,76272.25,Ghostbusters: The Video Game,http://www.vgchartz.com/gamedb/?name=Ghostbusters%3A+The+Video+Game,0
+Wolfenstein,2009-08-18,74,7.3,41,51996,706,29,0,263,41,267,Action,M,25,16,0,43,21,21,1268.19512195122,Wolfenstein,http://www.vgchartz.com/game/34956/wolfenstein/,0.05
+Mini Ninjas,2009-09-08,74,8.3,49,535510,3048,248,0,1259,14,78,Action Adventure,E10+,6,8,0,15,1,1,10928.7755102041,Mini Ninjas,http://www.vgchartz.com/game/30852/mini-ninjas/,0.02
+RACE On,2009-10-05,73,8.2,27,7801032,6979,4131,0,441,14,20,Driving,E,8,6,0,1,0,0,288927.111111111,RACE On,http://www.vgchartz.com/game/40041/race-on/,0.03
+Sherlock Holmes vs. Jack the Ripper,2009-05-26,73,8.1,44,331518,6012,425,0,2158,26,43,Adventure,T,13,13,0,4,2,2,7534.5,Sherlock Holmes vs. Jack the Ripper,http://www.vgchartz.com/game/32866/sherlock-holmes-vs-jack-the-ripper/,0.01
+Neverwinter Nights 2: Mysteries of Westgate,2009-04-29,73,7.3,36,73005,1173,28,0,216,11,18,Role-Playing,T,5,6,0,1,0,0,2027.91666666667,Neverwinter Nights 2,http://www.vgchartz.com/game/7446/neverwinter-nights-2/,0.02
+Ceville,2009-09-28,73,8.2,31,45254,616,11,0,406,17,21,Adventure,E,8,9,0,4,1,1,1459.8064516129,Ceville,http://www.vgchartz.com/game/25901/ceville/,0.02
+Gratuitous Space Battles,2009-11-16,72,6.7,47,9324715,56257,2519,0,9443,11,76,Strategy,NA,4,7,0,14,8,8,198398.191489362,Gratuitous Space Battles,http://www.vgchartz.com/gamedb/?name=Gratuitous+Space+Battles,0
+Majesty 2: The Fantasy Kingdom Sim,2009-09-17,72,7.3,24,1285452,4029,162,0,555,31,129,Strategy,T,17,14,0,17,15,15,53560.5,Majesty 2: The Fantasy Kingdom Sim,http://www.vgchartz.com/game/33991/majesty-2-the-fantasy-kingdom-sim/,0.02
+"Wallace & Gromit's Grand Adventures, Episode 4: The Bogey Man",2009-07-30,72,7.9,20,74146,1985,47,0,474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3707.3,"Wallace & Gromit's Grand Adventures, Episode 4: The Bogey Man",http://www.vgchartz.com/gamedb/?name=Wallace+&+Gromit's+Grand+Adventures%2C+Episode+1%3A+Fright+of+the+Bumblebees,0
+Grand Ages: Rome,2009-03-17,72,8,47,9324715,56257,2519,0,9443,18,40,Strategy,T,8,10,0,9,3,3,198398.191489362,Grand Ages: Rome,http://www.vgchartz.com/game/32135/grand-ages-rome/,0
+"Wallace & Gromit's Grand Adventures, Episode 2: The Last Resort",2009-05-05,72,8.6,31,37149,390,31,0,311,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1198.35483870968,"Wallace & Gromit's Grand Adventures, Episode 2: The Last Resort",http://www.vgchartz.com/gamedb/?name=Wallace+&+Gromit's+Grand+Adventures%2C+Episode+1%3A+Fright+of+the+Bumblebees,0
+Section 8,2009-08-25,72,7,5,33242363,118108,11237,0,14786,31,78,Action,T,15,15,1,17,4,4,6648472.6,Section 8,http://www.vgchartz.com/game/31787/section-8/,0.04
+Champions Online,2009-09-01,72,6.2,47,91575,1727,35,0,120,40,251,Role-Playing,T,21,18,1,42,20,20,1948.40425531915,Champions Online,http://www.vgchartz.com/game/32001/champions-online/,0.01
+World in Conflict: Soviet Assault,2009-03-10,72,8.3,46,687939,10100,224,0,554,21,56,Strategy,T,11,9,1,13,2,2,14955.1956521739,World in Conflict: Soviet Assault,http://www.vgchartz.com/game/25257/world-in-conflict-soviet-assault/,0
+Saints Row 2,2009-01-05,72,6.8,36,6896738,86311,2112,0,19002,24,380,Action Adventure,M,10,14,0,52,23,23,191576.055555556,Saints Row 2,http://www.vgchartz.com/game/19892/saints-row-2/,0.04
+Mevo & the Grooveriders,2009-03-20,72,6.2,48,244882,3720,136,0,1073,8,27,Miscellaneous,NA,3,5,0,2,1,1,5101.70833333333,Mevo & the Grooveriders,http://www.vgchartz.com/gamedb/?name=Mevo+&+the+Grooveriders,NA
+Mass Effect 2,2010-01-26,94,8.8,34,113625,1279,30,0,430,55,3605,Role-Playing,M,54,1,0,405,97,97,3341.91176470588,Mass Effect 2,http://www.vgchartz.com/game/28816/mass-effect-2/,0.39
+Starcraft II: Wings of Liberty,2010-07-27,93,8.2,29,20127260,100465,5148,0,6644,82,3064,Strategy,T,82,0,0,547,144,144,694043.448275862,Starcraft II: Wings of Liberty,http://www.vgchartz.com/gamedb/?name=Starcraft+II%3A+Wings+of+Liberty,4.86
+World of Warcraft: Cataclysm,2010-12-07,90,5.5,11,4001,77,3,0,58,53,959,Role-Playing,T,53,0,0,56,64,64,363.727272727273,World of Warcraft: Cataclysm,http://www.vgchartz.com/game/38102/world-of-warcraft-cataclysm/,2.09
+Braid,2010-01-26,90,8.6,49,66903,2062,20,0,813,11,825,Action,E10+,11,0,0,121,15,15,1365.36734693878,Braid,http://www.vgchartz.com/game/25237/braid/,0.03
+Sid Meier's Civilization V,2010-09-21,90,7.9,19,33585,412,12,0,61,70,2307,Strategy,E10+,66,4,0,251,113,113,1767.63157894737,Sid Meier's Civilization V,http://www.vgchartz.com/game/43507/sid-meiers-civilization-v/,1.69
+BioShock 2,2010-02-09,88,8,6,24853,189,5,0,47,36,1260,Action,M,34,2,0,122,35,35,4142.16666666667,BioShock 2,http://www.vgchartz.com/game/28003/bioshock-2/,0.24
+Battlefield: Bad Company 2,2010-03-02,87,8.3,24,31359,486,13,0,125,46,1477,Action,M,45,1,0,271,48,48,1306.625,Battlefield: Bad Company 2,http://www.vgchartz.com/game/31444/battlefield-bad-company-2/,0.72
+Monkey Island 2 Special Edition: LeChuck's Revenge,2010-07-07,87,8.9,47,144132,1356,47,0,479,27,194,Adventure,E10+,27,0,0,13,1,1,3066.63829787234,Monkey Island 2 Special Edition: LeChuck's Revenge,http://www.vgchartz.com/gamedb/?name=Monkey+Island+2+Special+Edition%3A+LeChuck's+Revenge,0
+Borderlands: The Secret Armory of General Knoxx,2010-02-25,86,7.2,47,9324746,56257,2519,0,9443,7,85,Action,M,7,0,0,6,3,3,198398.85106383,Borderlands,http://www.vgchartz.com/game/13873/borderlands/,0.18
+Need for Speed: Hot Pursuit,2010-11-16,86,6.7,39,121457,1534,59,0,312,14,561,Driving,E10+,13,1,0,52,29,29,3114.28205128205,Need for Speed: Hot Pursuit,http://www.vgchartz.com/game/45659/need-for-speed-hot-pursuit/,0.37
+Mass Effect 2: Lair of the Shadow Broker,2010-09-07,86,8.6,12,89681,547,12,0,326,11,197,Role-Playing,M,10,1,0,14,2,2,7473.41666666667,Mass Effect 2,http://www.vgchartz.com/game/28816/mass-effect-2/,0.39
+Battlefield: Bad Company 2 Vietnam,2010-12-18,86,8,47,9324746,56257,2519,0,9443,18,192,Action,M,18,0,0,36,11,11,198398.85106383,Battlefield: Bad Company 2 Vietnam,http://www.vgchartz.com/game/49468/battlefield-bad-company-2-vietnam/,NA
+Assassin's Creed II,2010-03-09,86,6.9,23,10350,80,9,0,44,22,1631,Action Adventure,M,21,1,0,93,30,30,450,Assassin's Creed II,http://www.vgchartz.com/game/33563/assassins-creed-ii/,0.55
+Football Manager 2011,2010-11-23,85,8.4,5,177869,1033,68,0,132,23,79,Sports,E,22,1,0,12,2,2,35573.8,Football Manager 2011,http://www.vgchartz.com/game/43886/football-manager-2011/,1.26
+"Warhammer 40,000: Dawn of War II - Chaos Rising",2010-03-10,85,8.7,20,572467,3137,107,0,1955,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28623.35,Warhammer 40,http://www.vgchartz.com/game/20078/warhammer-40000-dawn-of-war-ii/,0.47
+Fallout: New Vegas,2010-10-19,84,8.6,49,415390,2527,95,0,611,39,2797,Role-Playing,M,36,3,0,400,85,85,8477.34693877551,Fallout: New Vegas,http://www.vgchartz.com/game/33664/fallout-new-vegas/,1.17
+Just Cause 2,2010-03-23,84,7.7,50,7614139,79368,3296,0,25346,33,844,Action Adventure,M,31,2,0,129,44,44,152282.78,Just Cause 2,http://www.vgchartz.com/game/24233/just-cause-2/,0.13
+F1 2010,2010-09-21,84,6.6,50,68040,590,163,0,422,15,100,Driving,E,14,1,0,18,5,5,1360.8,F1 2010,http://www.vgchartz.com/game/33785/f1-2010/,0.05
+Shatter,2010-03-15,84,7.4,35,923362,15022,181,0,2875,13,71,Action,E,13,0,0,10,4,4,26381.7714285714,Shatter,http://www.vgchartz.com/gamedb/?name=Shatter,0
+FIFA Soccer 11,2010-09-28,83,7.7,49,3552861,16825,619,0,4335,16,102,Sports,E,13,3,0,18,1,1,72507.3673469388,FIFA Soccer 11,http://www.vgchartz.com/game/43326/fifa-soccer-11/,0.18
+Sam & Max: The Devil's Playhouse - Episode 2: The Tomb of Sammun-Mak,2010-05-18,83,7.8,45,7717948,60576,991,0,11086,24,20,Miscellaneous,T,21,3,0,1,0,0,171509.955555556,Sam & Max: The Devil's Playhouse - Episode 2: The Tomb of Sammun-Mak,http://www.vgchartz.com/gamedb/?name=Sam+&+Max+Episode+105%3A+Reality+2.0,0
+Darksiders,2010-09-22,83,7.7,17,76918,1070,17,0,137,18,610,Action Adventure,M,18,0,0,100,21,21,4524.58823529412,Darksiders,http://www.vgchartz.com/game/44396/darksiders/,0.15
+Age of Conan: Rise of the Godslayer,2010-05-11,83,8.4,46,2107403,26170,527,0,5109,14,52,Role-Playing,M,13,1,0,6,0,0,45813.1086956522,Age of Conan: Rise of the Godslayer,http://www.vgchartz.com/game/38351/age-of-conan-rise-of-the-godslayer/,0.03
+Torchlight,2010-01-05,83,8,38,1107304,11540,497,0,2459,57,798,Role-Playing,T,50,7,0,164,42,42,29139.5789473684,Torchlight,http://www.vgchartz.com/game/38915/torchlight/,0.07
+Tom Clancy's Splinter Cell: Conviction,2010-04-27,83,5.2,50,143153,1154,52,0,365,20,675,Action Adventure,M,16,4,0,39,24,24,2863.06,Tom Clancy's Splinter Cell: Conviction,http://www.vgchartz.com/game/14891/tom-clancys-splinter-cell-conviction/,0.11
+Bejeweled 3,2010-12-07,82,8.1,48,1615778,14878,337,0,3294,27,88,Miscellaneous,E,25,2,0,10,1,1,33662.0416666667,Bejeweled 3,http://www.vgchartz.com/game/48328/bejeweled-3/,0.09
+Dragon Age: Origins - Awakening,2010-03-16,82,7.8,20,363960,6273,206,0,1768,38,406,Role-Playing,M,36,2,0,17,18,18,18198,Dragon Age: Origins,http://www.vgchartz.com/game/33504/dragon-age-origins/,0.51
+Lara Croft and the Guardian of Light,2010-09-28,82,8.1,50,13573617,80048,2994,0,8202,13,158,Action Adventure,T,11,2,0,30,5,5,271472.34,Lara Croft and the Guardian of Light,http://www.vgchartz.com/gamedb/?name=Lara+Croft+and+the+Guardian+of+Light,0
+Desktop Dungeons,2010-10-17,82,8.2,49,417477,3348,52,0,809,12,56,Role-Playing,NA,9,3,0,11,0,0,8519.9387755102,Desktop Dungeons,http://www.vgchartz.com/gamedb/?name=Desktop+Dungeons,NA
+Recettear: An Item Shop's Tale,2010-09-10,82,8.6,43,150857,1364,41,0,600,12,155,Miscellaneous,NA,10,2,0,30,11,11,3508.3023255814,Recettear: An Item Shop's Tale,http://www.vgchartz.com/gamedb/?name=Recettear%3A+An+Item+Shop's+Tale,0
+King's Bounty: Armored Princess,2010-09-10,82,8.6,49,6670365,62598,1530,0,11243,25,161,Role-Playing,T,23,2,0,11,5,5,136129.897959184,King's Bounty: Armored Princess,http://www.vgchartz.com/game/40507/kings-bounty-armored-princess/,0.01
+Divinity II: The Dragon Knight Saga,2010-11-05,82,8.2,28,1078280,3577,228,0,567,9,196,Role-Playing,M,8,1,0,40,6,6,38510,Divinity II: The Dragon Knight Saga,http://www.vgchartz.com/gamedb/?name=Divinity+II%3A+The+Dragon+Knight+Saga,0
+VVVVVV,2010-01-11,81,8.1,32,304278,3649,115,0,618,15,219,Action,NA,13,2,0,42,13,13,9508.6875,VVVVVV,http://www.vgchartz.com/gamedb/?name=VVVVVV,0
+Metro 2033,2010-03-16,81,8.1,49,2723069,59684,1551,0,12588,40,1478,Action,M,34,6,0,212,71,71,55572.8367346939,Metro 2033,http://www.vgchartz.com/game/40227/metro-2033/,0.24
+Blur,2010-05-25,81,7.4,48,616195,14331,273,0,1547,24,178,Driving,E10+,21,3,0,24,8,8,12837.3958333333,Blur,http://www.vgchartz.com/game/38149/blur/,0.06
+Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone,2010-04-15,81,8.3,34,110492,2189,38,0,396,30,24,Miscellaneous,E10+,24,6,0,2,0,0,3249.76470588235,Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone,NA,NA
+Napoleon: Total War,2010-02-23,81,7.9,21,502094,4814,79,0,904,56,518,Strategy,T,49,6,1,35,11,11,23909.2380952381,Napoleon: Total War,http://www.vgchartz.com/game/37881/napoleon-total-war/,0.67
+Call of Duty: Black Ops,2010-11-09,81,5.2,7,673368,24195,426,0,4536,29,1660,Action,M,20,9,0,143,96,96,96195.4285714286,Call of Duty: Black Ops,http://www.vgchartz.com/game/44950/call-of-duty-black-ops/,1.63
+Sam & Max: The Devil's Playhouse - Episode 5: The City That Dares Not Sleep,2010-08-30,81,8,1,134899,12809,117,0,1370,21,13,Miscellaneous,E10+,16,4,1,2,0,0,134899,Sam & Max: The Devil's Playhouse - Episode 5: The City That Dares Not Sleep,http://www.vgchartz.com/gamedb/?name=Sam+&+Max+Episode+105%3A+Reality+2.0,0
+Toki Tori,2010-01-28,80,7.9,44,542312,4241,92,0,893,10,102,Miscellaneous,E,9,1,0,9,3,3,12325.2727272727,Toki Tori,http://www.vgchartz.com/gamedb/?name=Toki+Tori,0
+S.T.A.L.K.E.R.: Call of Pripyat,2010-02-02,80,8.7,35,68298,587,26,0,158,44,613,Action,M,36,8,0,63,13,13,1951.37142857143,S.T.A.L.K.E.R.: Call of Pripyat,http://www.vgchartz.com/game/34014/stalker-call-of-pripyat/,0.06
+Revenge of the Titans,2010-05-24,79,7.6,36,83864,693,17,0,292,11,81,Strategy,NA,10,1,0,10,10,10,2329.55555555556,Revenge of the Titans,http://www.vgchartz.com/game/49183/revenge-of-the-titans/,0
+Cart Life,2010-07-29,79,5.9,49,1101242,11341,292,0,2794,8,19,Simulation,NA,7,1,0,2,2,2,22474.3265306122,Cart Life,http://www.vgchartz.com/gamedb/?name=Cart+Life,0
+Worms Reloaded,2010-08-26,79,6.8,43,585659,4547,283,0,939,28,185,Strategy,E10+,24,4,0,19,14,14,13619.976744186,Worms Reloaded,http://www.vgchartz.com/game/46480/worms-reloaded/,0.05
+Puzzle Dimension,2010-06-21,79,7.6,49,91752,244,5,0,412,9,33,Miscellaneous,E,6,3,0,3,1,1,1872.48979591837,Puzzle Dimension,http://www.vgchartz.com/gamedb/?name=Puzzle+Dimension,0
+Split/Second,2010-05-18,79,8.2,48,659375,3966,198,0,799,18,116,Driving,E10+,16,2,0,8,1,1,13736.9791666667,Split/Second,http://www.vgchartz.com/game/32538/splitsecond/,0.04
+Tropico 3: Absolute Power,2010-05-17,79,7.6,42,214467,10700,137,0,1094,11,16,Strategy,T,NA,NA,NA,NA,NA,NA,5106.35714285714,Tropico 3,http://www.vgchartz.com/game/34534/tropico-3/,0.04
+The Misadventures of P.B. Winterbottom,2010-04-20,79,8.3,47,35859,607,26,0,210,12,52,Miscellaneous,E,10,2,0,10,1,1,762.957446808511,The Misadventures of P.B. Winterbottom,http://www.vgchartz.com/gamedb/?name=The+Misadventures+of+P.B.+Winterbottom,0
+The Settlers 7: Paths to a Kingdom,2010-03-23,79,5.2,48,86793,616,58,0,252,33,214,Strategy,E10+,28,5,0,15,8,8,1808.1875,The Settlers 7: Paths to a Kingdom,http://www.vgchartz.com/game/42083/the-settlers-7-paths-to-a-kingdom/,0.31
+LEGO Harry Potter: Years 1-4,2010-06-29,79,7.9,44,136631,828,22,0,274,15,62,Action Adventure,E10+,12,3,0,2,1,1,3105.25,LEGO Harry Potter: Years 1-4,http://www.vgchartz.com/game/42748/lego-harry-potter-years-1-4/,0.04
+Dead Rising 2,2010-09-27,78,6.3,42,1027175,7204,210,0,2514,17,213,Action Adventure,M,14,3,0,26,13,13,24456.5476190476,Dead Rising 2,http://www.vgchartz.com/game/31568/dead-rising-2/,0.14
+Mount & Blade: Warband,2010-03-30,78,8.7,40,291445,9575,109,0,811,23,766,Role-Playing,T,18,5,0,162,19,19,7286.125,Mount & Blade: Warband,http://www.vgchartz.com/game/32796/mount-amp-blade-warband/,0.02
+King's Bounty: Crossworlds,2010-09-17,78,8.6,12,13517,106,4,0,52,13,82,Strategy,T,9,4,0,4,1,1,1126.41666666667,King's Bounty: Crossworlds,http://www.vgchartz.com/gamedb/?name=King's+Bounty%3A+Crossworlds,0
+Dawn of Discovery: Venice,2010-02-26,78,8.3,1,134899,12809,117,0,1370,16,15,Simulation,T,11,5,0,1,0,0,134899,Dawn of Discovery: Venice,http://www.vgchartz.com/game/43365/dawn-of-discovery-venice/,0.01
+Mafia II,2010-08-23,77,7.9,49,2506915,15054,294,0,5070,46,1261,Action Adventure,M,35,9,2,122,68,68,51161.5306122449,Mafia II,http://www.vgchartz.com/game/21856/mafia-ii/,0.4
+Zeno Clash,2010-02-07,77,7.9,45,3266446,25462,1007,0,6080,41,291,Action,T,26,15,0,39,24,24,72587.6888888889,Zeno Clash,http://www.vgchartz.com/gamedb/?name=Zeno+Clash,0
+Alien Swarm,2010-07-19,77,8.2,1,134899,12809,117,0,1370,11,416,Action,NA,8,3,0,52,18,18,134899,Alien Swarm,http://www.vgchartz.com/game/46215/alien-swarm/,NA
+Supreme Commander 2,2010-03-02,77,6.2,9,3789,66,2,0,35,54,804,Strategy,E10+,37,16,1,45,14,14,421,Supreme Commander 2,http://www.vgchartz.com/game/34946/supreme-commander-2/,0.19
+The Dream Machine,2010-12-14,77,8.7,41,339557,4000,264,0,1328,10,34,Action,NA,8,2,0,7,0,0,8281.87804878049,The Dream Machine,http://www.vgchartz.com/gamedb/?name=The+Dream+Machine,NA
+Heroes of Newerth,2010-05-12,76,7.3,20,4462086,18380,1035,0,1269,12,226,Strategy,NA,7,5,0,28,14,14,223104.3,Heroes of Newerth,http://www.vgchartz.com/gamedb/?name=Heroes+of+Newerth,0
+Plain Sight,2010-04-05,76,7.7,6,1821376,13406,274,0,732,32,31,Action,NA,18,14,0,5,0,0,303562.666666667,Plain Sight,http://www.vgchartz.com/gamedb/?name=Plain+Sight,0
+R.U.S.E.,2010-09-07,76,8.1,41,50853,1539,50,0,341,33,177,Strategy,T,21,12,0,48,7,7,1240.31707317073,R.U.S.E.,http://www.vgchartz.com/game/32917/ruse/,0.27
+Serious Sam HD: The Second Encounter,2010-04-28,76,8,7,561576,1243,151,0,125,20,145,Action,M,11,9,0,13,4,4,80225.1428571429,Serious Sam HD: The Second Encounter,http://www.vgchartz.com/gamedb/?name=Sam+&+Max+Episode+105%3A+Reality+2.0,0
+Greed Corp,2010-12-10,76,7.1,26,146019,2131,63,0,409,7,44,Strategy,E,5,2,0,9,8,8,5616.11538461538,Greed Corp,http://www.vgchartz.com/game/43609/greed-corp/,0.01
+Din's Curse,2010-03-31,76,7.6,49,68485,1107,45,0,311,10,22,Role-Playing,T,6,4,0,7,2,2,1397.65306122449,Din's Curse,http://www.vgchartz.com/gamedb/?name=Din's+Curse,NA
+Sam & Max: The Devil's Playhouse - Episode 4: Beyond the Alley of the Dolls,2010-07-20,76,8,8,10883,82,4,0,36,19,15,Miscellaneous,E10+,12,7,0,1,0,0,1360.375,Sam & Max: The Devil's Playhouse - Episode 4: Beyond the Alley of the Dolls,http://www.vgchartz.com/gamedb/?name=Sam+&+Max+Episode+105%3A+Reality+2.0,0
+Victoria II,2010-08-13,75,8.2,46,152207,883,45,0,187,17,135,Strategy,T,10,7,0,20,7,7,3308.84782608696,Victoria II,http://www.vgchartz.com/game/38883/victoria-ii/,0
+FIFA Manager 11,2010-11-03,75,5.5,50,10290704,52232,5021,0,5369,9,23,Sports,E,7,2,0,1,0,0,205814.08,FIFA Manager 11,http://www.vgchartz.com/game/65349/fifa-manager-11/,0
+Prince of Persia: The Forgotten Sands,2010-06-08,75,6.6,50,1136217,10495,391,0,2904,16,221,Action Adventure,T,9,7,0,15,9,9,22724.34,Prince of Persia: The Forgotten Sands,http://www.vgchartz.com/game/41864/prince-of-persia-the-forgotten-sands/,0.03
+Left 4 Dead 2: The Passing,2010-04-22,75,8.1,50,8130418,175625,4405,0,26625,8,69,Action,M,6,2,0,4,1,1,162608.36,Left 4 Dead 2,http://www.vgchartz.com/game/35022/left-4-dead-2/,0.36
+Transformers: War for Cybertron,2010-06-22,75,7.9,47,87164,620,61,0,250,20,156,Action Adventure,T,12,8,0,17,5,5,1854.55319148936,Transformers: War for Cybertron,NA,NA
+Sam & Max: The Devil's Playhouse - Episode 3: They Stole Max's Brain!,2010-06-22,75,7.4,43,212710,2052,24,0,350,23,12,Miscellaneous,E10+,16,6,1,1,0,0,4946.74418604651,Sam & Max: The Devil's Playhouse - Episode 3: They Stole Max's Brain!,http://www.vgchartz.com/gamedb/?name=Sam+&+Max+Episode+105%3A+Reality+2.0,0
+Sol Survivor,2010-03-15,75,8.2,50,4411689,109649,1761,0,8474,7,38,Strategy,NA,4,3,0,6,3,3,88233.78,Sol Survivor,http://www.vgchartz.com/gamedb/?name=Sol+Survivor,0
+Back to the Future: The Game - Episode I: It's About Time,2010-12-22,74,7.1,44,4154731,41149,2266,0,5930,39,97,Action Adventure,NA,23,13,3,15,7,7,94425.7045454545,Back to the Future: The Game - Episode I: It's About Time,http://www.vgchartz.com/game/52425/back-to-the-future-the-game-episode-i-its-about-time/,NA
+The Sims 3: Late Night Expansion Pack,2010-10-26,74,5.3,35,52456,644,46,0,164,17,78,Simulation,T,10,7,0,8,4,4,1498.74285714286,The Sims 3: Late Night Expansion Pack,http://www.vgchartz.com/game/48018/the-sims-3-late-night-expansion-pack/,1.7
+The Sims 3: Ambitions,2010-06-01,74,7.3,40,247865,2541,120,0,1240,25,51,Simulation,T,15,9,1,5,2,2,6196.625,The Sims 3: Ambitions,http://www.vgchartz.com/game/46263/the-sims-3-ambitions/,0.46
+Disney/Pixar Toy Story 3,2010-06-15,73,6.3,17,337773,5552,87,0,468,7,11,Action,E10+,5,2,0,0,0,0,19869,Disney/Pixar Toy Story 3,http://www.vgchartz.com/gamedb/?name=Disney/Pixar+Toy+Story+3,NA
+ArmA II: Operation Arrowhead,2010-06-29,73,8.1,10,979626,7184,134,0,673,29,191,Action,M,14,14,1,28,6,6,97962.6,ArmA II,http://www.vgchartz.com/game/31777/arma-ii/,0.14
+Blood Bowl: Legendary Edition,2010-10-28,73,6.4,23,93054,1095,66,0,308,13,75,Sports,T,7,6,0,11,11,11,4045.82608695652,Blood Bowl: Legendary Edition,http://www.vgchartz.com/game/50827/blood-bowl-legendary-edition/,0.02
+Alpha Protocol,2010-06-01,72,7.5,23,134120,1251,46,0,321,25,511,Role-Playing,M,11,13,1,91,35,35,5831.30434782609,Alpha Protocol,http://www.vgchartz.com/game/29906/alpha-protocol/,0.03
+Medal of Honor,2010-10-12,72,6.4,26,70259,1045,26,0,412,26,518,Action,M,16,9,1,63,48,48,2702.26923076923,Medal of Honor,http://www.vgchartz.com/game/41327/medal-of-honor/,0.49
+Blood Bowl,2010-01-26,72,6.5,10,8410,81,1,0,24,34,57,Sports,T,14,20,0,15,3,3,841,Blood Bowl,http://www.vgchartz.com/game/25401/blood-bowl/,0.05
+Divinity II: Ego Draconis,2010-01-06,72,7.7,49,539183,2737,251,0,694,43,126,Role-Playing,M,21,22,0,21,4,4,11003.7346938776,Divinity II: Ego Draconis,http://www.vgchartz.com/game/39321/divinity-ii-ego-draconis/,0.07
+Flotilla,2010-02-26,72,7.3,3,220681,1201,50,0,203,7,14,Strategy,NA,2,5,0,3,1,1,73560.3333333333,Flotilla,http://www.vgchartz.com/gamedb/?name=Flotilla,0
+Poker Night at the Inventory,2010-11-22,71,7,4,5808,56,4,0,9,11,109,Miscellaneous,E10+,5,6,0,14,15,15,1452,Poker Night at the Inventory,http://www.vgchartz.com/gamedb/?name=Poker+Night+at+the+Inventory,0
+Europa Universalis III: Divine Wind,2010-12-14,71,8.7,1,134899,12809,117,0,1370,9,38,Strategy,E10+,5,4,0,3,3,3,134899,Europa Universalis III,http://www.vgchartz.com/game/17392/europa-universalis-iii/,0.01
+Max & the Magic Marker,2010-02-08,71,5.7,14,298288,2823,98,0,1075,11,6,Action,E,5,6,0,1,0,0,21306.2857142857,Max & the Magic Marker,http://www.vgchartz.com/gamedb/?name=Max+&+the+Magic+Marker,0
+Mass Effect 2: Kasumi - Stolen Memory,2010-04-06,71,7.3,28,119878,3295,70,0,655,13,89,Role-Playing,M,6,7,0,6,1,1,4281.35714285714,Mass Effect 2,http://www.vgchartz.com/game/28816/mass-effect-2/,0.39
+The Kings' Crusade,2010-10-08,71,6.9,50,633070,3982,218,0,732,12,21,Strategy,NA,7,5,0,4,2,2,12661.4,The Kings' Crusade,NA,NA
+Lead and Gold: Gangs of the Wild West,2010-04-08,70,8.4,45,1334478,9441,274,0,3221,25,119,Action,M,14,10,1,22,6,6,29655.0666666667,Lead and Gold: Gangs of the Wild West,http://www.vgchartz.com/gamedb/?name=Lead+and+Gold%3A+Gangs+of+the+Wild+West,0
+Global Agenda,2010-02-01,70,7.9,49,30323432,60206,9231,0,5472,16,350,Role-Playing,T,6,10,0,62,23,23,618845.551020408,Global Agenda,http://www.vgchartz.com/gamedb/?name=Global+Agenda,0
+Evochron Mercenary,2010-09-17,70,7.8,6,35220,359,1,0,47,7,62,Simulation,NA,4,3,0,23,5,5,5870,Evochron Mercenary,http://www.vgchartz.com/gamedb/?name=Evochron+Mercenary,0
+Puzzle Agent,2010-06-30,70,6.9,1,134899,12809,117,0,1370,24,74,Miscellaneous,NA,8,16,0,3,9,9,134899,Puzzle Agent,http://www.vgchartz.com/gamedb/?name=Puzzle+Agent,0
+The Whispered World,2010-04-26,70,7.6,4,3371164,24337,1103,0,3406,41,78,Adventure,E,18,23,0,3,2,2,842791,The Whispered World,http://www.vgchartz.com/game/28652/the-whispered-world/,0.1
+Portal 2,2011-04-18,95,8.8,32,49983,762,16,0,132,52,6054,Action,E10+,51,1,0,NA,117,117,1561.96875,Portal 2,http://www.vgchartz.com/game/43865/portal-2/,0.76
+The Elder Scrolls V: Skyrim,2011-11-10,94,8.1,12,115202,2086,39,0,611,32,9175,Role-Playing,M,32,0,0,NA,311,311,9600.16666666667,The Elder Scrolls V: Skyrim,http://www.vgchartz.com/game/49111/the-elder-scrolls-v-skyrim/,3.95
+Batman: Arkham City,2011-11-21,91,8.6,29,1745050,50622,459,0,14050,27,1868,Action Adventure,T,27,0,0,228,33,33,60174.1379310345,Batman: Arkham City,http://www.vgchartz.com/game/41801/batman-arkham-city/,0.53
+Deus Ex: Human Revolution,2011-08-23,90,8.5,48,81477051,73404,22718,0,8408,52,3090,Action,M,52,0,0,514,113,113,1697438.5625,Deus Ex: Human Revolution,http://www.vgchartz.com/game/43322/deus-ex-human-revolution/,0.59
+Total War: Shogun 2,2011-03-15,90,8.3,50,8952967,94900,1844,0,21094,62,1188,Strategy,T,62,0,0,190,43,43,179059.34,Total War: Shogun 2,http://www.vgchartz.com/game/45921/total-war-shogun-2/,0.61
+FIFA Soccer 12,2011-09-27,89,7.1,37,104593,1638,30,0,520,14,280,Sports,E,14,0,0,33,7,7,2826.83783783784,FIFA Soccer 12,NA,NA
+Battlefield 3,2011-10-25,89,7.5,29,95359,2148,54,0,584,61,4947,Action,M,60,1,0,NA,192,192,3288.24137931034,Battlefield 3,http://www.vgchartz.com/game/35315/battlefield-3/,2.78
+LIMBO,2011-08-02,88,8.1,49,1196927,8329,208,0,2777,22,1413,Action,T,22,0,0,171,56,56,24427.0816326531,LIMBO,http://www.vgchartz.com/game/52775/limbo/,0
+Assassin's Creed: Brotherhood,2011-03-22,88,8.2,49,131749,2799,64,0,563,24,1118,Action Adventure,M,24,0,0,93,33,33,2688.75510204082,Assassin's Creed: Brotherhood,http://www.vgchartz.com/game/45055/assassins-creed-brotherhood/,0.6
+The Witcher 2: Assassins of Kings,2011-05-17,88,8.5,41,143164,1220,30,0,349,76,4420,Role-Playing,M,70,6,0,NA,121,121,3491.80487804878,The Witcher 2: Assassins of Kings,http://www.vgchartz.com/game/39247/the-witcher-2-assassins-of-kings/,0.97
+Super Meat Boy,2011-04-05,87,8.3,18,145202,1358,14,0,361,11,755,Action,T,11,0,0,120,14,14,8066.77777777778,Super Meat Boy,http://www.vgchartz.com/game/39683/super-meat-boy/,0
+Dead Space 2,2011-01-25,87,8.3,19,3722,92,4,0,32,28,984,Action,M,27,1,0,122,29,29,195.894736842105,Dead Space 2,http://www.vgchartz.com/game/36807/dead-space-2/,0.32
+Bastion,2011-08-16,86,8.6,12,34562,430,3,0,94,17,1369,Action,E10+,16,1,0,294,48,48,2880.16666666667,Bastion,http://www.vgchartz.com/game/50527/bastion/,NA
+Crysis 2,2011-03-22,86,6.8,10,1669,24,2,0,16,42,1603,Action,M,39,3,0,199,116,116,166.9,Crysis 2,http://www.vgchartz.com/game/35003/crysis-2/,0.74
+DiRT 3,2011-05-24,86,7,50,141214452,281022,25271,0,93294,23,440,Driving,T,21,2,0,43,29,29,2824289.04,DiRT 3,http://www.vgchartz.com/game/44026/dirt-3/,0.15
+Battlefield 3: Back to Karkand,2011-12-13,86,7.2,46,186796,2479,40,0,529,9,158,Action,M,8,1,0,22,8,8,4060.78260869565,Battlefield 3: Back to Karkand,http://www.vgchartz.com/game/70284/battlefield-3-back-to-karkand/,NA
+Amnesia: The Dark Descent,2011-02-17,85,8.6,7,30432,251,4,0,76,44,1222,Action Adventure,M,42,2,0,287,28,28,4347.42857142857,Amnesia: The Dark Descent,http://www.vgchartz.com/game/47169/amnesia-the-dark-descent/,NA
+Frozen Synapse,2011-05-26,85,7.7,9,4724,90,0,0,23,27,194,Strategy,NA,24,3,0,43,6,6,524.888888888889,Frozen Synapse,http://www.vgchartz.com/gamedb/?name=Frozen+Synapse,0
+Star Wars: The Old Republic,2011-12-20,85,5.9,14,221965,1826,164,0,672,73,2757,Massively Multiplayer,T,68,5,0,700,217,217,15854.6428571429,Star Wars: The Old Republic,http://www.vgchartz.com/game/31584/star-wars-the-old-republic/,2.97
+Saints Row: The Third,2011-11-14,84,8.1,28,165534,2108,66,0,486,22,1272,Action Adventure,M,20,2,0,209,63,63,5911.92857142857,Saints Row: The Third,http://www.vgchartz.com/game/33323/saints-row-the-third/,0.39
+SpaceChem,2011-03-02,84,8.4,20,133742,1065,43,0,253,13,162,Miscellaneous,NA,11,2,0,45,3,3,6687.1,SpaceChem,http://www.vgchartz.com/gamedb/?name=SpaceChem,0
+Super Street Fighter IV: Arcade Edition,2011-07-07,84,7.8,48,323004,6017,68,0,872,11,153,Action,T,10,1,0,18,3,3,6729.25,Super Street Fighter IV: Arcade Edition,NA,0.13
+Football Manager 2012,2011-10-20,84,8,44,3336324,52194,805,0,15580,45,174,Sports,E,43,2,0,22,5,5,75825.5454545455,Football Manager 2012,http://www.vgchartz.com/game/57526/football-manager-2012/,1.51
+Unity of Command,2011-11-15,84,7.2,49,5852723,51941,946,0,10436,7,61,Strategy,RP,7,0,0,12,9,9,119443.326530612,Unity of Command,http://www.vgchartz.com/gamedb/?name=Unity+of+Command,NA
+The Binding of Isaac,2011-09-28,84,8.3,49,16289110,71884,3318,0,17016,30,1015,Action,NA,28,2,0,196,36,36,332430.816326531,The Binding of Isaac,http://www.vgchartz.com/game/70545/the-binding-of-isaac/,0.03
+Trine 2,2011-12-07,84,8.4,48,2773995,17749,299,0,3708,55,670,Action,E10+,51,4,0,80,16,16,57791.5625,Trine 2,http://www.vgchartz.com/game/45564/trine-2/,0.04
+Rift,2011-03-01,84,7.2,45,2009352,12475,258,0,4153,59,564,Role-Playing,T,56,3,0,121,50,50,44652.2666666667,Rift,NA,NA
+Shift 2: Unleashed,2011-03-29,84,6.1,7,673373,24195,426,0,4536,24,241,Driving,E10+,23,1,0,31,14,14,96196.1428571429,Shift 2: Unleashed,http://www.vgchartz.com/gamedb/?name=Shift+2%3A+Unleashed,NA
+Anno 2070,2011-11-17,83,7,45,3776198,35167,1222,0,7272,33,496,Strategy,T,29,4,0,70,27,27,83915.5111111111,Anno 2070,http://www.vgchartz.com/game/50771/anno-2070/,1.43
+Orcs Must Die!,2011-10-11,83,8.1,40,394780,4523,110,0,791,25,459,Action,T,22,3,0,93,19,19,9869.5,Orcs Must Die!,http://www.vgchartz.com/gamedb/?name=Orcs+Must+Die!,0
+Terraria,2011-05-16,83,8.5,50,6876497,65430,1611,0,11511,29,1628,Action,T,25,4,0,468,54,54,137529.94,Terraria,http://www.vgchartz.com/game/51349/terraria/,0.15
+L.A. Noire: The Complete Edition,2011-11-08,83,7.9,46,2304401,22364,419,0,3449,28,917,Adventure,M,23,5,0,99,49,49,50095.6739130435,L.A. Noire: The Complete Edition,http://www.vgchartz.com/game/68416/la-noire-the-complete-edition/,0.26
+F1 2011,2011-09-19,83,7.2,48,2099857,24883,609,0,4825,10,84,Driving,E,8,2,0,10,3,3,43747.0208333333,F1 2011,http://www.vgchartz.com/game/51211/f1-2011/,0.19
+The Book of Unwritten Tales,2011-10-28,82,8.2,50,921826,12963,258,0,3870,32,144,Adventure,T,28,4,0,32,4,4,18436.52,The Book of Unwritten Tales,http://www.vgchartz.com/game/32485/the-book-of-unwritten-tales/,0.1
+Gemini Rue,2011-02-24,82,8.4,40,1127223,7032,257,0,885,24,195,Adventure,NA,21,3,0,41,6,6,28180.575,Gemini Rue,http://www.vgchartz.com/gamedb/?name=Gemini+Rue,0
+Dragon Age II,2011-03-08,82,4.5,41,1391645,9957,279,0,2503,45,4549,Role-Playing,M,38,7,0,392,284,284,33942.5609756098,Dragon Age II,http://www.vgchartz.com/game/44010/dragon-age-ii/,0.63
+Monday Night Combat,2011-01-24,82,7.3,41,1263931,32193,693,0,5385,10,64,Action,T,9,1,0,11,8,8,30827.5853658537,Monday Night Combat,http://www.vgchartz.com/gamedb/?name=Monday+Night+Combat,0
+Fallout: New Vegas - Old World Blues,2011-07-19,82,7.8,36,439493,8756,223,0,3645,17,187,Role-Playing,M,14,3,0,25,11,11,12208.1388888889,Fallout: New Vegas,http://www.vgchartz.com/game/33664/fallout-new-vegas/,1.17
+Rochard,2011-11-15,81,8,49,3383839,39459,1253,0,30469,16,123,Action,T,14,2,0,22,6,6,69057.9387755102,Rochard,http://www.vgchartz.com/gamedb/?name=Rochard,NA
+Jamestown: Legend of the Lost Colony,2011-06-08,81,7.5,27,86523,698,54,0,283,20,130,Action,NA,17,3,0,30,9,9,3204.55555555556,Jamestown: Legend of the Lost Colony,http://www.vgchartz.com/gamedb/?name=Jamestown%3A+Legend+of+the+Lost+Colony,0
+TrackMania 2 Canyon,2011-09-14,81,7.7,43,1311189,8063,340,0,2171,37,99,Driving,E,30,7,0,10,3,3,30492.7674418605,TrackMania,http://www.vgchartz.com/game/37665/trackmania/,0
+Dungeon Defenders,2011-10-18,81,7.3,50,5067364,42040,1377,0,11983,26,401,Role-Playing,E10+,21,5,0,83,27,27,101347.28,Dungeon Defenders,http://www.vgchartz.com/game/47246/dungeon-defenders/,0.02
+Anomaly: Warzone Earth,2011-04-08,80,7.3,4,3006,46,1,0,10,36,166,Strategy,E10+,30,6,0,27,9,9,751.5,Anomaly: Warzone Earth,http://www.vgchartz.com/game/50751/anomaly-warzone-earth/,NA
+Dead Island,2011-09-05,80,6.8,36,2332183,6675,711,0,1517,24,1435,Action Adventure,M,18,6,0,196,97,97,64782.8611111111,Dead Island,http://www.vgchartz.com/game/18477/dead-island/,0.22
+Assassin's Creed: Revelations,2011-11-29,80,7.4,38,993213,4261,225,0,726,20,785,Action Adventure,M,15,5,0,51,48,48,26137.1842105263,Assassin's Creed: Revelations,http://www.vgchartz.com/game/51140/assassins-creed-revelations/,0.75
+World of Tanks,2011-09-06,80,3.7,42,520745,5543,219,0,2890,38,1478,First-Person,T,29,9,0,99,45,45,12398.6904761905,World of Tanks,http://www.vgchartz.com/game/50608/world-of-tanks/,0.29
+"Warhammer 40,000: Dawn of War II - Retribution",2011-02-28,80,7.8,50,3550757,39223,1480,0,7839,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,71015.14,Warhammer 40,http://www.vgchartz.com/game/20078/warhammer-40000-dawn-of-war-ii/,0.47
+Panzer Corps,2011-07-11,80,7.5,44,362087,3190,46,0,444,12,71,Strategy,NA,10,2,0,22,0,0,8229.25,Panzer Corps,http://www.vgchartz.com/gamedb/?name=Panzer+Corps,NA
+Driver: San Francisco,2011-09-27,80,7,32,1336222,9873,254,0,3045,11,335,Driving,T,10,1,0,34,12,12,41756.9375,Driver: San Francisco,http://www.vgchartz.com/game/45791/driver-san-francisco/,0.19
+CAPSIZED,2011-04-29,80,7.2,27,162159,2015,105,0,508,19,98,Action,NA,16,3,0,14,9,9,6005.88888888889,CAPSIZED,NA,NA
+Runaway: A Twist of Fate,2011-04-21,79,8.2,50,763855,4659,151,0,1017,15,40,Adventure,T,13,2,0,4,2,2,15277.1,Runaway: A Twist of Fate,http://www.vgchartz.com/game/33780/runaway-a-twist-of-fate/,0.04
+Bloodline Champions,2011-01-13,79,8,48,167372,1259,84,0,306,13,88,Action,NA,12,1,0,23,9,9,3486.91666666667,Blood,http://www.vgchartz.com/game/23337/blood/,NA
+Dungeons of Dredmor,2011-07-13,79,7.8,50,2557444,27421,602,0,11102,18,205,Role-Playing,NA,13,5,0,46,19,19,51148.88,Dungeons,http://www.vgchartz.com/game/46740/dungeons/,0.09
+Rage,2011-10-03,79,5.2,22,2813325,74965,1037,0,13832,32,1622,Action,M,24,7,1,209,139,139,127878.409090909,Rage,http://www.vgchartz.com/game/25457/rage/,0.37
+The Sims 3: Pets,2011-10-18,79,6,34,2044434,20647,529,0,1720,18,67,Simulation,T,13,5,0,5,2,2,60130.4117647059,The Sims 3,http://www.vgchartz.com/game/17805/the-sims-3/,8.02
+Two Worlds II: Pirates of the Flying Fortress,2011-09-30,78,7.5,50,470193,10428,85,0,1016,9,33,Role-Playing,M,8,0,1,8,2,2,9403.86,Two Worlds II,http://www.vgchartz.com/game/46625/two-worlds-ii/,0.2
+Call of Duty: Modern Warfare 3,2011-11-08,78,2.5,41,271406,6585,130,0,1971,26,5670,Action,M,19,7,0,381,170,170,6619.65853658537,Call of Duty: Modern Warfare 3,http://www.vgchartz.com/game/44604/call-of-duty-modern-warfare-3/,1.72
+Tropico 4,2011-08-30,78,7.7,31,371760,2709,58,0,457,46,359,Strategy,T,32,14,0,44,24,24,11992.2580645161,Tropico 4,http://www.vgchartz.com/game/46767/tropico-4/,0.27
+Sonic Generations,2011-11-03,77,8.3,26,156852,2571,150,0,672,11,337,Action,E,8,3,0,89,17,17,6032.76923076923,Sonic Generations,http://www.vgchartz.com/game/67113/sonic-generations/,0.11
+Men of War: Assault Squad,2011-06-14,77,8.2,21,69343,1678,31,0,246,21,94,Strategy,T,13,8,0,21,5,5,3302.04761904762,Men of War: Assault Squad,http://www.vgchartz.com/game/50710/men-of-war-assault-squad/,0.06
+Section 8: Prejudice,2011-05-04,77,7.8,43,1480616,18117,652,0,3629,22,105,Action,T,18,4,0,29,14,14,34432.9302325581,Section 8,http://www.vgchartz.com/game/31787/section-8/,0.04
+Might & Magic: Heroes VI,2011-10-13,77,6,29,1694189,8310,465,0,983,48,596,Role-Playing,T,37,11,0,79,36,36,58420.3103448276,Might & Magic: Heroes VI,http://www.vgchartz.com/gamedb/?name=Might+&+Magic%3A+Heroes+VI,0.33
+Pro Evolution Soccer 2012,2011-09-27,77,6.4,25,26397,347,13,0,151,13,89,Sports,NA,8,5,0,9,2,2,1055.88,Pro Evolution Soccer 2012,http://www.vgchartz.com/game/51204/pro-evolution-soccer-2012/,0.09
+Magic: The Gathering - Duels of the Planeswalkers 2012,2011-06-15,77,5.8,39,114749,1011,26,0,411,20,110,Strategy,T,12,8,0,17,11,11,2942.28205128205,Magic: The Gathering - Duels of the Planeswalkers 2012,http://www.vgchartz.com/gamedb/?name=Magic%3A+The+Gathering+-+Duels+of+the+Planeswalkers+2012,0
+The Sims Medieval,2011-03-22,77,6,37,320187,7870,102,0,1554,56,174,Simulation,T,35,21,0,24,13,13,8653.7027027027,The Sims,http://www.vgchartz.com/game/6478/the-sims/,0.05
+Hamilton's Great Adventure,2011-05-31,77,7.5,46,331539,2314,91,0,544,10,25,Adventure,E,7,3,0,6,2,2,7207.36956521739,Hamilton's Great Adventure,http://www.vgchartz.com/gamedb/?name=Hamilton's+Great+Adventure,0
+From Dust,2011-08-17,76,4.9,45,186913,3149,104,0,762,15,366,Strategy,E10+,10,5,0,42,40,40,4153.62222222222,From Dust,http://www.vgchartz.com/game/49330/from-dust/,0
+Renegade Ops,2011-10-26,76,7.4,27,1027083,8699,219,0,1767,7,82,Action,T,4,3,0,13,3,3,38040.1111111111,Renegade Ops,http://www.vgchartz.com/gamedb/?name=Renegade+Ops,0
+LEGO Star Wars III: The Clone Wars,2011-03-22,76,7.5,45,5863877,96376,3813,0,13656,14,44,Action Adventure,E10+,10,4,0,4,1,1,130308.377777778,LEGO Star Wars III: The Clone Wars,http://www.vgchartz.com/game/48795/lego-star-wars-iii-the-clone-wars/,0.25
+Red Orchestra 2: Heroes of Stalingrad,2011-09-13,76,7.3,50,737370,11111,141,0,2197,49,732,Action,M,31,17,1,173,51,51,14747.4,Red Orchestra 2: Heroes of Stalingrad,http://www.vgchartz.com/game/41133/red-orchestra-2-heroes-of-stalingrad/,0.14
+Who's That Flying?!,2011-01-31,76,6.7,41,57392,634,11,0,432,7,14,Action,NA,4,3,0,2,0,0,1399.80487804878,Who's That Flying?!,http://www.vgchartz.com/gamedb/?name=Who's+That+Flying?!,0
+Payday: The Heist,2011-10-20,76,7.8,48,151103,1084,34,0,507,17,479,Action,M,10,7,0,109,31,31,3147.97916666667,Payday: The Heist,http://www.vgchartz.com/gamedb/?name=Payday%3A+The+Heist,0
+Two Worlds II,2011-02-03,76,6.5,11,303,7,0,0,5,31,316,Role-Playing,M,19,12,0,32,35,35,27.5454545454545,Two Worlds II,http://www.vgchartz.com/game/46625/two-worlds-ii/,0.2
+Avadon: The Black Fortress,2011-05-02,75,7.9,19,78392,209,6,0,43,8,61,Role-Playing,NA,4,4,0,14,6,6,4125.8947368421,Avadon: The Black Fortress,http://www.vgchartz.com/game/46382/avadon-the-black-fortress/,NA
+Black Mirror III: Final Fear,2011-04-19,75,7.5,8,1421901,3627,228,0,754,15,28,Adventure,M,10,5,0,2,0,0,177737.625,Black Mirror III: Final Fear,http://www.vgchartz.com/gamedb/?name=Black+Mirror+III%3A+Final+Fear,NA
+Red Faction: Armageddon,2011-06-07,75,6.7,50,287662,4295,91,0,1551,29,276,Action,M,18,11,0,43,30,30,5753.24,Red Faction: Armageddon,http://www.vgchartz.com/game/47247/red-faction-armageddon/,0.09
+Back to the Future: The Game - Episode V: OUTATIME,2011-06-23,75,7.2,38,590562,5480,90,0,1556,17,33,Action Adventure,RP,10,6,1,8,2,2,15541.1052631579,Back to the Future: The Game - Episode V: OUTATIME,http://www.vgchartz.com/game/52396/back-to-the-future-the-game-episode-v-outatime/,NA
+Atom Zombie Smasher,2011-01-23,75,7.1,47,4719869,94844,1848,0,24298,7,103,Strategy,T,4,3,0,30,3,3,100422.744680851,Atom Zombie Smasher,http://www.vgchartz.com/game/50688/atom-zombie-smasher/,NA
+Fable III,2011-05-17,75,5.4,40,58816,561,32,0,229,39,559,Role-Playing,M,23,16,0,33,37,37,1470.4,Fable III,http://www.vgchartz.com/game/46925/fable-iii/,0.32
+Alice: Madness Returns,2011-06-14,75,8.4,40,2638857,17254,545,0,4827,29,566,Action Adventure,M,17,12,0,105,26,26,65971.425,Alice: Madness Returns,http://www.vgchartz.com/game/33814/alice-madness-returns/,0.12
+The Next Big Thing,2011-04-21,75,7.9,49,3452023,11903,588,0,847,30,35,Adventure,E10+,20,10,0,4,0,0,70449.4489795918,The Next Big Thing,http://www.vgchartz.com/gamedb/?name=The+Next+Big+Thing,0.06
+Back to the Future: The Game - Episode II: Get Tannen!,2011-02-17,74,7.3,50,7755026,48572,784,0,16951,21,35,Action Adventure,RP,12,8,1,4,3,3,155100.52,Back to the Future: The Game - Episode II: Get Tannen!,http://www.vgchartz.com/game/52393/back-to-the-future-the-game-episode-ii-get-tannen/,NA
+Space Pirates and Zombies,2011-08-15,74,7.7,44,2095722,11623,1296,0,2786,12,149,Adventure,NA,6,6,0,37,20,20,47630.0454545455,Space Pirates and Zombies,http://www.vgchartz.com/gamedb/?name=Space+Pirates+and+Zombies,0
+"Warhammer 40,000: Space Marine",2011-09-05,74,7.4,14,112517,914,19,0,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8036.92857142857,Warhammer 40,http://www.vgchartz.com/game/20078/warhammer-40000-dawn-of-war-ii/,0.47
+F.E.A.R. 3,2011-06-21,74,5.9,50,7814937,112156,4721,0,37147,34,423,First-Person Shooters,M,20,14,0,31,46,46,156298.74,F.E.A.R. 3,http://www.vgchartz.com/game/40828/fear-3/,0.15
+Rock of Ages,2011-09-07,74,7.8,14,148338,427,28,0,172,17,121,Action,E10+,9,8,0,16,9,9,10595.5714285714,Rock of Ages,http://www.vgchartz.com/gamedb/?name=Rock+of+Ages,0
+Deus Ex: Human Revolution - The Missing Link,2011-10-18,73,7.3,22,72138,1113,28,0,497,14,213,Action Adventure,M,7,7,0,16,12,12,3279,Deus Ex: Human Revolution,http://www.vgchartz.com/game/43322/deus-ex-human-revolution/,0.59
+LEGO Pirates of the Caribbean: The Video Game,2011-05-24,73,6.6,47,194852,3828,134,0,430,11,17,Action Adventure,E10+,NA,NA,NA,NA,NA,NA,4145.78723404255,LEGO Pirates of the Caribbean: The Video Game,http://www.vgchartz.com/game/48621/lego-pirates-of-the-caribbean-the-video-game/,0.04
+The Blackwell Deception,2011-10-12,73,8.5,7,599471,1524,127,0,262,10,39,Adventure,NA,5,5,0,3,0,0,85638.7142857143,The Blackwell Deception,http://www.vgchartz.com/gamedb/?name=The+Blackwell+Deception,NA
+Hard Reset,2011-09-13,73,7.3,24,3271696,61640,1426,0,51710,49,347,Action,M,28,20,1,58,36,36,136320.666666667,Hard Reset,http://www.vgchartz.com/gamedb/?name=Hard+Reset,0
+Solar 2,2011-06-17,72,7.1,27,233148,2479,155,0,622,8,69,Action,NA,6,1,1,5,11,11,8635.11111111111,Solar 2,http://www.vgchartz.com/gamedb/?name=Solar+2,0
+Serious Sam 3: BFE,2011-11-22,72,8.2,48,12270168,42674,3510,0,9068,53,590,Action,NA,27,26,0,165,26,26,255628.5,Serious Sam 3: BFE,http://www.vgchartz.com/game/51615/serious-sam-3-bfe/,0.08
+Blocks That Matter,2011-08-19,72,7.3,48,783221,8420,658,0,2482,8,57,Action,NA,5,3,0,9,7,7,16317.1041666667,Blocks That Matter,http://www.vgchartz.com/game/58355/blocks-that-matter/,NA
+DC Universe Online,2011-01-11,72,6.8,11,5964781,258296,3433,0,42649,27,243,Role-Playing,T,13,13,1,53,20,20,542252.818181818,DC Universe Online,http://www.vgchartz.com/game/47159/dc-universe-online/,0.23
+Dishonored,2012-10-08,91,8.4,25,598377,4730,119,0,1287,29,3453,Action Adventure,M,29,0,0,436,126,126,23935.08,Dishonored,http://www.vgchartz.com/game/52943/dishonored/,0.52
+Mark of the Ninja,2012-10-16,91,8,39,3581359,34683,855,0,2972,14,975,Action,M,14,0,0,117,13,13,91829.717948718,Mark of the Ninja,http://www.vgchartz.com/gamedb/?name=Mark+of+the+Ninja,0
+Guild Wars 2,2012-08-28,90,7.9,23,12883,177,7,0,77,69,2964,Role-Playing,T,68,1,0,648,142,142,560.130434782609,Guild Wars 2,http://www.vgchartz.com/game/37350/guild-wars-2/,2.37
+The Walking Dead: A Telltale Games Series,2012-04-24,89,8.7,27,48571,470,9,0,163,14,2264,Compilations,NA,14,0,0,296,35,35,1798.92592592593,The Walking Dead: A Telltale Games Series,NA,NA
+The Walking Dead: Episode 5 - No Time Left,2012-11-21,89,8.9,45,101764,2141,68,0,587,21,391,Miscellaneous,M,20,1,0,51,10,10,2261.42222222222,The Walking Dead: Episode 5 - No Time Left,http://www.vgchartz.com/gamedb/?name=The+Walking+Dead%3A+Episode+5+-+No+Time+Left,NA
+Borderlands 2,2012-09-17,89,8.2,50,1538176,9714,534,0,3219,38,2501,Action,M,37,1,0,377,84,84,30763.52,Borderlands 2,http://www.vgchartz.com/game/55599/borderlands-2/,0.93
+XCOM: Enemy Unknown,2012-10-09,89,8.2,50,140829,2329,30,0,460,57,2244,Strategy,M,56,1,0,356,120,120,2816.58,XCOM: Enemy Unknown,http://www.vgchartz.com/game/70978/xcom-enemy-unknown/,0.72
+Mass Effect 3,2012-03-06,89,5.5,40,689443,11188,181,0,2886,23,5960,Role-Playing,M,23,0,0,703,316,316,17236.075,Mass Effect 3,http://www.vgchartz.com/game/44119/mass-effect-3/,0.97
+Far Cry 3,2012-12-04,88,8.2,48,1321284,20582,264,0,2944,43,3214,Action,M,42,1,0,433,111,111,27526.75,Far Cry 3,http://www.vgchartz.com/game/51769/far-cry-3/,0.97
+Torchlight II,2012-09-20,88,8.6,25,115144,515,22,0,76,67,1894,Role-Playing,NA,66,1,0,424,52,52,4605.76,Torchlight II,http://www.vgchartz.com/game/46849/torchlight-ii/,0
+Thirty Flights of Loving,2012-08-20,88,5,50,180616,775,41,0,163,10,177,Adventure,NA,10,0,0,20,14,14,3612.32,Thirty Flights of Loving,http://www.vgchartz.com/gamedb/?name=Thirty+Flights+of+Loving,NA
+Diablo III,2012-05-15,88,4,45,3160388,16168,710,0,3282,86,9649,Role-Playing,M,81,4,1,NA,511,511,70230.8444444444,Diablo III,http://www.vgchartz.com/game/24178/diablo-iii/,5.19
+Max Payne 3,2012-05-31,87,7.6,19,525618,2561,150,0,423,30,2219,Action,M,28,2,0,269,105,105,27664.1052631579,Max Payne 3,http://www.vgchartz.com/game/29385/max-payne-3/,0.44
+Total War: Shogun 2 - Fall of the Samurai,2012-03-23,86,8.5,40,175394,2239,43,0,482,45,352,Strategy,T,44,1,0,43,8,8,4384.85,Total War: Shogun 2 - Fall of the Samurai,http://www.vgchartz.com/game/70570/total-war-shogun-2-fall-of-the-samurai/,0.2
+Football Manager 2013,2012-11-01,86,6.8,48,2189532,25227,535,0,5002,37,231,Sports,NA,35,2,0,19,10,10,45615.25,Football Manager 2013,http://www.vgchartz.com/game/71128/football-manager-2013/,1.15
+Black Mesa,2012-09-14,86,8.9,21,50125,525,17,0,131,9,560,Action,NA,9,0,0,87,5,5,2386.90476190476,Black Mesa,http://www.vgchartz.com/game/43006/black-mesa/,NA
+FIFA Soccer 13,2012-09-25,86,6.6,26,427372,1957,93,0,479,7,289,Sports,E,7,0,0,17,9,9,16437.3846153846,FIFA Soccer 13,http://www.vgchartz.com/game/70739/fifa-soccer-13/,0.4
+Tribes: Ascend,2012-04-12,86,7.8,49,764147,8351,195,0,2132,30,585,Action,T,29,1,0,149,14,14,15594.8367346939,Tribes: Ascend,http://www.vgchartz.com/gamedb/?name=Tribes%3A+Ascend,0
+Rayman Origins,2012-03-29,86,8.4,46,10995819,40262,3009,0,5903,11,342,Action,E10+,11,0,0,49,3,3,239039.543478261,Rayman Origins,http://www.vgchartz.com/game/70541/rayman-origins/,0.08
+Hotline Miami,2012-10-23,85,8.5,50,26156,345,8,0,120,51,1157,Action,M,48,2,1,183,31,31,523.12,Hotline Miami,http://www.vgchartz.com/gamedb/?name=Hotline+Miami,0
+Out of the Park Baseball 13,2012-04-09,85,8.2,8,69483,538,24,0,112,8,83,Sports,NA,7,1,0,40,0,0,8685.375,Out of the Park Baseball 13,http://www.vgchartz.com/gamedb/?name=Out+of+the+Park+Baseball+13,NA
+Dark Souls: Prepare to Die Edition,2012-08-23,85,7.5,20,4872358,31818,1024,0,5388,42,1990,Role-Playing,M,36,5,1,366,60,60,243617.9,Dark Souls,http://www.vgchartz.com/game/70899/dark-souls/,0.07
+The Walking Dead: Episode 3 - Long Road Ahead,2012-08-29,85,8.4,50,1002657,4309,332,0,918,24,247,Miscellaneous,M,22,2,0,13,6,6,20053.14,The Walking Dead: Episode 3 - Long Road Ahead,http://www.vgchartz.com/gamedb/?name=The+Walking+Dead%3A+Episode+3+-+Long+Road+Ahead,NA
+The Walking Dead: Episode 2 - Starved for Help,2012-06-29,84,8.6,11,7180,127,1,0,36,25,378,Miscellaneous,M,24,1,0,40,5,5,652.727272727273,The Walking Dead: Episode 2 - Starved for Help,http://www.vgchartz.com/gamedb/?name=The+Walking+Dead%3A+Episode+2+-+Starved+for+Help,NA
+Pinball FX 2,2012-10-27,84,7.9,47,790632,6037,502,0,1930,7,79,Action,E,7,0,0,24,4,4,16821.9574468085,Pinball FX 2,http://www.vgchartz.com/gamedb/?name=Pinball+FX+2,0
+PlanetSide 2,2012-11-20,84,7,49,1450737,34705,281,0,5062,42,1295,Role-Playing,T,38,4,0,268,105,105,29606.8775510204,PlanetSide 2,http://www.vgchartz.com/gamedb/?name=PlanetSide+2,0
+FTL: Faster Than Light,2012-09-14,84,8.4,36,52836,1135,20,0,415,42,1325,Simulation,NA,41,1,0,261,34,34,1467.66666666667,FTL: Faster Than Light,http://www.vgchartz.com/gamedb/?name=FTL%3A+Faster+Than+Light,0
+Orcs Must Die! 2,2012-07-30,83,7.9,47,2281108,21216,644,0,5835,43,513,Action,T,39,4,0,65,25,25,48534.2127659574,Orcs Must Die! 2,http://www.vgchartz.com/gamedb/?name=Orcs+Must+Die!,0
+Alan Wake,2012-02-16,83,8,22,5468463,262388,3157,0,45448,30,1484,Action Adventure,T,27,3,0,171,65,65,248566.5,Alan Wake,http://www.vgchartz.com/game/13818/alan-wake/,0.07
+Counter-Strike: Global Offensive,2012-08-21,83,7.8,50,14708026,289835,7322,0,135923,38,2656,Action,M,34,4,0,346,85,85,294160.52,Counter-Strike: Global Offensive,http://www.vgchartz.com/game/57184/counter-strike-global-offensive/,NA
+Sins of a Solar Empire: Rebellion,2012-06-12,82,7.8,39,894148,7282,147,0,1086,24,255,Strategy,T,20,4,0,55,9,9,22926.8717948718,Sins of a Solar Empire,http://www.vgchartz.com/game/15876/sins-of-a-solar-empire/,0.03
+Legend of Grimrock,2012-04-11,82,8.1,34,457774,4839,67,0,1038,51,690,Role-Playing,NA,46,5,0,136,22,22,13463.9411764706,Legend of Grimrock,http://www.vgchartz.com/gamedb/?name=Legend+of+Grimrock,0
+Borderlands 2: Mr. Torgue's Campaign of Carnage,2012-11-20,82,7.3,28,2437368,28605,696,0,10161,8,73,Action,M,7,1,0,7,4,4,87048.8571428571,Borderlands 2,http://www.vgchartz.com/game/55599/borderlands-2/,0.93
+Crusader Kings II,2012-02-14,82,8.7,50,5680082,74492,1518,0,13518,31,745,Strategy,T,27,4,0,171,8,8,113601.64,Crusader Kings II,http://www.vgchartz.com/game/51958/crusader-kings-ii/,0
+World of Warcraft: Mists of Pandaria,2012-09-25,82,4.8,48,131208,1875,40,0,422,42,1272,Massively Multiplayer,T,38,4,0,164,40,40,2733.5,World of Warcraft: Mists of Pandaria,http://www.vgchartz.com/game/65124/world-of-warcraft-mists-of-pandaria/,1.82
+The Walking Dead: Episode 1 - A New Day,2012-04-24,82,8.4,21,30422,677,20,0,255,40,794,Action,M,33,7,0,116,24,24,1448.66666666667,The Walking Dead: Episode 1 - A New Day,http://www.vgchartz.com/gamedb/?name=The+Walking+Dead%3A+Episode+1+-+A+New+Day,NA
+Botanicula,2012-04-19,82,8.3,48,1967759,10529,481,0,1567,38,343,Adventure,NA,32,6,0,51,8,8,40994.9791666667,Botanicula,http://www.vgchartz.com/game/65018/botanicula/,0.03
+To the Moon,2012-09-07,81,8.9,50,586096,6487,189,0,1396,26,1075,Role-Playing,NA,22,4,0,202,15,15,11721.92,To the Moon,http://www.vgchartz.com/gamedb/?name=To+the+Moon,0
+Darksiders II,2012-08-13,81,7.8,32,31619,526,37,0,244,23,657,Action Adventure,M,21,2,0,85,28,28,988.09375,Darksiders II,http://www.vgchartz.com/game/70583/darksiders-ii/,0.15
+Lone Survivor,2012-04-23,81,7.2,37,219491,3444,51,0,840,24,137,Action Adventure,NA,20,4,0,24,5,5,5932.18918918919,Lone Survivor,http://www.vgchartz.com/gamedb/?name=Lone+Survivor,NA
+Vessel,2012-03-01,81,7.9,23,50379,1449,19,0,474,26,109,Action,E,22,4,0,18,7,7,2190.39130434783,Vessel,http://www.vgchartz.com/gamedb/?name=Vessel,0
+Kingdoms of Amalur: Reckoning,2012-02-07,81,6.6,46,426619,7080,192,0,1767,25,1102,Role-Playing,M,22,3,0,202,99,99,9274.32608695652,Kingdoms of Amalur: Reckoning,http://www.vgchartz.com/game/46226/kingdoms-of-amalur-reckoning/,0.3
+Sleeping Dogs,2012-08-13,81,8.2,11,325538,1533,151,0,442,23,1220,Action Adventure,M,18,5,0,187,49,49,29594.3636363636,Sleeping Dogs,http://www.vgchartz.com/game/70487/sleeping-dogs/,0.12
+Wargame: European Escalation,2012-02-22,81,8.1,26,47045,1416,40,0,446,28,209,Strategy,NA,23,5,0,67,11,11,1809.42307692308,Wargame: European Escalation,http://www.vgchartz.com/gamedb/?name=Wargame%3A+European+Escalation,0
+Sid Meier's Civilization V: Gods & Kings,2012-06-18,80,7.7,50,3052803,14318,516,0,2562,53,442,Strategy,E10+,42,10,1,33,20,20,61056.06,Sid Meier's Civilization V,http://www.vgchartz.com/game/43507/sid-meiers-civilization-v/,1.69
+Pro Evolution Soccer 2013,2012-09-25,80,6.9,50,2013074,51165,705,0,6678,8,185,Sports,E,6,2,0,17,3,3,40261.48,Pro Evolution Soccer 2013,http://www.vgchartz.com/game/71107/pro-evolution-soccer-2013/,0.08
+Assassin's Creed III,2012-11-20,80,6.2,5,5386412,51310,1452,0,5383,21,1506,Action Adventure,M,18,2,1,111,112,112,1077282.4,Assassin's Creed III,http://www.vgchartz.com/game/70619/assassins-creed-iii/,0.93
+La-Mulana (Remake),2012-07-13,80,7.1,46,863244,16191,2063,0,9153,9,67,Action,NA,8,1,0,12,1,1,18766.1739130435,La-Mulana (Remake),http://www.vgchartz.com/gamedb/?name=La-Mulana+(Remake),NA
+Natural Selection 2,2012-10-30,80,8.4,50,299943,13697,559,0,927,28,625,Action,NA,24,4,0,177,27,27,5998.86,Natural Selection 2,http://www.vgchartz.com/gamedb/?name=Natural+Selection+2,NA
+Borderlands 2: Captain Scarlett and Her Pirate's Booty,2012-10-16,80,7.4,49,6779118,154285,2388,0,46710,9,78,Action,M,9,0,0,4,4,4,138349.346938776,Borderlands 2,http://www.vgchartz.com/game/55599/borderlands-2/,0.93
+The Walking Dead: Episode 4 - Around Every Corner,2012-10-10,80,8.5,41,45115,339,11,0,119,24,211,Miscellaneous,M,17,7,0,15,2,2,1100.36585365854,The Walking Dead: Episode 4 - Around Every Corner,http://www.vgchartz.com/gamedb/?name=The+Walking+Dead%3A+Episode+4+-+Around+Every+Corner,NA
+F1 2012,2012-09-18,80,6.9,50,1507962,25863,702,0,8402,15,115,Driving,E,12,3,0,11,4,4,30159.24,F1 2012,http://www.vgchartz.com/game/70926/f1-2012/,0.15
+Stealth Bastard Deluxe,2012-11-28,80,8.2,44,1370647,22040,586,0,6433,10,63,Action,NA,9,1,0,4,1,1,31151.0681818182,Stealth Bastard Deluxe,http://www.vgchartz.com/gamedb/?name=Stealth+Bastard+Deluxe,NA
+Stacking,2012-03-06,80,7.9,50,153665,4511,82,0,906,9,92,Miscellaneous,E10+,8,1,0,7,4,4,3073.3,Stacking,http://www.vgchartz.com/gamedb/?name=Stacking,NA
+FLY'N,2012-11-09,80,8.2,50,3061403,56216,1300,0,15365,7,58,Miscellaneous,NA,6,1,0,17,2,2,61228.06,FLY'N,http://www.vgchartz.com/gamedb/?name=FLY'N,NA
+Dustforce,2012-01-17,79,7.9,49,489845,6817,348,0,1752,35,101,Action,NA,27,7,1,22,5,5,9996.83673469388,Dustforce,NA,NA
+Hitman: Absolution,2012-11-19,79,7,29,8626000,178608,8319,0,18542,26,1336,Action Adventure,M,18,8,0,124,95,95,297448.275862069,Hitman: Absolution,http://www.vgchartz.com/game/50955/hitman-absolution/,0.25
+Street Fighter X Tekken,2012-05-11,79,6.4,46,641057,8050,153,0,2232,8,134,Action,T,6,2,0,10,10,10,13936.0217391304,Street Fighter X Tekken,http://www.vgchartz.com/game/64675/street-fighter-x-tekken/,0.02
+Chivalry: Medieval Warfare,2012-10-16,79,7.8,49,219394,6002,61,0,1260,24,891,Action,NA,19,5,0,189,59,59,4477.42857142857,Chivalry: Medieval Warfare,http://www.vgchartz.com/gamedb/?name=Chivalry%3A+Medieval+Warfare,0
+Rift: Storm Legion,2012-11-13,79,7.8,48,340773,4706,241,0,1168,15,73,Role-Playing,T,11,4,0,14,1,1,7099.4375,Rift: Storm Legion,http://www.vgchartz.com/gamedb/?name=Rift%3A+Storm+Legion,NA
+Need for Speed: Most Wanted - A Criterion Game,2012-10-30,78,4.4,19,358908,6186,102,0,887,14,725,Driving,E10+,11,3,0,43,45,45,18889.8947368421,Need for Speed: Most Wanted,http://www.vgchartz.com/game/15237/need-for-speed-most-wanted/,0.29
+Baldur's Gate: Enhanced Edition,2012-11-28,78,6.8,49,3900876,31872,503,0,6920,39,362,Role-Playing,T,29,9,1,48,22,22,79609.7142857143,Baldur's Gate,http://www.vgchartz.com/game/7300/baldurs-gate/,0
+Transformers: Fall of Cybertron,2012-08-20,78,7.9,50,4695458,253545,2858,0,42152,13,122,Action,T,9,4,0,16,4,4,93909.16,Transformers: Fall of Cybertron,http://www.vgchartz.com/game/70351/transformers-fall-of-cybertron/,0.01
+Chaos on Deponia,2012-11-06,78,8.3,36,200660,4350,73,0,572,31,169,Adventure,NA,24,7,0,10,2,2,5573.88888888889,Chaos on Deponia,http://www.vgchartz.com/gamedb/?name=Chaos+on+Deponia,0
+Tropico 4: Modern Times,2012-03-29,78,8,15,1524226,20292,354,0,3912,11,58,Strategy,T,8,3,0,7,2,2,101615.066666667,Tropico 4: Modern Times,http://www.vgchartz.com/game/70577/tropico-4-modern-times/,0.02
+Elemental: Fallen Enchantress,2012-10-23,78,7.3,45,509134,4085,93,0,866,13,170,Strategy,NA,9,4,0,46,17,17,11314.0888888889,Elemental: Fallen Enchantress,http://www.vgchartz.com/gamedb/?name=Elemental%3A+Fallen+Enchantress,NA
+Deadlight,2012-10-25,78,7.3,37,160996,2944,89,0,907,7,533,Action,M,5,2,0,31,48,48,4351.24324324324,Deadlight,NA,NA
+Giana Sisters: Twisted Dreams,2012-10-23,77,7.8,27,456149,3463,98,0,846,21,164,Action,NA,15,5,1,29,7,7,16894.4074074074,Giana Sisters: Twisted Dreams,http://www.vgchartz.com/gamedb/?name=Giana+Sisters%3A+Twisted+Dreams,0
+Quantum Conundrum,2012-06-21,77,7.3,46,100263,1127,60,0,483,60,189,Miscellaneous,E,45,14,1,23,17,17,2179.63043478261,Quantum Conundrum,http://www.vgchartz.com/gamedb/?name=Quantum+Conundrum,0
+Endless Space,2012-07-04,77,7.4,31,11149923,48978,4143,0,7202,36,514,Strategy,T,27,8,1,81,55,55,359674.935483871,Endless Space,http://www.vgchartz.com/game/74508/endless-space/,0
+The Darkness II,2012-02-06,77,7.6,48,131553,1738,42,0,723,20,451,Action,M,15,5,0,57,17,17,2740.6875,The Darkness II,http://www.vgchartz.com/game/50102/the-darkness-ii/,0.14
+TERA,2012-05-01,77,6.8,49,2904345,35327,1196,0,8501,41,747,Role-Playing,M,28,13,0,197,55,55,59272.3469387755,TERA,http://www.vgchartz.com/game/44073/tera/,0.42
+Magic: The Gathering - Duels of the Planeswalkers 2013,2012-06-20,77,6.8,25,485573,2370,163,0,463,11,100,Strategy,T,7,4,0,11,5,5,19422.92,Magic: The Gathering - Duels of the Planeswalkers 2013,http://www.vgchartz.com/gamedb/?name=Magic%3A+The+Gathering+-+Duels+of+the+Planeswalkers+2013,NA
+Resonance,2012-06-19,76,7.9,50,10561272,83815,1822,0,18401,35,101,Adventure,NA,23,12,0,20,3,3,211225.44,Resonance,http://www.vgchartz.com/gamedb/?name=Resonance,NA
+Miasmata,2012-11-28,76,7.7,12,59526,360,11,0,78,21,113,Adventure,NA,12,9,0,31,4,4,4960.5,Miasmata,http://www.vgchartz.com/gamedb/?name=Miasmata,NA
+Spec Ops: The Line,2012-06-25,76,8.2,39,2575530,18156,564,0,2363,16,1246,Action,M,9,7,0,192,50,50,66039.2307692308,Spec Ops: The Line,http://www.vgchartz.com/game/41816/spec-ops-the-line/,0.23
+Ys Origin,2012-05-31,76,8.7,49,426833,7565,213,0,1095,7,98,Role-Playing,NA,4,3,0,26,1,1,8710.87755102041,Ys Origin,http://www.vgchartz.com/gamedb/?name=Ys+Origin,0
+Prototype 2,2012-07-24,76,6.4,50,805124,28220,698,0,8591,12,398,Action Adventure,M,9,3,0,27,20,20,16102.48,Prototype 2,http://www.vgchartz.com/gamedb/?name=Prototype,0.12
+Super Monday Night Combat,2012-04-19,76,3.6,48,140466,2622,58,0,737,7,211,Action,NA,5,2,0,23,14,14,2926.375,Super Monday Night Combat,http://www.vgchartz.com/gamedb/?name=Super+Monday+Night+Combat,NA
+Dear Esther,2012-02-14,75,6.5,48,419969,8446,180,0,2161,37,680,Adventure,NA,29,5,3,114,49,49,8749.35416666667,Dear Esther,http://www.vgchartz.com/gamedb/?name=Dear+Esther,0
+Tiny & Big: Grandpa's Leftovers,2012-06-19,75,7.4,17,431044,2639,160,0,728,30,95,Adventure,NA,20,10,0,8,15,15,25355.5294117647,Tiny & Big: Grandpa's Leftovers,NA,NA
+Edna & Harvey: Harvey's New Eyes,2012-10-16,75,8.1,27,18593,380,8,0,91,19,68,Adventure,NA,11,8,0,4,2,2,688.62962962963,Edna & Harvey: Harvey's New Eyes,http://www.vgchartz.com/game/64151/edna-amp-harvey-harveys-new-eyes/,0.08
+Scribblenauts Unlimited,2012-11-19,75,7.8,25,903267,11158,248,0,536,14,163,Puzzle,E,7,7,0,19,8,8,36130.68,Scribblenauts Unlimited,http://www.vgchartz.com/gamedb/?name=Scribblenauts+Unlimited,NA
+Blacklight: Retribution,2012-04-03,75,7.5,50,9447554,207907,2889,0,31105,20,352,Action,NA,14,6,0,70,22,22,188951.08,Blacklight: Retribution,http://www.vgchartz.com/game/52902/blacklight-retribution/,NA
+Iron Brigade,2012-08-13,75,5.2,50,906146,5002,76,0,855,7,38,Action,T,3,4,0,1,2,2,18122.92,Iron Brigade,http://www.vgchartz.com/gamedb/?name=Iron+Brigade,NA
+The Dark Eye: Chains of Satinav,2012-06-22,75,7.7,50,2456977,27418,856,0,7261,24,120,Adventure,NA,18,6,0,13,2,2,49139.54,The Dark Eye: Chains of Satinav,http://www.vgchartz.com/gamedb/?name=The+Dark+Eye%3A+Chains+of+Satinav,0
+Warp,2012-03-13,75,5.9,35,50774,887,20,0,595,9,46,Action,M,5,4,0,5,4,4,1450.68571428571,Warp,http://www.vgchartz.com/gamedb/?name=Warp,0
+Mass Effect 3: Leviathan,2012-08-28,75,6.6,44,1099866,5784,525,0,2176,7,162,Role-Playing,M,5,2,0,7,8,8,24996.9545454545,Mass Effect 3,http://www.vgchartz.com/game/44119/mass-effect-3/,0.97
+Symphony,2012-08-06,75,7.8,44,1337190,19277,575,0,3925,13,47,Miscellaneous,NA,8,5,0,12,2,2,30390.6818181818,Symphony,NA,NA
+Deponia,2012-08-06,74,8.2,49,12667243,28138,3562,0,3776,33,313,Adventure,NA,20,13,0,29,15,15,258515.163265306,Deponia,http://www.vgchartz.com/game/38758/deponia/,0.15
+The Sims 3 Supernatural,2012-09-04,74,6.3,50,90743,1855,18,0,361,16,49,Simulation,T,11,4,1,3,4,4,1814.86,The Sims 3,http://www.vgchartz.com/game/17805/the-sims-3/,8.02
+Incredipede,2012-10-25,74,6.9,50,118093,1782,37,0,496,7,24,Miscellaneous,NA,2,5,0,4,4,4,2361.86,Incredipede,http://www.vgchartz.com/gamedb/?name=Incredipede,NA
+Unmechanical,2012-08-08,74,8.2,48,75459,1096,30,0,231,24,71,Action,NA,13,11,0,13,3,3,1572.0625,Unmechanical,http://www.vgchartz.com/gamedb/?name=Unmechanical,NA
+Snapshot,2012-08-30,74,7.3,40,3825412,107226,1283,0,8577,8,18,Action,E,6,2,0,2,1,1,95635.3,Snapshot,http://www.vgchartz.com/gamedb/?name=Snapshot,NA
+The Secret World,2012-07-03,74,8.2,50,186372,4268,182,0,505,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3727.44,The Secret World,http://www.vgchartz.com/game/38647/the-secret-world/,0.17
+BioShock Infinite,2013-03-25,94,8.5,50,711179,12241,427,0,1725,68,7368,Action,M,68,0,0,NA,297,297,14223.58,BioShock Infinite,http://www.vgchartz.com/game/46735/bioshock-infinite/,0.67
+Fez,2013-05-01,91,6.6,44,134626,4107,90,0,1156,11,1067,Action,E,11,0,0,103,31,31,3059.68181818182,Fez,http://www.vgchartz.com/gamedb/?name=Fez,0
+Spelunky,2013-08-08,90,7.2,49,563746,10296,125,0,1427,9,463,Action,NA,9,0,0,49,8,8,11505.0204081633,Spelunky,http://www.vgchartz.com/gamedb/?name=Spelunky,0
+Brothers: A Tale of Two Sons,2013-09-03,90,8.5,19,1622688,9994,322,0,2333,9,1232,Action Adventure,T,9,0,0,192,28,28,85404.6315789474,Brothers: A Tale of Two Sons,http://www.vgchartz.com/gamedb/?name=Brothers%3A+A+Tale+of+Two+Sons,0
+Dota 2,2013-07-09,90,6.2,40,245469,5177,56,0,1146,32,12149,Other Strategy Games,NA,31,1,0,NA,122,122,6136.725,Dota 2,NA,NA
+Rocksmith 2014 Edition,2013-10-22,89,8,18,2399998,5425,773,0,500,7,134,Action,T,7,0,0,25,5,5,133333.222222222,Rocksmith 2014,http://www.vgchartz.com/game/73111/rocksmith-2014/,0.67
+Crusader Kings II: The Old Gods,2013-05-28,88,8.7,26,261242,5228,95,0,1536,7,163,Strategy,NA,7,0,0,11,1,1,10047.7692307692,Crusader Kings II,http://www.vgchartz.com/game/51958/crusader-kings-ii/,0
+Guacamelee! Gold Edition,2013-08-08,88,7.3,18,269808,1622,16,0,288,22,229,Action,NA,21,1,0,26,10,10,14989.3333333333,Guacamelee! Gold Edition,NA,NA
+The Swapper,2013-05-30,87,8.6,38,52642,1484,33,0,582,36,481,Action,NA,35,1,0,80,15,15,1385.31578947368,The Swapper,http://www.vgchartz.com/gamedb/?name=The+Swapper,0
+Europa Universalis IV,2013-08-13,87,8.7,46,503178,5681,167,0,1681,34,958,Strategy,T,31,3,0,154,17,17,10938.652173913,Europa Universalis IV,http://www.vgchartz.com/game/75717/europa-universalis-iv/,0
+Gone Home,2013-08-15,86,5.4,41,212577,1058,11,0,141,56,2039,Adventure,NA,49,7,0,302,165,165,5184.80487804878,Gone Home,http://www.vgchartz.com/game/79734/gone-home/,0
+Pac-Man Championship Edition DX +,2013-09-24,86,7.3,32,488560,4759,132,0,1144,7,76,Action,E,7,0,0,10,3,3,15267.5,Pac-Man Championship Edition DX +,http://www.vgchartz.com/gamedb/?name=Pac-Man+Championship+Edition+DX++,NA
+Out of the Park Baseball 14,2013-04-15,86,8.5,17,48263,497,87,0,373,8,62,Sports,NA,7,1,0,25,2,2,2839,Out of the Park Baseball 14,http://www.vgchartz.com/gamedb/?name=Out+of+the+Park+Baseball+14,NA
+Saints Row IV,2013-08-19,86,7.4,50,666224,4397,122,0,1519,45,1555,Action Adventure,M,42,3,0,190,79,79,13324.48,Saints Row IV,http://www.vgchartz.com/game/71729/saints-row-iv/,0.19
+Starcraft II: Heart of the Swarm,2013-03-12,86,7.9,50,130491362,204720,57520,0,21819,68,1353,Strategy,T,66,1,1,168,58,58,2609827.24,Starcraft II: Heart of the Swarm,http://www.vgchartz.com/gamedb/?name=Starcraft+II%3A+Heart+of+the+Swarm,1.68
+Tomb Raider,2013-03-04,86,8.5,6,2746277,69696,2401,0,8236,18,3582,Action Adventure,M,17,1,0,521,116,116,457712.833333333,Tomb Raider,http://www.vgchartz.com/game/6503/tomb-raider/,1.03
+XCOM: Enemy Within,2013-11-12,86,8,49,17456963,213630,4862,0,57256,54,695,Turn-Based Strategy,M,52,2,0,74,20,20,356264.551020408,XCOM: Enemy Within,http://www.vgchartz.com/gamedb/?name=XCOM%3A+Enemy+Within,0
+Path of Exile,2013-01-25,86,8,37,44081,1044,24,0,413,27,1518,Role-Playing,NA,25,2,0,267,45,45,1191.37837837838,Path of Exile,http://www.vgchartz.com/gamedb/?name=Path+of+Exile,NA
+Bit.Trip Presents...Runner2: Future Legend of Rhythm Alien,2013-02-26,85,8.2,8,20515,329,10,0,110,23,161,Action,T,23,0,0,19,7,7,2564.375,Bit.Trip Presents...Runner2: Future Legend of Rhythm Alien,http://www.vgchartz.com/gamedb/?name=Bit.Trip+Presents...Runner2%3A+Future+Legend+of+Rhythm+Alien,NA
+Dust: An Elysian Tail,2013-05-24,85,8.4,50,142897,3587,71,0,67,7,460,Role-Playing,E10+,7,0,0,92,8,8,2857.94,Dust: An Elysian Tail,http://www.vgchartz.com/gamedb/?name=Dust%3A+An+Elysian+Tail,0
+DmC: Devil May Cry,2013-01-24,85,6.8,24,1089044,9439,161,0,1577,22,1694,Action,M,22,0,0,190,60,60,45376.8333333333,DmC: Devil May Cry,http://www.vgchartz.com/gamedb/?name=DmC%3A+Devil+May+Cry,0
+The Wolf Among Us: Episode 1 - Faith,2013-10-11,85,9,47,1106731,10469,392,0,5711,45,765,Action Adventure,M,43,2,0,96,6,6,23547.4680851064,The Wolf Among Us: Episode 1 - Faith,http://www.vgchartz.com/gamedb/?name=The+Wolf+Among+Us%3A+Episode+1+-+Faith,NA
+Rogue Legacy,2013-06-27,85,7.9,18,95516579,326851,13268,0,41881,43,589,Role-Playing,NA,42,1,0,77,33,33,5306476.61111111,Rogue Legacy,http://www.vgchartz.com/gamedb/?name=Rogue+Legacy,0
+Football Manager 2014,2013-10-30,85,5.5,50,609099,15749,291,0,605,41,277,Sports,E,40,1,0,19,10,10,12181.98,Football Manager 2014,http://www.vgchartz.com/game/76962/football-manager-2014/,0.64
+Sid Meier's Civilization V: Brave New World,2013-07-08,85,8.6,47,313556,9575,184,0,2236,55,636,Strategy,E10+,52,2,1,74,13,13,6671.40425531915,Sid Meier's Civilization V,http://www.vgchartz.com/game/43507/sid-meiers-civilization-v/,1.69
+Trials Evolution: Gold Edition,2013-03-21,85,6.7,49,39148,493,19,0,137,10,126,Driving,E10+,10,0,0,14,4,4,798.938775510204,Trials Evolution: Gold Edition,NA,NA
+"Papers, Please",2013-08-08,85,8.5,2,77,4,1,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,38.5,"Papers, Please",http://www.vgchartz.com/gamedb/?name=Papers%2C+Please,0
+Mass Effect 3: Citadel,2013-03-05,84,7.9,30,19679,287,11,0,130,8,349,Role-Playing,M,7,1,0,32,6,6,655.966666666667,Mass Effect 3,http://www.vgchartz.com/game/44119/mass-effect-3/,0.97
+Assassin's Creed IV: Black Flag,2013-11-19,84,7.7,34,2630198,44135,1035,0,14321,10,1485,Action Adventure,M,8,2,0,177,50,50,77358.7647058823,Assassin's Creed IV: Black Flag,http://www.vgchartz.com/game/71749/assassins-creed-iv-black-flag/,0.65
+Gunpoint,2013-06-03,83,8.3,32,947344,6717,266,0,1132,33,374,Miscellaneous,NA,31,2,0,92,17,17,29604.5,Gun,http://www.vgchartz.com/game/26377/gun/,0.01
+Final Fantasy XIV Online: A Realm Reborn,2013-08-27,83,6.8,49,1085289,14725,261,0,1664,32,1288,Role-Playing,T,29,3,0,280,50,50,22148.7551020408,Final Fantasy XI,http://www.vgchartz.com/game/13893/final-fantasy-xi/,0
+Card Hunter (2013),2013-09-12,83,7.9,47,521604,9028,133,0,3398,18,59,Strategy,NA,17,1,0,11,3,3,11097.9574468085,Card Hunter (2013),http://www.vgchartz.com/gamedb/?name=Card+Hunter+(2013),NA
+Starseed Pilgrim,2013-04-16,83,6.1,50,152370,3448,57,0,832,12,36,Simulation,NA,9,3,0,4,3,3,3047.4,Starseed Pilgrim,http://www.vgchartz.com/gamedb/?name=Starseed+Pilgrim,NA
+Monaco: What's Yours Is Mine,2013-04-24,83,7.7,50,3538104,71640,1638,0,16460,47,213,Adventure,T,39,8,0,26,10,10,70762.08,Monaco: What's Yours Is Mine,http://www.vgchartz.com/gamedb/?name=Monaco%3A+What's+Yours+Is+Mine,0
+Valdis Story: Abyssal City,2013-10-30,83,8,42,18244208,127552,4636,0,10931,7,71,Action,NA,7,0,0,18,7,7,434385.904761905,Valdis Story: Abyssal City,http://www.vgchartz.com/gamedb/?name=Valdis+Story%3A+Abyssal+City,0
+Sokobond,2013-08-27,82,7.8,5,12131,291,15,0,54,7,5,Miscellaneous,NA,4,3,0,3,0,0,2426.2,Sokobond,http://www.vgchartz.com/gamedb/?name=Sokobond,0
+Antichamber,2013-01-31,82,8.2,40,459361,10844,124,0,2768,50,542,Miscellaneous,NA,44,6,0,83,20,20,11484.025,Antichamber,http://www.vgchartz.com/gamedb/?name=Antichamber,NA
+Metro: Last Light,2013-05-13,82,8.6,50,456833,10086,164,0,1626,71,2669,Action,M,60,11,0,356,66,66,9136.66,Metro: Last Light,http://www.vgchartz.com/game/71328/metro-last-light/,0.19
+Rising Storm,2013-05-30,82,8.5,49,172105,1703,87,0,292,21,227,Action,NA,20,1,0,51,6,6,3512.34693877551,Rising Storm,http://www.vgchartz.com/gamedb/?name=Rising+Storm,NA
+Battlefield 4,2013-10-29,81,6,45,589252,11615,430,0,3629,52,3540,Action,M,42,10,0,348,169,169,13094.4888888889,Battlefield 4,http://www.vgchartz.com/game/71509/battlefield-4/,1.38
+War Thunder,2013-08-15,81,6.6,46,230276,5502,64,0,1255,8,707,Action,T,7,1,0,77,38,38,5006,War Thunder,http://www.vgchartz.com/gamedb/?name=War+Thunder,0
+Kentucky Route Zero - Act I,2013-01-07,81,7.5,39,631449,8860,232,0,1463,28,108,Adventure,NA,24,4,0,9,6,6,16191,Kentucky Route Zero - Act I,http://www.vgchartz.com/gamedb/?name=Kentucky+Route+Zero+-+Act+I,NA
+Castlevania: Lords of Shadow Ultimate Edition,2013-08-27,81,7.4,40,1826922,4311,298,0,913,23,564,Action Adventure,M,19,4,0,57,18,18,45673.05,Castlevania,http://www.vgchartz.com/game/35227/castlevania/,NA
+The Cat Lady,2013-12-04,81,8.8,3,153,2,0,0,0,11,178,Adventure,NA,9,2,0,38,4,4,51,The Cat Lady,http://www.vgchartz.com/gamedb/?name=The+Cat+Lady,NA
+Victoria II: Heart of Darkness,2013-04-16,81,8.8,49,681149,10715,236,0,1608,7,55,Strategy,NA,7,0,0,6,2,2,13901,Victoria II,http://www.vgchartz.com/game/38883/victoria-ii/,0
+Waveform,2013-01-25,81,7.4,49,1702849,16853,259,0,3459,8,38,Puzzle,NA,7,1,0,8,2,2,34752.0204081633,Waveform,http://www.vgchartz.com/gamedb/?name=Waveform,NA
+Far Cry 3: Blood Dragon,2013-05-01,81,8.1,0,0,0,0,0,0,31,790,Action,M,26,5,0,116,24,24,NaN,Far Cry 3,http://www.vgchartz.com/game/51769/far-cry-3/,0.97
+Mortal Kombat Komplete Edition,2013-07-03,81,8.7,44,522575,7000,105,0,1424,18,503,Action,M,16,2,0,68,13,13,11876.7045454545,Mortal Kombat,http://www.vgchartz.com/game/29114/mortal-kombat/,0.03
+GRID 2,2013-05-27,80,5.7,30,222175,2455,410,0,812,17,571,Driving,E,15,2,0,40,32,32,7405.83333333333,GRID 2,http://www.vgchartz.com/game/71501/grid-2/,0.06
+Outlast,2013-09-04,80,8.4,47,79301,3833,38,0,658,59,1332,Action Adventure,M,50,9,0,207,62,62,1687.25531914894,Outlast,http://www.vgchartz.com/gamedb/?name=Outlast,0
+Dishonored: The Brigmore Witches,2013-08-13,80,8.7,50,401346,11825,251,0,2112,15,134,Action Adventure,M,13,2,0,12,1,1,8026.92,Dishonored,http://www.vgchartz.com/game/52943/dishonored/,0.52
+Goodbye Deponia,2013-10-17,80,7.9,50,6916320,81234,7159,0,51905,34,174,Adventure,NA,24,9,1,10,4,4,138326.4,Goodbye Deponia,http://www.vgchartz.com/game/71904/goodbye-deponia/,0.07
+Brutal Legend,2013-02-26,80,7.9,50,483243,8045,132,0,1599,17,394,Action,M,14,3,0,42,17,17,9664.86,Brutal Legend,http://www.vgchartz.com/gamedb/?name=Brutal+Legend,NA
+Dishonored: The Knife of Dunwall,2013-04-16,80,8.2,50,413942,20573,149,0,3807,21,199,Action Adventure,M,17,4,0,17,7,7,8278.84,Dishonored,http://www.vgchartz.com/game/52943/dishonored/,0.52
+Company of Heroes 2,2013-06-25,80,2.1,29,56029,2836,27,0,750,82,6168,Strategy,M,70,10,2,400,86,86,1932.03448275862,Company of Heroes 2,http://www.vgchartz.com/game/71198/company-of-heroes-2/,0.34
+The Sims 3: Into the Future,2013-10-22,80,5.4,48,3360216,48929,494,0,8484,9,42,Simulation,T,8,1,0,3,0,0,70004.5,The Sims 3,http://www.vgchartz.com/game/17805/the-sims-3/,8.02
+Fallen Enchantress: Legendary Heroes,2013-05-22,80,7.7,50,721548,26169,348,0,2658,18,156,Strategy,NA,16,2,0,35,9,9,14430.96,Fallen Enchantress: Legendary Heroes,http://www.vgchartz.com/gamedb/?name=Fallen+Enchantress%3A+Legendary+Heroes,NA
+Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst,2013-10-24,80,7.9,49,7038005,188895,2161,0,26929,7,221,Action,T,6,1,0,28,0,0,143632.755102041,Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst,http://www.vgchartz.com/gamedb/?name=Naruto+Shippuden%3A+Ultimate+Ninja+Storm+3+Full+Burst,NA
+Proteus,2013-01-30,80,5.6,41,896229,7726,168,0,3245,24,178,Adventure,NA,18,6,0,19,11,11,21859.243902439,Proteus,http://www.vgchartz.com/gamedb/?name=Proteus,NA
+Wargame: AirLand Battle,2013-05-29,80,8.1,50,9625594,107430,2863,0,14564,22,240,Strategy,T,18,3,1,57,12,12,192511.88,Wargame: AirLand Battle,http://www.vgchartz.com/gamedb/?name=Wargame%3A+AirLand+Battle,0
+Dungeons & Dragons: Chronicles of Mystara,2013-06-18,80,6.7,38,136967,3365,55,0,533,9,32,Action,T,7,2,0,2,3,3,3604.39473684211,Dungeons,http://www.vgchartz.com/game/46740/dungeons/,0.09
+The Walking Dead: Season Two - A Telltale Games Series,2013-12-17,80,8.3,49,1772102,18212,898,0,4714,14,370,Action,M,10,4,0,30,13,13,36165.3469387755,The Walking Dead: Season Two - A Telltale Games Series,http://www.vgchartz.com/gamedb/?name=The+Walking+Dead%3A+Season+Two+-+A+Telltale+Games+Series,NA
+The Wolf Among Us,2013-10-11,80,8.8,13,6933360,30402,1355,0,4462,13,415,Action Adventure,M,12,1,0,48,8,8,533335.384615385,The Wolf Among Us,http://www.vgchartz.com/gamedb/?name=The+Wolf+Among+Us,0
+Euro Truck Simulator 2,2013-01-16,79,8.7,9,25177,540,38,0,94,17,1010,Simulation,NA,13,4,0,177,25,25,2797.44444444444,Euro Truck Simulator 2,http://www.vgchartz.com/game/71076/euro-truck-simulator-2/,0.13
+Payday 2,2013-08-13,79,3.5,41,15602,338,14,0,82,51,3577,Action,M,40,11,0,287,60,60,380.536585365854,Payday 2,http://www.vgchartz.com/game/74800/payday-2/,0.05
+Sang-Froid: Tales of Werewolves,2013-04-05,79,7.9,47,49179,960,32,0,251,13,104,Action,NA,10,3,0,26,8,8,1046.36170212766,Sang-Froid: Tales of Werewolves,http://www.vgchartz.com/gamedb/?name=Sang-Froid%3A+Tales+of+Werewolves,NA
+Call of Juarez: Gunslinger,2013-05-22,79,8.2,47,103918,1353,33,0,214,23,746,Action,M,16,7,0,108,28,28,2211.02127659574,Call of Juarez,http://www.vgchartz.com/game/27047/call-of-juarez/,0.01
+Memoria,2013-08-29,79,8.2,36,1448946,16355,554,0,5296,43,127,Adventure,NA,34,8,1,11,3,3,40248.5,Memoria,http://www.vgchartz.com/gamedb/?name=Memoria,0
+Race the Sun,2013-08-19,79,7.4,5,9119,56,5,0,10,16,75,Action,NA,12,4,0,11,7,7,1823.8,Race the Sun,http://www.vgchartz.com/gamedb/?name=Race+the+Sun,NA
+Stick it to the Man!,2013-12-13,79,7.2,49,962250,17752,532,0,5038,7,59,Action,T,6,1,0,8,1,1,19637.7551020408,Stick it to the Man!,http://www.vgchartz.com/gamedb/?name=Stick+it+to+the+Man!,0
+Don't Starve,2013-04-23,79,8.3,50,960129,19336,417,0,1142,33,932,Action Adventure,NA,25,8,0,152,30,30,19202.58,Don't Starve,http://www.vgchartz.com/gamedb/?name=Don't+Starve,0
+TrackMania 2 Valley,2013-07-04,79,8.1,6,107472,805,7,0,179,7,41,Driving,NA,4,3,0,5,0,0,17912,TrackMania,http://www.vgchartz.com/game/37665/trackmania/,0
+State of Decay,2013-11-05,79,6.9,34,1785263,15267,477,0,2615,9,527,Action Adventure,NA,6,3,0,81,41,41,52507.7352941177,State of Decay,http://www.vgchartz.com/game/71780/state-of-decay/,0.01
+The Walking Dead: Season Two Episode 1 - All That Remains,2013-12-17,78,8.5,39,279699,3932,92,0,1504,55,583,Action,M,42,13,0,75,16,16,7171.76923076923,The Walking Dead: Season Two Episode 1 - All That Remains,http://www.vgchartz.com/gamedb/?name=The+Walking+Dead%3A+Season+Two+Episode+1+-+All+That+Remains,NA
+Teleglitch: Die More Edition,2013-07-24,78,7,50,199678,1364,43,0,240,18,49,Action,NA,14,3,1,4,4,4,3993.56,Teleglitch: Die More Edition,http://www.vgchartz.com/gamedb/?name=Teleglitch%3A+Die+More+Edition,0
+LEGO Marvel Super Heroes,2013-10-22,78,8.1,50,1816788,9423,504,0,1724,7,124,Action Adventure,E10+,6,1,0,9,3,3,36335.76,LEGO Marvel Super Heroes,http://www.vgchartz.com/game/71340/lego-marvel-super-heroes/,0.17
+Dead Space 3,2013-02-05,78,6,50,1871760,52909,432,0,12555,16,1109,Action,M,12,4,0,94,79,79,37435.2,Dead Space 3,http://www.vgchartz.com/game/50252/dead-space-3/,0.19
+Baldur's Gate II: Enhanced Edition,2013-11-15,78,7.2,9,254342,2458,80,0,776,34,292,Role-Playing,NA,24,10,0,64,7,7,28260.2222222222,Baldur's Gate,http://www.vgchartz.com/game/7300/baldurs-gate/,0
+Samurai Gunn,2013-12-10,78,7.8,13,7512188,24534,1948,0,1946,11,23,Action,NA,9,2,0,6,1,1,577860.615384615,Samurai Gunn,http://www.vgchartz.com/gamedb/?name=Samurai+Gunn,NA
+The Walking Dead: 400 Days,2013-07-03,78,7.6,50,797004,11691,293,0,2535,30,320,Action,M,20,10,0,28,26,26,15940.08,The Walking Dead: 400 Days,http://www.vgchartz.com/gamedb/?name=The+Walking+Dead%3A+400+Days,NA
+Battlefield 3: End Game,2013-03-26,78,7.4,50,28806961,141443,9359,0,20616,9,62,Action,M,7,2,0,7,2,2,576139.22,Battlefield 3,http://www.vgchartz.com/game/35315/battlefield-3/,2.78
+F1 2013,2013-10-03,77,6.3,44,953896,24627,486,0,4323,18,135,Driving,E,12,6,0,5,9,9,21679.4545454545,F1 2013,http://www.vgchartz.com/gamedb/?name=F1+2013,0
+Expeditions: Conquistador,2013-05-30,77,8.2,49,1839980,35757,685,0,3068,21,197,Role-Playing,NA,14,7,0,33,12,12,37550.612244898,Expeditions: Conquistador,http://www.vgchartz.com/gamedb/?name=Expeditions%3A+Conquistador,NA
+Element4l,2013-05-24,77,7.7,50,1227155,40131,313,0,3812,8,36,Action,NA,5,3,0,6,3,3,24543.1,Element4l,http://www.vgchartz.com/gamedb/?name=Element4l,NA
+Anomaly 2,2013-05-15,77,7.9,50,1453804,25890,351,0,2261,27,106,Action,T,21,5,1,5,7,7,29076.08,Anomaly 2,http://www.vgchartz.com/gamedb/?name=Anomaly+2,0
+Teslagrad,2013-12-13,77,7.9,42,1022803,8263,411,0,3429,15,104,Action,E,12,3,0,12,7,7,24352.4523809524,Teslagrad,http://www.vgchartz.com/gamedb/?name=Teslagrad,0
+Eldritch,2013-10-21,77,6.8,49,1648036,55880,401,0,6170,14,40,Action,NA,10,4,0,8,2,2,33633.387755102,Eldritch,http://www.vgchartz.com/gamedb/?name=Eldritch,0
+Sanctum 2,2013-05-15,77,7.6,0,0,0,0,0,0,28,367,Action,T,21,7,0,46,15,15,NaN,Sanctum 2,http://www.vgchartz.com/gamedb/?name=Sanctum+2,0
+Magic: Duels of the Planeswalkers 2014,2013-06-26,77,6.1,35,78423,2109,26,0,464,19,115,Strategy,T,14,5,0,12,8,8,2240.65714285714,Magic: Duels of the Planeswalkers 2014,http://www.vgchartz.com/gamedb/?name=Magic%3A+Duels+of+the+Planeswalkers+2014,NA
+Ace Combat Assault Horizon: Enhanced Edition,2013-01-24,77,5.9,48,73444,1219,22,0,253,14,158,Action,T,11,3,0,14,12,12,1530.08333333333,Ace Combat Assault Horizon: Enhanced Edition,http://www.vgchartz.com/gamedb/?name=Ace+Combat+Assault+Horizon%3A+Enhanced+Edition,NA
+Resident Evil: Revelations,2013-05-20,77,7,50,14408401,76906,3295,0,15751,12,352,Action Adventure,M,9,3,0,26,16,16,288168.02,Resident Evil: Revelations,http://www.vgchartz.com/game/71529/resident-evil-revelations/,0.04
+Angry Video Game Nerd Adventures,2013-09-20,77,7.5,38,203857,4609,124,0,1349,7,108,Action,NA,5,2,0,18,6,6,5364.65789473684,Angry Video Game Nerd Adventures,http://www.vgchartz.com/gamedb/?name=Angry+Video+Game+Nerd+Adventures,0
+Crusader Kings II: Sons of Abraham,2013-11-18,77,7.8,50,207911,2744,121,0,749,7,52,Real-Time Strategy,NA,3,4,0,0,1,1,4158.22,Crusader Kings II,http://www.vgchartz.com/game/51958/crusader-kings-ii/,0
+Cognition: An Erica Reed Thriller Episode 3 - The Oracle,2013-06-30,77,7.5,49,19465507,342623,11943,0,63037,11,33,Adventure,NA,7,4,0,1,0,0,397255.244897959,Cognition,http://www.vgchartz.com/game/67861/cognition/,NA
+Risk of Rain,2013-11-08,77,8.1,2,59914,1103,239,0,826,12,246,Action,NA,7,5,0,54,5,5,29957,Risk of Rain,http://www.vgchartz.com/gamedb/?name=Risk+of+Rain,0
+Toki Tori 2 +,2013-07-11,76,7.6,50,901270,16699,323,0,3118,13,42,Miscellaneous,E,8,5,0,3,1,1,18025.4,Toki Tori 2 +,http://www.vgchartz.com/gamedb/?name=Toki+Tori+2++,NA
+SteamWorld Dig,2013-12-05,76,7.1,45,38091,914,30,0,355,12,86,Action,NA,9,3,0,7,4,4,846.466666666667,SteamWorld Dig,http://www.vgchartz.com/gamedb/?name=SteamWorld+Dig,0
+Kentucky Route Zero - Act III,2014-05-06,91,6.6,36,3409605,64943,864,0,11747,7,160,Adventure,NA,7,0,0,11,3,3,94711.25,Kentucky Route Zero - Act III,http://www.vgchartz.com/gamedb/?name=Kentucky+Route+Zero+-+Act+III,NA
+Dark Souls II,2014-04-24,91,7.1,45,147705,3243,134,0,974,36,2331,Role-Playing,T,36,0,0,275,62,62,3282.33333333333,Dark Souls II,http://www.vgchartz.com/game/73249/dark-souls-ii/,0.18
+Hearthstone: Heroes of Warcraft,2014-03-11,88,6.3,50,184758,4246,64,0,735,42,1691,Card Battle Games,T,42,0,0,138,86,86,3695.16,Hearthstone: Heroes of Warcraft,http://www.vgchartz.com/gamedb/?name=Hearthstone%3A+Heroes+of+Warcraft,0
+Steins;Gate,2014-03-31,87,8.7,28,12992776,53465,3798,0,6392,9,183,First-Person,M,9,0,0,11,0,0,464027.714285714,Steins;Gate,http://www.vgchartz.com/gamedb/?name=Steins;Gate,0
+Year Walk,2014-03-06,87,7,27,758592,4220,139,0,463,8,132,Miscellaneous,NA,8,0,0,16,4,4,28096,Year Walk,http://www.vgchartz.com/gamedb/?name=Year+Walk,NA
+TowerFall Ascension,2014-03-11,87,6.6,26,44803,1433,6,0,125,16,143,Action,E10+,16,0,0,16,3,3,1723.19230769231,TowerFall Ascension,NA,NA
+Diablo III: Reaper of Souls,2014-03-25,87,6.6,50,335632,3863,99,0,685,75,1475,Role-Playing,M,73,2,0,159,70,70,6712.64,Diablo III,http://www.vgchartz.com/game/24178/diablo-iii/,5.19
+Divinity: Original Sin,2014-01-17,87,8.7,40,105318,1322,36,0,409,59,2096,Role-Playing,M,56,3,0,371,60,60,2632.95,Divinity: Original Sin,http://www.vgchartz.com/game/73289/divinity-original-sin/,0.02
+World of Warcraft: Warlords of Draenor,2014-11-13,87,5.9,50,1065828,4217,549,0,885,49,1159,Role-Playing,T,47,2,0,166,40,40,21316.56,World of Warcraft: Warlords of Draenor,http://www.vgchartz.com/game/84863/world-of-warcraft-warlords-of-draenor/,0.47
+Astebreed,2014-05-30,86,7.3,50,507291,10021,225,0,2047,14,122,Action,NA,14,0,0,14,2,2,10145.82,Astebreed,http://www.vgchartz.com/gamedb/?name=Astebreed,0
+The Binding of Isaac: Rebirth,2014-11-04,86,8.2,31,24035,908,21,0,269,10,561,Action Adventure,NA,9,1,0,79,7,7,775.322580645161,The Binding of Isaac,http://www.vgchartz.com/game/70545/the-binding-of-isaac/,0.03
+Titanfall,2014-03-11,86,6.2,50,27285960,79776,7469,0,6646,29,1735,Action,M,28,1,0,192,145,145,545719.2,Titanfall,http://www.vgchartz.com/game/72893/titanfall/,0.58
+The Talos Principle,2014-12-11,85,8.5,50,4244241,66608,1069,0,13471,57,506,Sci-Fi,E10+,54,3,0,85,13,13,84884.82,The Talos Principle,http://www.vgchartz.com/gamedb/?name=The+Talos+Principle,0
+Legend of Grimrock II,2014-10-15,85,8.1,45,1223598,16641,523,0,3239,38,341,Role-Playing,NA,37,1,0,55,11,11,27191.0666666667,Legend of Grimrock II,http://www.vgchartz.com/gamedb/?name=Legend+of+Grimrock+II,NA
+Dragon Age: Inquisition,2014-11-18,85,5.9,25,392312,2035,100,0,143,45,3964,Role-Playing,M,40,5,0,538,277,277,15692.48,Dragon Age: Inquisition,http://www.vgchartz.com/game/71354/dragon-age-inquisition/,0.76
+South Park: The Stick of Truth,2014-03-04,85,8.6,32,78451,3021,50,0,882,48,1752,Role-Playing,M,43,5,0,237,40,40,2451.59375,South Park: The Stick of Truth,http://www.vgchartz.com/game/71110/south-park-the-stick-of-truth/,0.19
+Shovel Knight,2014-06-26,85,7.9,38,374270,6392,335,0,2709,46,435,Action,E,44,2,0,63,9,9,9849.21052631579,Shovel Knight,http://www.vgchartz.com/gamedb/?name=Shovel+Knight,0
+Assetto Corsa,2014-12-19,85,8.3,44,377199,7895,80,0,2022,17,284,Driving,E,16,1,0,53,7,7,8572.70454545455,Assetto Corsa,http://www.vgchartz.com/gamedb/?name=Assetto+Corsa,0
+Valkyria Chronicles,2014-11-11,85,8.2,48,122529,2267,60,0,680,24,326,General,T,23,1,0,43,10,10,2552.6875,Valkyria Chronicles,http://www.vgchartz.com/gamedb/?name=Valkyria+Chronicles,0
+BattleBlock Theater,2014-05-15,85,7.9,37,55194,1544,19,0,428,17,194,Action,T,17,0,0,20,4,4,1491.72972972973,BattleBlock Theater,http://www.vgchartz.com/gamedb/?name=BattleBlock+Theater,0
+Middle-earth: Shadow of Mordor,2014-09-30,84,8,11,338191,1544,95,0,706,17,1683,Action Adventure,M,14,3,0,255,80,80,30744.6363636364,Middle-earth: Shadow of Mordor,http://www.vgchartz.com/gamedb/?name=Middle-earth%3A+Shadow+of+Mordor,0.37
+Hearthstone: Goblins Vs. Gnomes,2014-12-08,84,6.4,44,75431,3787,60,0,347,10,97,Miscellaneous,NA,9,1,0,6,6,6,1714.34090909091,Hearthstone: Goblins Vs. Gnomes,http://www.vgchartz.com/gamedb/?name=Hearthstone%3A+Goblins+Vs.+Gnomes,NA
+Tales From The Borderlands: Episode 1 - Zer0 Sum,2014-11-25,84,8.5,20,43982,890,15,0,306,43,359,Miscellaneous,M,41,2,0,44,5,5,2199.1,Tales From The Borderlands: Episode 1 - Zer0 Sum,http://www.vgchartz.com/gamedb/?name=Tales+From+The+Borderlands%3A+Episode+1+-+Zer0+Sum,NA
+Metro Redux,2014-08-26,84,8,22,25506,431,6,0,72,28,241,Action,M,28,0,0,18,5,5,1159.36363636364,Metro Redux,http://www.vgchartz.com/gamedb/?name=Metro+Redux,NA
+Europa Universalis IV: Wealth of Nations,2014-05-29,84,8.4,22,230979,4546,96,0,1303,9,24,Strategy,NA,7,2,0,1,0,0,10499.0454545455,Europa Universalis IV,http://www.vgchartz.com/game/75717/europa-universalis-iv/,0
+The Wolf Among Us: Episode 5 - Cry Wolf,2014-07-08,84,8.8,33,204897,1290,58,0,564,33,379,Action Adventure,M,27,6,0,35,4,4,6209,The Wolf Among Us: Episode 5 - Cry Wolf,http://www.vgchartz.com/gamedb/?name=The+Wolf+Among+Us%3A+Episode+5+-+Cry+Wolf,NA
+Ultimate General: Gettysburg,2014-10-16,84,8,48,1410884,21370,370,0,2560,8,150,Strategy,NA,8,0,0,56,7,7,29393.4166666667,Ultimate General: Gettysburg,http://www.vgchartz.com/gamedb/?name=Ultimate+General%3A+Gettysburg,NA
+SMITE,2014-03-25,83,8.2,46,691866,4876,98,0,1622,18,804,Role-Playing,T,17,1,0,172,19,19,15040.5652173913,SMITE,NA,NA
+The Blackwell Epiphany,2014-04-24,83,7.6,50,227568,7806,55,0,768,14,62,Adventure Games,NA,13,1,0,7,0,0,4551.36,The Blackwell Epiphany,http://www.vgchartz.com/gamedb/?name=The+Blackwell+Epiphany,0
+This War of Mine,2014-11-14,83,8.3,25,79724,3141,33,0,561,62,680,Action,NA,57,5,0,95,21,21,3188.96,This War of Mine,http://www.vgchartz.com/gamedb/?name=This+War+of+Mine,0
+Metal Gear Rising: Revengeance,2014-01-09,83,7.9,49,400722,7986,214,0,1768,27,647,Action,M,26,1,0,74,20,20,8178,Metal Gear Rising: Revengeance,http://www.vgchartz.com/gamedb/?name=Metal+Gear+Rising%3A+Revengeance,0
+Transistor,2014-05-20,83,8.3,9,3625,99,3,0,46,35,682,Role-Playing,T,29,5,1,80,20,20,402.777777777778,Transistor,http://www.vgchartz.com/gamedb/?name=Transistor,0
+Outland,2014-09-29,83,7.2,46,101576,3761,46,0,681,8,40,Action,E10+,7,1,0,1,1,1,2208.17391304348,Outland,http://www.vgchartz.com/gamedb/?name=Outland,NA
+Dark Souls II: Crown of the Ivory King,2014-09-29,82,8.1,47,283347,7417,237,0,1496,12,75,Role-Playing,NA,11,1,0,6,3,3,6028.65957446809,Dark Souls II,http://www.vgchartz.com/game/73249/dark-souls-ii/,0.18
+Endless Legend,2014-04-24,82,7.9,21,671290,9160,253,0,1895,37,466,Strategy,NA,34,3,0,78,21,21,31966.1904761905,Endless Legend,http://www.vgchartz.com/gamedb/?name=Endless+Legend,0
+Kero Blaster,2014-05-11,82,7.1,22,36321,1079,22,0,323,14,32,General,NA,13,0,1,3,0,0,1650.95454545455,Kero Blaster,http://www.vgchartz.com/gamedb/?name=Kero+Blaster,0
+The Wolf Among Us: Episode 3 - A Crooked Mile,2014-04-08,82,8.6,33,270317,2725,39,0,936,38,284,Action Adventure,M,31,7,0,21,2,2,8191.42424242424,The Wolf Among Us: Episode 3 - A Crooked Mile,http://www.vgchartz.com/gamedb/?name=The+Wolf+Among+Us%3A+Episode+3+-+A+Crooked+Mile,NA
+ETHER One,2014-03-25,82,6.9,46,1031378,13040,186,0,3648,20,47,Adventure Games,E10+,16,4,0,2,3,3,22421.2608695652,ETHER One,NA,NA
+The Vanishing of Ethan Carter,2014-09-25,82,8.1,36,2461700,63556,600,0,8562,66,700,Miscellaneous,M,56,10,0,93,44,44,68380.5555555556,The Vanishing of Ethan Carter,http://www.vgchartz.com/gamedb/?name=The+Vanishing+of+Ethan+Carter,0
+Age of Wonders III - Golden Realms,2014-09-18,82,8.6,45,800318,22449,323,0,6819,8,94,Fantasy,NA,6,2,0,10,0,0,17784.8444444444,Age of Wonders,http://www.vgchartz.com/game/26245/age-of-wonders/,NA
+Dark Souls II: Crown of the Sunken King,2014-07-22,82,7.4,47,1238243,5777,386,0,1278,19,174,Role-Playing,T,17,2,0,10,9,9,26345.5957446808,Dark Souls II,http://www.vgchartz.com/game/73249/dark-souls-ii/,0.18
+Lethal League,2014-08-27,82,7.5,45,167781,2556,52,0,526,11,46,Action,NA,9,2,0,8,1,1,3728.46666666667,Lethal League,http://www.vgchartz.com/gamedb/?name=Lethal+League,0
+Pro Evolution Soccer 2015,2014-11-13,82,5.8,37,4351298,30731,762,0,7302,8,175,Sports,NA,6,2,0,15,12,12,117602.648648649,Pro Evolution Soccer 2015,http://www.vgchartz.com/game/84810/pro-evolution-soccer-2015/,0.06
+WildStar,2014-06-03,82,7.4,13,14315,233,7,0,73,52,964,Massively Multiplayer,T,NA,NA,NA,NA,NA,NA,1101.15384615385,WildStar,http://www.vgchartz.com/gamedb/?name=WildStar,0.16
+Broken Age: Act 1,2014-01-28,82,7.7,50,9566426,160724,7463,0,28418,64,360,Adventure Games,NA,54,10,0,50,12,12,191328.52,Broken Age,http://www.vgchartz.com/game/71063/broken-age/,0
+Nidhogg,2014-01-13,81,6.6,44,297223,6473,143,0,801,43,131,Miscellaneous,NA,35,8,0,13,7,7,6755.06818181818,Nidhogg,http://www.vgchartz.com/gamedb/?name=Nidhogg,0
+Sunless Sea,2014-07-01,81,7.5,50,488452,12386,241,0,2228,38,115,Sci-Fi,NA,31,7,0,16,8,8,9769.04,Sunless Sea,http://www.vgchartz.com/gamedb/?name=Sunless+Sea,0
+The Walking Dead: Season Two Episode 3 - In Harm's Way,2014-05-13,81,8.3,19,82672,2621,21,0,489,39,258,Action,M,32,7,0,25,10,10,4351.15789473684,The Walking Dead: Season Two Episode 3 - In Harm's Way,http://www.vgchartz.com/gamedb/?name=The+Walking+Dead%3A+Season+Two+Episode+3+-+In+Harm's+Way,NA
+Marvel Heroes 2015,2014-06-04,81,7.9,43,724111,5475,98,0,699,10,620,Role-Playing,NA,9,1,0,184,21,21,16839.7906976744,Marvel Heroes 2015,http://www.vgchartz.com/gamedb/?name=Marvel+Heroes+2015,NA
+Wolfenstein: The New Order,2014-05-19,81,8.1,50,6623889,48835,2139,0,5890,23,1665,Action,M,20,3,0,250,53,53,132477.78,Wolfenstein: The New Order,http://www.vgchartz.com/game/72127/wolfenstein-the-new-order/,0.46
+Alien: Isolation,2014-10-06,81,8.4,50,1521276,18541,242,0,4076,41,1611,Action Adventure,M,32,9,0,312,53,53,30425.52,Alien: Isolation,http://www.vgchartz.com/game/80561/alien-isolation/,0.14
+Company of Heroes 2: Ardennes Assault,2014-11-17,81,6.1,34,241564,2534,173,0,626,38,67,Strategy,M,34,4,0,5,1,1,7104.82352941176,Company of Heroes 2,http://www.vgchartz.com/game/71198/company-of-heroes-2/,0.34
+The Walking Dead: Season Two Episode 2 - A House Divided,2014-03-04,81,8.5,50,154395,1922,25,0,695,40,347,Action,M,31,9,0,37,10,10,3087.9,The Walking Dead: Season Two Episode 2 - A House Divided,http://www.vgchartz.com/gamedb/?name=The+Walking+Dead%3A+Season+Two+Episode+2+-+A+House+Divided,NA
+Sid Meier's Civilization: Beyond Earth,2014-10-24,81,5.5,50,4015939,42420,994,0,11026,78,1032,Strategy,E10+,65,12,1,74,112,112,80318.78,Sid Meier's Civilization: Beyond Earth,http://www.vgchartz.com/game/81105/sid-meiers-civilization-beyond-earth/,0.38
+Wasteland 2,2014-09-19,81,7.3,49,134611,1598,29,0,280,65,1173,Role-Playing,M,53,12,0,171,55,55,2747.16326530612,Wasteland 2,http://www.vgchartz.com/game/70888/wasteland-2/,0.12
+Shadowrun: Dragonfall,2014-02-27,81,8.3,44,2066624,21065,500,0,2949,24,228,Role-Playing,NA,20,4,0,32,7,7,46968.7272727273,Shadowrun,http://www.vgchartz.com/game/13312/shadowrun/,0
+Europa Universalis IV: Conquest of Paradise,2014-01-14,81,7.7,50,3377332,72972,1538,0,24508,8,52,Strategy,NA,5,3,0,2,5,5,67546.64,Europa Universalis IV,http://www.vgchartz.com/game/75717/europa-universalis-iv/,0
+Company of Heroes 2: The Western Front Armies,2014-06-23,80,6.8,41,78623,2218,68,0,316,29,112,Strategy,M,26,3,0,19,3,3,1917.63414634146,Company of Heroes 2,http://www.vgchartz.com/game/71198/company-of-heroes-2/,0.34
+Metal Gear Solid V: Ground Zeroes,2014-12-18,80,7.6,18,252726,8493,57,0,1008,20,417,Action Adventure,M,18,2,0,39,9,9,14040.3333333333,Metal Gear Solid V: Ground Zeroes,http://www.vgchartz.com/game/84747/metal-gear-solid-v-ground-zeroes/,0.01
+Trials Fusion,2014-04-16,80,6.8,49,2914743,64216,1170,0,13349,12,96,Driving,E10+,11,1,0,4,4,4,59484.5510204082,Trials Fusion,http://www.vgchartz.com/game/73129/trials-fusion/,0.03
+The Banner Saga,2014-01-14,80,7.9,49,246254,3093,120,0,924,74,670,Role-Playing,T,59,15,0,85,41,41,5025.59183673469,The Banner Saga,http://www.vgchartz.com/gamedb/?name=The+Banner+Saga,0
+Elite: Dangerous,2014-12-16,80,6.4,46,1383030,18084,515,0,2620,54,1757,Sci-Fi,T,46,8,0,524,85,85,30065.8695652174,Elite: Dangerous,http://www.vgchartz.com/gamedb/?name=Elite%3A+Dangerous,0
+Icewind Dale: Enhanced Edition,2014-10-30,80,7.2,49,30692,470,9,0,174,13,105,Role-Playing,NA,11,2,0,13,2,2,626.367346938776,Icewind Dale: Enhanced Edition,http://www.vgchartz.com/gamedb/?name=Icewind+Dale%3A+Enhanced+Edition,NA
+Far Cry 4,2014-11-18,80,6.7,50,134503,3744,64,0,620,17,1085,Action,M,15,2,0,119,70,70,2690.06,Far Cry 4,http://www.vgchartz.com/game/80325/far-cry-4/,0.67
+Super Time Force Ultra,2014-08-25,80,6.5,49,8919197,52753,1635,0,14217,9,42,Action,NA,8,1,0,6,0,0,182024.428571429,Super Time Force Ultra,http://www.vgchartz.com/gamedb/?name=Super+Time+Force+Ultra,NA
+Luftrausers,2014-03-18,80,6.8,47,381719,5024,80,0,673,45,87,Action,E,35,10,0,5,7,7,8121.68085106383,Luftrausers,NA,NA
+Age of Wonders III,2014-03-31,80,7.8,12,33041,413,5,0,88,35,556,Strategy,T,29,6,0,91,21,21,2753.41666666667,Age of Wonders,http://www.vgchartz.com/game/26245/age-of-wonders/,NA
+Football Manager 2015,2014-11-07,80,6.1,25,1009091,6702,90,0,1555,36,153,Sports,NA,28,8,0,10,11,11,40363.64,Football Manager 2015,http://www.vgchartz.com/game/84791/football-manager-2015/,0.46
+BioShock Infinite: Burial at Sea - Episode Two,2014-03-25,80,8.4,29,1041990,33948,555,0,4508,34,480,Action,M,25,8,1,43,10,10,35930.6896551724,BioShock Infinite,http://www.vgchartz.com/game/46735/bioshock-infinite/,0.67
+ArcheAge,2014-09-16,80,3.6,24,191612,3498,76,0,445,11,748,Role-Playing,M,9,2,0,102,33,33,7983.83333333333,ArcheAge,http://www.vgchartz.com/gamedb/?name=ArcheAge,0
+Dungeon of the Endless,2014-10-27,79,8,40,82159,1996,40,0,534,29,160,Strategy,NA,22,7,0,22,6,6,2053.975,Dungeon of the Endless,http://www.vgchartz.com/gamedb/?name=Dungeon+of+the+Endless,0
+Valiant Hearts: The Great War,2014-06-25,79,8.5,50,228272,7240,102,0,1109,28,540,Action,T,21,7,0,63,11,11,4565.44,Valiant Hearts: The Great War,http://www.vgchartz.com/gamedb/?name=Valiant+Hearts%3A+The+Great+War,0
+Geometry Wars 3: Dimensions,2014-11-25,79,6.2,40,9129043,149436,4810,0,13146,9,35,Action,E,7,2,0,2,1,1,228226.075,Geometry Wars 3: Dimensions,http://www.vgchartz.com/gamedb/?name=Geometry+Wars+3%3A+Dimensions,0
+Resident Evil 4: Ultimate HD Edition,2014-02-27,79,7.8,15,38618,649,39,0,151,33,247,Action Adventure,M,25,8,0,16,11,11,2574.53333333333,Resident Evil 4,http://www.vgchartz.com/game/70995/resident-evil-4/,0.03
+The Last Door,2014-05-20,79,7.5,50,379032,13856,112,0,2039,10,32,Adventure,NA,8,2,0,5,1,1,7580.64,The Last Door,http://www.vgchartz.com/gamedb/?name=The+Last+Door,0
+The Journey Down: Chapter Two,2014-08-25,78,7.1,47,393429,4753,109,0,685,11,18,Adventure,NA,9,2,0,1,0,0,8370.82978723404,The Journey Down: Chapter Two,http://www.vgchartz.com/gamedb/?name=The+Journey+Down%3A+Chapter+Two,NA
+DeadCore,2014-10-17,78,6.8,49,1007590,25965,358,0,3083,11,37,Action,T,9,2,0,9,2,2,20563.0612244898,DeadCore,http://www.vgchartz.com/gamedb/?name=DeadCore,NA
+Call of Duty: Advanced Warfare,2014-11-03,78,4.5,13,96250,717,32,0,236,18,1138,Action,M,15,2,1,77,41,41,7403.84615384615,Call of Duty: Advanced Warfare,http://www.vgchartz.com/game/81796/call-of-duty-advanced-warfare/,0.43
+LISA,2014-12-15,78,8.6,15,325842,1845,161,0,545,7,56,Action,M,5,2,0,8,2,2,21722.8,LISA,NA,NA
+OlliOlli,2014-07-22,78,6.7,31,181469,1728,105,0,611,12,26,Sports,E,8,4,0,2,2,2,5853.83870967742,OlliOlli,http://www.vgchartz.com/gamedb/?name=OlliOlli,0
+Strider,2014-02-19,78,7.4,50,830150,5300,174,0,1096,10,96,Action Adventure,E10+,6,4,0,12,4,4,16603,Strider,http://www.vgchartz.com/gamedb/?name=Strider,0
+So Many Me,2014-07-17,78,7,9,30331,633,3,0,122,7,21,Miscellaneous,RP,6,1,0,6,0,0,3370.11111111111,So Many Me,http://www.vgchartz.com/gamedb/?name=So+Many+Me,0
+GRID Autosport,2014-06-26,78,6.2,46,152684,4509,61,0,647,35,258,Driving,E,24,11,0,24,14,14,3319.21739130435,GRID Autosport,http://www.vgchartz.com/game/81395/grid-autosport/,0.03
+The Walking Dead: Season Two Episode 4 - Amid the Ruins,2014-07-22,78,8,50,318214,7387,172,0,1387,39,231,Action,M,28,11,0,14,5,5,6364.28,The Walking Dead: Season Two Episode 4 - Amid the Ruins,http://www.vgchartz.com/gamedb/?name=The+Walking+Dead%3A+Season+Two+Episode+4+-+Amid+the+Ruins,NA
+Plants vs Zombies: Garden Warfare,2014-06-24,78,7.8,35,945517,8755,379,0,2413,11,188,Action,E10+,9,2,0,20,9,9,27014.7714285714,Plants vs Zombies: Garden Warfare,http://www.vgchartz.com/gamedb/?name=Plants+vs+Zombies%3A+Garden+Warfare,0.02
+Wargame: Red Dragon,2014-04-17,78,8,49,246512,7181,226,0,1338,19,172,Strategy,NA,15,3,1,27,5,5,5030.85714285714,Wargame: Red Dragon,http://www.vgchartz.com/gamedb/?name=Wargame%3A+Red+Dragon,0
+Joe Dever's Lone Wolf HD Remastered,2014-11-27,78,6.8,50,1373240,28069,763,0,3686,13,18,Adventure,NA,11,2,0,3,1,1,27464.8,Joe Dever's Lone Wolf HD Remastered,http://www.vgchartz.com/gamedb/?name=Joe+Dever's+Lone+Wolf+HD+Remastered,NA
+Five Nights at Freddy's,2014-08-19,78,7,48,296289,3105,196,0,704,8,393,Action Adventure,NA,5,3,0,73,27,27,6172.6875,Five Nights at Freddy's,http://www.vgchartz.com/gamedb/?name=Five+Nights+at+Freddy's,0
+Sherlock Holmes: Crimes & Punishments,2014-09-30,77,7.7,50,5799408,131863,1835,0,13359,32,191,Adventure,M,20,12,0,18,6,6,115988.16,Sherlock Holmes: Crimes & Punishments,http://www.vgchartz.com/game/71902/sherlock-holmes-crimes-amp-punishments/,0.05
+Mini Metro,2014-08-11,77,8,47,1020487,10912,317,0,2341,8,42,Strategy,NA,6,2,0,7,1,1,21712.4893617021,Mini Metro,http://www.vgchartz.com/gamedb/?name=Mini+Metro,NA
+The Incredible Adventures of Van Helsing II,2014-05-22,77,7.6,14,510192,3496,74,0,1050,36,228,Role-Playing,T,24,12,0,25,13,13,36442.2857142857,The Incredible Adventures of Van Helsing II,http://www.vgchartz.com/gamedb/?name=The+Incredible+Adventures+of+Van+Helsing+II,0
+Child of Light,2014-04-30,77,8.1,45,238904,2031,86,0,341,16,483,Action,E10+,11,5,0,58,19,19,5308.97777777778,Child of Light,http://www.vgchartz.com/game/75705/child-of-light/,0.01
+Grand Theft Auto V,2015-04-14,96,7.9,50,214903,7014,38,0,665,57,3875,Modern,M,56,1,0,359,92,92,4298.06,Grand Theft Auto V,http://www.vgchartz.com/game/83197/grand-theft-auto-v/,1.27
+The Witcher 3: Wild Hunt,2015-05-18,93,9.3,46,340470,2391,51,0,838,32,10831,Role-Playing,M,32,0,0,954,78,78,7401.52173913043,The Witcher 3: Wild Hunt,http://www.vgchartz.com/game/71483/the-witcher-3-wild-hunt/,0.81
+Undertale,2015-09-15,92,7.9,47,2376709,24530,1084,0,6112,43,3412,Role-Playing,NA,40,3,0,684,62,62,50568.2765957447,Undertale,http://www.vgchartz.com/gamedb/?name=Undertale,0
+Metal Gear Solid V: The Phantom Pain,2015-09-01,91,7.7,50,5647408,204263,2525,0,20465,13,2002,Action Adventure,M,13,0,0,128,60,60,112948.16,Metal Gear Solid V: The Phantom Pain,http://www.vgchartz.com/game/85445/metal-gear-solid-v-the-phantom-pain/,0.09
+The Witcher 3: Wild Hunt - Hearts of Stone,2015-10-13,89,8.9,47,281247,3120,61,0,409,37,1886,Role-Playing,M,36,1,0,81,1,1,5983.97872340426,The Witcher 3: Wild Hunt,http://www.vgchartz.com/game/71483/the-witcher-3-wild-hunt/,0.81
+Pillars of Eternity,2015-03-26,89,8.3,44,324666,3083,130,0,1736,71,2213,Role-Playing,M,70,1,0,315,77,77,7378.77272727273,Pillars of Eternity,http://www.vgchartz.com/game/72346/pillars-of-eternity/,0.02
+Nuclear Throne,2015-12-05,88,7.6,48,1581083,8803,119,0,1369,14,157,Action,NA,14,0,0,18,8,8,32939.2291666667,Nuclear Throne,http://www.vgchartz.com/gamedb/?name=Nuclear+Throne,NA
+Kerbal Space Program,2015-04-27,88,8.2,49,7546710,97958,2331,0,11590,24,511,Sci-Fi,NA,24,0,0,88,4,4,154014.489795918,Kerbal Space Program,http://www.vgchartz.com/gamedb/?name=Kerbal+Space+Program,0
+Starcraft II: Legacy of the Void,2015-11-10,88,8.3,49,145342,4622,134,0,558,62,839,Real-Time Strategy,T,61,1,0,104,18,18,2966.16326530612,Starcraft II: Legacy of the Void,http://www.vgchartz.com/gamedb/?name=Starcraft+II%3A+Legacy+of+the+Void,0.56
+Ori and the Blind Forest,2015-03-11,88,8.7,29,50276,1002,48,0,193,12,920,Action,E,12,0,0,115,13,13,1733.65517241379,Ori and the Blind Forest,http://www.vgchartz.com/game/82901/ori-and-the-blind-forest/,0.01
+Oddworld: Abe's Oddysee - New 'n' Tasty,2015-02-25,87,7.8,44,532809,5998,162,0,1215,12,143,Action,T,12,0,0,9,2,2,12109.2954545455,Oddworld: Abe's Oddysee - New 'n' Tasty,http://www.vgchartz.com/gamedb/?name=Oddworld%3A+Abe's+Oddysee+-+New+'n'+Tasty,NA
+Crypt of the NecroDancer,2015-04-23,87,7.7,45,577203,14091,363,0,4154,45,154,Action,NA,43,2,0,16,3,3,12826.7333333333,Crypt of the NecroDancer,http://www.vgchartz.com/gamedb/?name=Crypt+of+the+NecroDancer,0
+Tales From The Borderlands: Episode 5 - The Vault of the Traveler,2015-10-20,86,8.7,48,3257119,83179,691,0,11460,32,286,Adventure,NA,30,2,0,21,1,1,67856.6458333333,Tales From The Borderlands: Episode 5 - The Vault of the Traveler,http://www.vgchartz.com/gamedb/?name=Tales+From+The+Borderlands%3A+Episode+5+-+The+Vault+of+the+Traveler,NA
+Final Fantasy XIV: Heavensward,2015-06-23,86,7.7,36,578970,2123,219,0,1092,14,255,Massively Multiplayer Online,T,14,0,0,26,2,2,16082.5,Final Fantasy XIV: Heavensward,http://www.vgchartz.com/game/86058/final-fantasy-xiv-heavensward/,0.03
+Her Story,2015-06-24,86,5.8,48,87443,2207,38,0,340,49,335,Adventure,NA,46,2,1,21,14,14,1821.72916666667,Her Story,NA,NA
+Homeworld Remastered Collection,2015-02-25,86,8.2,50,4639451,128514,1554,0,46400,49,327,Miscellaneous,E10+,48,1,0,38,8,8,92789.02,Homeworld Remastered Collection,http://www.vgchartz.com/game/85082/homeworld-remastered-collection/,0.01
+Heroes of the Storm,2015-06-02,86,6.6,50,247390,6090,217,0,826,57,1073,Action,T,54,3,0,127,59,59,4947.8,Heroes of the Storm,http://www.vgchartz.com/game/72328/heroes-of-the-storm/,0.01
+DiRT Rally,2015-12-07,86,8.7,49,3203060,29995,1092,0,6160,33,293,Racing,E,33,0,0,38,5,5,65368.5714285714,DiRT Rally,http://www.vgchartz.com/game/85423/dirt-rally/,0.03
+Rocket League,2015-07-05,86,8.2,45,1740095,18813,307,0,3514,20,604,Sports,E,17,3,0,90,6,6,38668.7777777778,Rocket League,http://www.vgchartz.com/game/85774/rocket-league/,0.12
+Cities: Skylines,2015-03-10,85,8.9,21,277410,3311,54,0,735,60,1419,City Building,E,58,2,0,211,24,24,13210,Cities: Skylines,http://www.vgchartz.com/game/84637/cities-skylines/,0.14
+Tales from the Borderlands: A Telltale Game Series,2015-10-20,85,8.5,20,174709,2101,249,0,1004,19,353,Adventure,M,18,1,0,36,1,1,8735.45,Tales from the Borderlands: A Telltale Game Series,http://www.vgchartz.com/gamedb/?name=Tales+from+the+Borderlands%3A+A+Telltale+Game+Series,NA
+The Binding of Isaac: Afterbirth,2015-10-30,85,8.1,27,80079,1409,62,0,247,10,231,Action,M,9,1,0,16,3,3,2965.88888888889,The Binding of Isaac,http://www.vgchartz.com/game/70545/the-binding-of-isaac/,0.03
+Chaos Reborn,2015-10-26,85,8.3,11,90759,2194,259,0,1039,10,51,Fantasy,NA,10,0,0,23,5,5,8250.81818181818,Chaos Reborn,http://www.vgchartz.com/gamedb/?name=Chaos+Reborn,0
+System Shock: Enhanced Edition,2015-09-22,85,8.1,48,20242807,418219,8590,0,61290,9,29,Action Adventure,NA,8,1,0,3,1,1,421725.145833333,System Shock: Enhanced Edition,http://www.vgchartz.com/gamedb/?name=System+Shock%3A+Enhanced+Edition,NA
+80 Days (2015),2015-09-29,84,6.5,36,2680563,15690,348,0,1853,8,15,Adventure,NA,7,1,0,1,0,0,74460.0833333333,80 Days (2015),http://www.vgchartz.com/gamedb/?name=80+Days+(2015),NA
+Hearthstone: The Grand Tournament,2015-08-24,84,4.1,32,65284,1406,35,0,198,8,122,Strategy,NA,8,0,0,5,5,5,2040.125,Hearthstone: The Grand Tournament,http://www.vgchartz.com/gamedb/?name=Hearthstone%3A+The+Grand+Tournament,NA
+SOMA,2015-09-22,84,8.3,41,144945,1028,20,0,342,68,795,Action Adventure,M,63,4,1,105,13,13,3535.24390243902,SOMA,NA,NA
+Grim Fandango Remastered,2015-01-27,84,8,5,25964,112,26,0,36,38,278,Adventure,NA,34,4,0,26,10,10,5192.8,Grim Fandango Remastered,http://www.vgchartz.com/gamedb/?name=Grim+Fandango+Remastered,NA
+Fallout 4,2015-11-09,84,5.4,24,71270,1795,34,0,431,38,7591,General,M,30,8,0,829,393,393,2969.58333333333,Fallout 4,http://www.vgchartz.com/game/85600/fallout-4/,1.38
+Life is Strange,2015-10-20,83,8.6,50,5415166,65481,3779,0,34086,15,1679,Action Adventure,M,13,2,0,182,17,17,108303.32,Life is Strange,http://www.vgchartz.com/game/84061/life-is-strange/,0.05
+Project CARS,2015-05-06,83,7,42,5539418,61485,1008,0,8759,48,422,Driving,E,42,6,0,57,17,17,131890.904761905,Project CARS,http://www.vgchartz.com/game/73278/project-cars/,0.14
+Helldivers,2015-12-07,83,6.8,50,23590636,110013,6071,0,20732,14,66,Action,T,13,1,0,7,0,0,471812.72,Helldivers,http://www.vgchartz.com/gamedb/?name=Helldivers,NA
+Life is Strange: Episode 5 - Polarized,2015-10-20,83,8.4,44,103257,1955,38,0,502,8,314,Action Adventure,M,7,1,0,22,12,12,2346.75,Life is Strange,http://www.vgchartz.com/game/84061/life-is-strange/,0.05
+BROFORCE,2015-10-15,83,8,9,5575,124,2,0,37,32,181,Action,NA,30,2,0,21,3,3,619.444444444444,BROFORCE,NA,NA
+"Invisible, Inc.",2015-05-12,82,7.9,40,11035855,141505,5341,0,50594,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,275896.375,"Invisible, Inc.",http://www.vgchartz.com/gamedb/?name=Invisible%2C+Inc.,0
+Hearthstone: Blackrock Mountain,2015-04-02,82,6.1,50,2976737,43077,1114,0,4430,9,48,Strategy,NA,8,1,0,2,1,1,59534.74,Hearthstone: Blackrock Mountain,http://www.vgchartz.com/gamedb/?name=Hearthstone%3A+Blackrock+Mountain,NA
+Hacknet,2015-08-12,82,7.6,21,5618422,75986,3314,0,35254,7,32,Miscellaneous,NA,6,1,0,2,4,4,267543.904761905,Hacknet,http://www.vgchartz.com/gamedb/?name=Hacknet,NA
+King's Quest Chapter 1: A Knight to Remember,2015-07-28,82,7.2,49,250869,1449,112,0,190,23,92,Adventure,E10+,19,4,0,15,3,3,5119.77551020408,King's Quest Chapter 1: A Knight to Remember,http://www.vgchartz.com/gamedb/?name=King's+Quest+Chapter+1%3A+A+Knight+to+Remember,NA
+Technobabylon,2015-05-21,82,7.8,30,74341,1988,41,0,650,26,56,Adventure,NA,24,2,0,8,2,2,2478.03333333333,Technobabylon,http://www.vgchartz.com/gamedb/?name=Technobabylon,NA
+Resident Evil HD Remaster,2015-01-20,82,8.2,49,1653419,23340,398,0,2509,29,247,Action Adventure,M,24,5,0,27,4,4,33743.2448979592,Resident Evil HD Remaster,http://www.vgchartz.com/gamedb/?name=Resident+Evil+HD+Remaster,NA
+OlliOlli2: Welcome to Olliwood,2015-08-11,82,5.4,48,2024435,17226,330,0,3363,16,32,Sports,NA,15,0,1,4,0,0,42175.7291666667,OlliOlli2: Welcome to Olliwood,http://www.vgchartz.com/gamedb/?name=OlliOlli2%3A+Welcome+to+Olliwood,NA
+Shadowrun: Hong Kong,2015-08-20,81,7.7,36,1717011,15283,168,0,1975,28,176,Role-Playing,NA,25,3,0,17,8,8,47694.75,Shadowrun,http://www.vgchartz.com/game/13312/shadowrun/,0
+Football Manager 2016,2015-11-13,81,7,49,8341627,169563,3227,0,114208,34,99,Sports,E,30,4,0,9,5,5,170237.285714286,Football Manager 2016,http://www.vgchartz.com/game/85988/football-manager-2016/,0.39
+Downwell,2015-10-15,81,6.2,50,9909561,132358,6314,0,32781,20,89,Action,NA,16,4,0,4,0,0,198191.22,Downwell,http://www.vgchartz.com/gamedb/?name=Downwell,NA
+Tales From The Borderlands: Episode 3 - Catch A Ride,2015-06-23,81,8.4,28,2414644,23015,268,0,2372,24,124,Adventure,M,18,6,0,11,0,0,86237.2857142857,Tales From The Borderlands: Episode 3 - Catch A Ride,http://www.vgchartz.com/gamedb/?name=Tales+From+The+Borderlands%3A+Episode+3+-+Catch+A+Ride,NA
+Guild Wars 2: Heart of Thorns,2015-10-23,81,7.2,38,419440,2741,64,0,474,22,912,Role-Playing,T,19,3,0,317,29,29,11037.8947368421,Guild Wars 2,http://www.vgchartz.com/game/37350/guild-wars-2/,2.37
+The Age of Decadence,2015-10-15,81,7.9,49,154436,4581,91,0,1454,17,182,Role-Playing,NA,13,4,0,31,5,5,3151.75510204082,The Age of Decadence,http://www.vgchartz.com/gamedb/?name=The+Age+of+Decadence,NA
+Galactic Civilizations III,2015-05-14,81,6.5,45,149790,4027,85,0,1138,31,200,Strategy,NA,25,6,0,19,15,15,3328.66666666667,Galactic Civilizations III,http://www.vgchartz.com/game/80577/galactic-civilizations-iii/,0.01
+Order of Battle: Pacific,2015-04-30,81,5.4,47,742253,5961,118,0,1563,12,40,Strategy,NA,11,1,0,7,0,0,15792.6170212766,Order of Battle: Pacific,http://www.vgchartz.com/gamedb/?name=Order+of+Battle%3A+Pacific,NA
+World of Warships,2015-09-17,81,6.4,50,3419773,87952,750,0,8691,29,145,Action,T,27,2,0,15,4,4,68395.46,World of Warships,http://www.vgchartz.com/gamedb/?name=World+of+Warships,0
+The Book of Unwritten Tales 2,2015-02-20,80,7.6,49,1546647,17096,561,0,2376,39,78,Adventure,T,34,4,1,11,1,1,31564.2244897959,The Book of Unwritten Tales,http://www.vgchartz.com/game/32485/the-book-of-unwritten-tales/,0.1
+Lovers in a Dangerous Spacetime,2015-09-09,80,6.7,50,892023,12351,207,0,1683,16,21,Action,NA,15,1,0,1,0,0,17840.46,Lovers in a Dangerous Spacetime,http://www.vgchartz.com/gamedb/?name=Lovers+in+a+Dangerous+Spacetime,0
+Westerado: Double Barreled,2015-04-16,80,7.3,50,2104860,50180,1005,0,28147,18,30,Action,NA,15,3,0,5,1,1,42097.2,Westerado: Double Barreled,http://www.vgchartz.com/gamedb/?name=Westerado%3A+Double+Barreled,NA
+Volume,2015-08-18,80,7.3,49,1614635,14643,1340,0,5644,34,52,Action,T,29,5,0,5,1,1,32951.7346938776,Volume,http://www.vgchartz.com/gamedb/?name=Volume,0
+Age of Wonders III - Eternal Lords,2015-04-14,80,8.4,2,8236759,6299,1830,0,1452,10,109,Strategy,NA,9,1,0,21,0,0,4118379.5,Age of Wonders,http://www.vgchartz.com/game/26245/age-of-wonders/,NA
+Dariusburst: Chronicle Saviours,2015-12-03,80,8.4,50,1279373,21608,307,0,2097,9,12,Action,NA,7,2,0,1,0,0,25587.46,Dariusburst: Chronicle Saviours,http://www.vgchartz.com/gamedb/?name=Dariusburst%3A+Chronicle+Saviours,NA
+Grandia II Anniversary Edition,2015-08-24,80,7.9,32,616397,6323,122,0,585,8,21,Role-Playing,T,6,2,0,2,0,0,19262.40625,Grandia II,http://www.vgchartz.com/game/15236/grandia-ii/,0
+Dropsy,2015-09-10,80,7.1,49,1797925,35693,919,0,6978,28,41,Adventure,NA,23,5,0,6,0,0,36692.3469387755,Dropsy,http://www.vgchartz.com/gamedb/?name=Dropsy,NA
+Company of Heroes 2: The British Forces,2015-09-03,80,5.9,49,1169268,27740,310,0,2785,14,51,Strategy,M,13,1,0,6,1,1,23862.612244898,Company of Heroes 2,http://www.vgchartz.com/game/71198/company-of-heroes-2/,0.34
+Read Only Memories,2015-10-05,80,6,48,2297638,21718,465,0,2400,11,36,General,NA,8,3,0,7,0,0,47867.4583333333,Read Only Memories,http://www.vgchartz.com/gamedb/?name=Read+Only+Memories,0
+Life is Strange: Episode 3 - Chaos Theory,2015-05-19,80,9,47,5108588,112625,1903,0,30394,8,207,Action Adventure,M,6,2,0,10,1,1,108693.361702128,Life is Strange,http://www.vgchartz.com/game/84061/life-is-strange/,0.05
+The Legend of Heroes: Trails in the Sky SC,2015-10-29,80,8.6,50,5179701,125505,6151,0,23669,7,71,Console-style RPG,RP,6,1,0,4,0,0,103594.02,The Legend of Heroes: Trails in the Sky SC,http://www.vgchartz.com/gamedb/?name=The+Legend+of+Heroes%3A+Trails+in+the+Sky+SC,NA
+Total War: Attila,2015-02-17,80,7.3,10,30222,459,2,0,77,66,530,Strategy,T,52,14,0,78,17,17,3022.2,Total War: Attila,http://www.vgchartz.com/game/84622/total-war-attila/,0.25
+The Magic Circle,2015-07-09,79,7.4,37,163692,2873,203,0,976,18,27,Adventure,NA,14,4,0,3,3,3,4424.10810810811,The Magic Circle,http://www.vgchartz.com/gamedb/?name=The+Magic+Circle,NA
+Stasis,2015-08-31,79,7.7,29,122302,1290,20,0,492,31,108,Miscellaneous,NA,23,8,0,11,5,5,4217.31034482759,Stasis,http://www.vgchartz.com/gamedb/?name=Stasis,0
+Warhammer: End Times - Vermintide,2015-10-23,79,7.9,40,1688202,53994,773,0,2215,39,242,Action,M,30,9,0,37,10,10,42205.05,Warhammer: End Times - Vermintide,NA,NA
+Else Heart.Break(),2015-09-24,79,7.7,49,6308558,85295,1871,0,16839,10,9,Role-Playing,NA,6,4,0,1,0,0,128746.081632653,Else Heart.Break(),http://www.vgchartz.com/gamedb/?name=Else+Heart.Break(),NA
+Cities: Skylines - After Dark,2015-09-24,79,7.8,44,438883,13842,180,0,2349,15,76,Strategy,NA,9,6,0,5,2,2,9974.61363636364,Cities: Skylines,http://www.vgchartz.com/game/84637/cities-skylines/,0.14
+Jotun,2015-09-29,79,7.2,49,1409556,30554,332,0,3016,28,43,Action,NA,23,5,0,3,0,0,28766.4489795918,Jotun,http://www.vgchartz.com/gamedb/?name=Jotun,NA
+The Incredible Adventures of Van Helsing: Final Cut,2015-10-07,79,7.4,42,1829604,21677,1573,0,7043,10,33,Role-Playing,NA,8,2,0,3,1,1,43562,The Incredible Adventures of Van Helsing: Final Cut,http://www.vgchartz.com/gamedb/?name=The+Incredible+Adventures+of+Van+Helsing%3A+Final+Cut,NA
+Sid Meier's Civilization: Beyond Earth - Rising Tide,2015-10-09,79,6,50,2878289,43759,784,0,7006,39,120,Strategy,E10+,29,10,0,11,2,2,57565.78,Sid Meier's Civilization: Beyond Earth,http://www.vgchartz.com/game/81105/sid-meiers-civilization-beyond-earth/,0.38
+Tales From The Borderlands: Episode 4 - Escape Plan Bravo,2015-08-18,79,8.4,32,165423,2010,86,0,571,27,113,Adventure,M,18,9,0,6,1,1,5169.46875,Tales From The Borderlands: Episode 4 - Escape Plan Bravo,http://www.vgchartz.com/gamedb/?name=Tales+From+The+Borderlands%3A+Episode+4+-+Escape+Plan+Bravo,NA
+Frozen Cortex,2015-02-19,79,6.5,39,208755,3290,84,0,583,11,29,General,NA,8,3,0,3,0,0,5352.69230769231,Frozen Cortex,http://www.vgchartz.com/gamedb/?name=Frozen+Cortex,NA
+Tom Clancy's Rainbow Six Siege,2015-12-01,79,6.9,50,4658011,147446,4366,0,53845,37,775,Modern,M,29,8,0,114,37,37,93160.22,Tom Clancy's Rainbow Six Siege,http://www.vgchartz.com/gamedb/?name=Tom+Clancy's+Rainbow+Six+Siege,NA
+Apotheon,2015-02-03,78,7.8,44,16747,506,22,0,170,30,182,Action,T,22,8,0,19,5,5,380.613636363636,Apotheon,http://www.vgchartz.com/gamedb/?name=Apotheon,0
+Human Resource Machine,2015-10-15,78,8,47,133139,3159,90,0,454,12,26,Puzzle,NA,11,1,0,6,2,2,2832.74468085106,Human Resource Machine,http://www.vgchartz.com/gamedb/?name=Human+Resource+Machine,NA
+Mushroom 11,2015-10-15,78,6.9,39,3365900,37213,743,0,3975,20,16,Action,NA,15,4,1,2,0,0,86305.1282051282,Mushroom 11,http://www.vgchartz.com/gamedb/?name=Mushroom+11,0
+Hand of Fate,2015-02-17,78,7.9,40,55344,619,47,0,366,28,161,Role-Playing,T,16,12,0,18,10,10,1383.6,Hand of Fate,http://www.vgchartz.com/gamedb/?name=Hand+of+Fate,0
+Avernum 2: Crystal Souls,2015-01-14,78,8.2,42,87614,818,40,0,267,8,19,PC-style RPG,NA,NA,NA,NA,NA,NA,NA,2086.04761904762,Avernum 2,http://www.vgchartz.com/game/27936/avernum-2/,NA
+Galak-Z: The Dimensional,2015-10-29,78,6.3,50,199064,1544,59,0,619,7,8,Action,NA,6,1,0,0,1,1,3981.28,Galak-Z: The Dimensional,http://www.vgchartz.com/gamedb/?name=Galak-Z%3A+The+Dimensional,0
+AR-K Episode 3: The Great Escape,2015-07-14,78,8.2,11,21951,238,6,0,84,9,41,Adventure,NA,8,1,0,4,2,2,1995.54545454545,AR-K Episode 3: The Great Escape,http://www.vgchartz.com/gamedb/?name=AR-K+Episode+3%3A+The+Great+Escape,NA
+Tales From The Borderlands: Episode 2 - Atlas Mugged,2015-03-17,78,8.6,42,652793,13244,265,0,2507,38,138,Adventure,M,29,9,0,11,4,4,15542.6904761905,Tales From The Borderlands: Episode 2 - Atlas Mugged,http://www.vgchartz.com/gamedb/?name=Tales+From+The+Borderlands%3A+Episode+2+-+Atlas+Mugged,NA
+Deathtrap,2015-02-04,77,7.9,8,48752,1114,25,0,122,26,62,Strategy,T,20,6,0,10,4,4,6094,Deathtrap,http://www.vgchartz.com/gamedb/?name=Deathtrap,NA
+Republique: Episode 1 - Exordium,2015-02-25,77,7.4,50,300215,7804,160,0,1290,26,65,Action Adventure,NA,19,7,0,4,0,0,6004.3,Republique: Episode 1 - Exordium,http://www.vgchartz.com/gamedb/?name=Republique%3A+Episode+1+-+Exordium,NA
+Life is Strange: Episode 1 - Chrysalis,2015-01-30,77,8.5,22,32822,1431,19,0,419,28,404,Action Adventure,M,19,9,0,32,17,17,1491.90909090909,Life is Strange,http://www.vgchartz.com/game/84061/life-is-strange/,0.05
+Life is Strange: Episode 2 - Out of Time,2015-03-24,77,8.7,35,117101,2331,45,0,701,12,204,Action Adventure,M,7,5,0,9,2,2,3345.74285714286,Life is Strange,http://www.vgchartz.com/game/84061/life-is-strange/,0.05
+Game of Thrones: Episode Three - The Sword in the Darkness,2015-03-24,77,7.8,50,3231921,74326,1338,0,28699,30,103,Action,M,24,6,0,4,2,2,64638.42,Game of Thrones,http://www.vgchartz.com/game/68814/game-of-thrones/,0.08
+Magic Duels: Origins,2015-07-29,77,6,48,865687,12769,713,0,3650,12,55,Strategy,NA,6,6,0,6,3,3,18035.1458333333,Magic Duels: Origins,http://www.vgchartz.com/gamedb/?name=Magic+Duels%3A+Origins,NA
+Dragon Age: Inquisition - Trespasser,2015-09-09,77,7.6,45,38187,560,22,0,142,7,81,Role-Playing,NA,5,2,0,5,1,1,848.6,Dragon Age: Inquisition,http://www.vgchartz.com/game/71354/dragon-age-inquisition/,0.76
+Evolve,2015-02-09,77,4.3,25,93082,2648,19,0,299,39,973,Action,M,25,14,0,105,47,47,3723.28,Evolve,http://www.vgchartz.com/game/78278/evolve/,0.2
+Grey Goo,2015-01-23,77,7.6,43,154738,1289,37,0,391,45,185,Strategy,T,34,10,1,25,14,14,3598.55813953488,Grey Goo,http://www.vgchartz.com/gamedb/?name=Grey+Goo,0
+Aviary Attorney,2015-12-18,77,7.4,40,2580790,27284,645,0,6560,15,14,Adventure,NA,10,4,1,1,0,0,64519.75,Aviary Attorney,http://www.vgchartz.com/gamedb/?name=Aviary+Attorney,NA
+Three Fourths Home,2015-03-20,77,5.5,39,5057882,134801,4774,0,20542,8,16,Adventure,NA,5,3,0,0,1,1,129689.282051282,Three Fourths Home,http://www.vgchartz.com/gamedb/?name=Three+Fourths+Home,NA
+Out of the Park Baseball 17,2016-03-22,92,3.5,50,413648,9823,75,0,927,8,206,Sports,NA,8,0,0,19,5,5,8272.96,Out of the Park Baseball 17,http://www.vgchartz.com/gamedb/?name=Out+of+the+Park+Baseball+17,NA
+The Witcher 3: Wild Hunt - Blood and Wine,2016-05-30,92,9.1,50,563704,13776,262,0,4182,50,1842,Role-Playing,M,50,0,0,140,6,6,11274.08,The Witcher 3: Wild Hunt,http://www.vgchartz.com/game/71483/the-witcher-3-wild-hunt/,0.81
+Overwatch,2016-05-23,91,6.8,50,1224928,24123,379,0,5922,62,4208,General,T,60,2,0,465,179,179,24498.56,Overwatch,http://www.vgchartz.com/game/84812/overwatch/,0.73
+Stephen's Sausage Roll,2016-04-18,90,5.6,32,4885344,37344,1223,0,4215,9,75,Puzzle,NA,9,0,0,4,0,0,152667,Stephen's Sausage Roll,http://www.vgchartz.com/gamedb/?name=Stephen's+Sausage+Roll,NA
+Kentucky Route Zero - Act IV,2016-07-20,90,6,41,452956,4027,129,0,1041,8,36,Adventure,NA,8,0,0,2,0,0,11047.7073170732,Kentucky Route Zero - Act IV,http://www.vgchartz.com/gamedb/?name=Kentucky+Route+Zero+-+Act+IV,NA
+Dark Souls III,2016-04-11,89,8.6,48,82990,609,29,0,176,56,1902,Role-Playing,M,54,2,0,125,31,31,1728.95833333333,Dark Souls III,http://www.vgchartz.com/game/85670/dark-souls-iii/,0.09
+Stardew Valley,2016-02-26,88,8.6,50,208770,1337,34,0,502,29,526,Role-Playing,NA,28,1,0,75,5,5,4175.4,Stardew Valley,http://www.vgchartz.com/gamedb/?name=Stardew+Valley,0
+Owlboy,2016-11-01,88,7.1,32,19532,520,18,0,211,46,182,Action Adventure,NA,44,2,0,14,10,10,610.375,Owlboy,http://www.vgchartz.com/gamedb/?name=Owlboy,NA
+Ori and the Blind Forest: Definitive Edition,2016-04-27,88,8.7,49,601414,8941,814,0,3003,8,142,Action,E,8,0,0,22,0,0,12273.7551020408,Ori and the Blind Forest,http://www.vgchartz.com/game/82901/ori-and-the-blind-forest/,0.01
+XCOM 2,2016-02-05,88,7.1,46,37956,991,12,0,293,104,1261,Strategy,T,97,6,1,180,77,77,825.130434782609,XCOM 2,http://www.vgchartz.com/game/85589/xcom-2/,0.28
+Sid Meier's Civilization VI,2016-10-21,88,7.2,47,2072243,49421,388,0,6150,84,759,Strategy,E10+,79,4,1,78,51,51,44090.2765957447,Sid Meier's Civilization VI,http://www.vgchartz.com/game/112497/sid-meiers-civilization-vi/,0.38
+Battlefield 1,2016-10-21,88,7.5,50,4497646,100686,2244,0,30328,54,1318,General,M,52,2,0,131,61,61,89952.92,Battlefield 1,http://www.vgchartz.com/game/110845/battlefield-1/,0.68
+World of Warcraft: Legion,2016-08-30,88,7.3,45,231958,1478,37,0,520,62,580,Role-Playing,T,61,1,0,61,21,21,5154.62222222222,World of Warcraft: Legion,http://www.vgchartz.com/game/86163/world-of-warcraft-legion/,0.41
+The Witness,2016-01-26,87,6.6,50,2842946,20630,345,0,5529,20,403,Miscellaneous,E,17,3,0,44,16,16,56858.92,The Witness,http://www.vgchartz.com/gamedb/?name=The+Witness,0
+INSIDE,2016-07-07,87,8.5,14,111036,1003,43,0,237,22,412,Action,M,20,2,0,49,15,15,7931.14285714286,INSIDE,NA,NA
+Hex: Shards of Fate,2016-01-26,87,6.4,38,23086,758,8,0,227,7,103,Miscellaneous,NA,7,0,0,29,5,5,607.526315789474,Hex: Shards of Fate,http://www.vgchartz.com/gamedb/?name=Hex%3A+Shards+of+Fate,0
+Forza Horizon 3,2016-09-27,86,6.2,49,385039,8911,269,0,1068,12,211,Racing,E,12,0,0,31,5,5,7857.9387755102,Forza Horizon 3,http://www.vgchartz.com/gamedb/?name=Forza+Horizon+3,0
+Rise of the Tomb Raider,2016-01-28,86,7.9,8,23912,319,28,0,65,45,960,Action Adventure,M,44,1,0,97,31,31,2989,Rise of the Tomb Raider,http://www.vgchartz.com/game/82906/rise-of-the-tomb-raider/,0.15
+Total War: WARHAMMER,2016-05-24,86,7.3,50,752026,36709,247,0,2223,77,575,Strategy,T,72,5,0,90,22,22,15040.52,Total War: WARHAMMER,http://www.vgchartz.com/game/85413/total-war-warhammer/,0.19
+Dishonored 2,2016-11-10,86,6.2,49,204231,6983,98,0,1230,40,433,Action Adventure,M,35,5,0,36,9,9,4167.97959183673,Dishonored 2,http://www.vgchartz.com/game/85660/dishonored-2/,0.21
+Chime Sharp,2016-07-19,86,7.8,43,293943,1403,104,0,184,8,6,Puzzle,NA,7,1,0,2,0,0,6835.88372093023,Chime,http://www.vgchartz.com/game/47168/chime/,NA
+F1 2016,2016-08-19,86,8,31,414036,4661,189,0,659,12,46,Racing,E,12,0,0,3,1,1,13356,F1 2016,http://www.vgchartz.com/gamedb/?name=F1+2013,0
+Pony Island,2016-01-04,86,7.1,50,1798852,39473,825,0,15228,29,178,Puzzle,NA,28,1,0,17,9,9,35977.04,Pony Island,http://www.vgchartz.com/gamedb/?name=Pony+Island,NA
+Gears of War 4,2016-10-11,86,6.8,34,192474,4203,59,0,309,22,261,Action,M,20,2,0,20,4,4,5661,Gears of War,http://www.vgchartz.com/game/13240/gears-of-war/,0.02
+Titanfall 2,2016-10-28,86,8.1,50,56116,1444,48,0,359,30,555,Action,M,25,5,0,109,21,21,1122.32,Titanfall 2,http://www.vgchartz.com/game/112245/titanfall-2/,0.16
+Day of the Tentacle Remastered,2016-03-21,86,7.9,50,14214719,366592,4100,0,29292,37,112,Adventure,NA,35,2,0,16,1,1,284294.38,Day of the Tentacle Remastered,http://www.vgchartz.com/gamedb/?name=Day+of+the+Tentacle+Remastered,NA
+Hearthstone: Whispers of the Old Gods,2016-04-26,85,5.5,27,5954,124,5,0,65,8,90,Strategy,NA,7,1,0,5,0,0,220.518518518519,Hearthstone: Whispers of the Old Gods,http://www.vgchartz.com/gamedb/?name=Hearthstone%3A+Whispers+of+the+Old+Gods,NA
+Thumper,2016-10-10,85,7.6,13,38521,1795,54,0,280,9,17,Action,NA,8,1,0,3,1,1,2963.15384615385,Thumper,http://www.vgchartz.com/gamedb/?name=Thumper,NA
+Candle,2016-11-11,85,7.7,34,5144329,33050,953,0,5320,14,63,Action,RP,13,1,0,6,0,0,151303.794117647,Candle,NA,NA
+DOOM,2016-05-13,85,8.3,46,266713,3022,65,0,1062,44,1891,Sci-Fi,M,41,3,0,342,36,36,5798.10869565217,DOOM,NA,NA
+Shadow Tactics: Blades of the Shogun,2016-12-06,84,8.1,19,14201,206,7,0,90,37,163,Strategy,NA,36,1,0,23,1,1,747.421052631579,Shadow Tactics: Blades of the Shogun,http://www.vgchartz.com/gamedb/?name=Shadow+Tactics%3A+Blades+of+the+Shogun,0
+Darkest Dungeon,2016-01-19,84,7.8,50,114541,1717,46,0,323,55,382,Role-Playing,NA,52,3,0,54,14,14,2290.82,Darkest Dungeon,http://www.vgchartz.com/gamedb/?name=Darkest+Dungeon,0
+The Last Door: Season 2,2016-03-29,84,6.6,7,1947997,9147,808,0,2720,7,14,Adventure,NA,7,0,0,1,0,0,278285.285714286,The Last Door: Season 2,http://www.vgchartz.com/gamedb/?name=The+Last+Door%3A+Season+2,NA
+Planet Coaster,2016-11-17,84,7,50,2171418,47539,844,0,13492,55,290,Strategy,E,54,1,0,60,5,5,43428.36,Planet Coaster,http://www.vgchartz.com/gamedb/?name=Planet+Coaster,NA
+Enter the Gungeon,2016-04-05,84,7.6,32,38020,478,23,0,167,26,153,Action,NA,25,1,0,14,4,4,1188.125,Enter the Gungeon,http://www.vgchartz.com/gamedb/?name=Enter+the+Gungeon,0
+Hitman - Episode 2: Sapienza,2016-04-26,84,5.8,50,119751,1818,98,0,557,7,81,Action Adventure,NA,6,1,0,10,0,0,2395.02,Hitman - Episode 2: Sapienza,http://www.vgchartz.com/gamedb/?name=Hitman+-+Episode+2%3A+Sapienza,NA
+Final Fantasy IX,2016-04-14,84,8.3,50,1963187,28957,584,0,5376,7,80,Role-Playing,NA,7,0,0,6,0,0,39263.74,Final Fantasy IX,http://www.vgchartz.com/gamedb/?name=Final+Fantasy+IX,NA
+Hyper Light Drifter,2016-03-31,84,8.2,50,1821412,22345,523,0,4097,46,222,Role-Playing,NA,42,4,0,34,6,6,36428.24,Hyper Light Drifter,http://www.vgchartz.com/gamedb/?name=Rift,0
+FIFA 17,2016-09-27,84,4.2,50,552497,5699,277,0,1331,12,208,Sports,E,11,1,0,6,6,6,11049.94,FIFA 17,http://www.vgchartz.com/game/131413/fifa-17/,0.18
+Hitman,2016-10-31,84,7.4,41,34769,893,34,0,445,19,45,Modern,M,17,2,0,6,0,0,848.024390243902,Hitman,NA,NA
+SpeedRunners,2016-04-19,84,8.2,47,129396,934,81,0,204,11,46,Action,NA,11,0,0,8,0,0,2753.10638297872,SpeedRunners,http://www.vgchartz.com/gamedb/?name=SpeedRunners,NA
+Grim Dawn,2016-02-25,83,8.4,46,1742079,6850,158,0,4336,29,519,Role-Playing,NA,29,0,0,86,20,20,37871.2826086957,Grim Dawn,http://www.vgchartz.com/gamedb/?name=Grim+Dawn,0
+Final Fantasy X / X-2 HD Remaster,2016-05-12,83,8.4,28,5415968,58186,1851,0,11867,8,70,Miscellaneous,T,7,1,0,7,2,2,193427.428571429,Final Fantasy X / X-2 HD Remaster,http://www.vgchartz.com/gamedb/?name=Final+Fantasy+X+/+X-2+HD+Remaster,NA
+Hearts of Iron IV,2016-06-06,83,6.9,46,794842,14373,287,0,231,36,315,Historic,NA,33,3,0,24,10,10,17279.1739130435,Hearts of Iron IV,http://www.vgchartz.com/game/78455/hearts-of-iron-iv/,0.1
+Devil Daggers,2016-02-18,83,7.1,49,684642,16372,153,0,2642,20,51,Action,NA,18,2,0,9,1,1,13972.2857142857,Devil Daggers,http://www.vgchartz.com/gamedb/?name=Devil+Daggers,NA
+Danganronpa: Trigger Happy Havoc,2016-02-18,83,8.1,3,1000,15,0,0,13,9,66,Adventure,NA,9,0,0,5,3,3,333.333333333333,Danganronpa: Trigger Happy Havoc,http://www.vgchartz.com/gamedb/?name=Danganronpa%3A+Trigger+Happy+Havoc,0
+Deus Ex: Mankind Divided,2016-08-23,83,6.1,7,778,1,0,0,5,56,760,Action Adventure,M,48,8,0,79,37,37,111.142857142857,Deus Ex: Mankind Divided,http://www.vgchartz.com/game/85343/deus-ex-mankind-divided/,0.07
+ABZU,2016-08-02,83,6.5,49,8069559,142426,6103,0,40063,19,125,Action Adventure,E,16,3,0,14,6,6,164684.87755102,ABZU,http://www.vgchartz.com/gamedb/?name=ABZU,0
+Duskers,2016-05-18,83,6.9,49,1190371,13297,531,0,1843,10,12,Strategy,NA,9,1,0,2,1,1,24293.2857142857,Duskers,http://www.vgchartz.com/gamedb/?name=Duskers,NA
+The Walking Dead: The Telltale Series - A New Frontier Episode 1: Ties That Bind Part One,2016-12-20,83,7,8,60260,874,52,0,155,33,128,Action,NA,29,4,0,7,6,6,7532.5,The Walking Dead: The Telltale Series - A New Frontier Episode 1: Ties That Bind Part One,http://www.vgchartz.com/gamedb/?name=The+Walking+Dead%3A+The+Telltale+Series+-+A+New+Frontier+Episode+1%3A+Ties+That+Bind+Part+One,NA
+The Banner Saga 2,2016-04-19,82,8.1,46,78241,982,23,0,163,60,101,Role-Playing,NA,51,9,0,12,3,3,1700.89130434783,The Banner Saga 2,http://www.vgchartz.com/gamedb/?name=The+Banner+Saga,0
+SUPERHOT,2016-02-25,82,7.4,23,569078,9320,264,0,2051,93,349,Modern,T,77,16,0,36,24,24,24742.5217391304,SUPERHOT,NA,NA
+VIDEOBALL,2016-07-12,82,NA,48,3410859,98526,1664,0,26742,8,NA,Sports,NA,7,1,0,1,0,0,71059.5625,VIDEOBALL,http://www.vgchartz.com/gamedb/?name=VIDEOBALL,NA
+Duelyst,2016-05-03,82,8.1,44,278276,6519,212,0,1217,14,45,Fantasy,NA,12,2,0,8,1,1,6324.45454545455,Duelyst,http://www.vgchartz.com/gamedb/?name=Duelyst,NA
+The Walking Dead: The Telltale Series - A New Frontier Episode 2: Ties That Bind Part Two,2016-12-20,82,7.4,50,1497543,19903,529,0,2797,31,57,Action,NA,27,4,0,6,4,4,29950.86,The Walking Dead: The Telltale Series - A New Frontier Episode 2: Ties That Bind Part Two,http://www.vgchartz.com/gamedb/?name=The+Walking+Dead%3A+The+Telltale+Series+-+A+New+Frontier+Episode+2%3A+Ties+That+Bind+Part+Two,NA
+Starbound,2016-07-22,81,7.1,50,847276,13593,203,0,2892,21,342,Action Adventure,NA,18,3,0,45,30,30,16945.52,Starbound,http://www.vgchartz.com/gamedb/?name=Starbound,0
+Quadrilateral Cowboy,2016-07-25,81,7.5,44,1349846,24550,579,0,3007,30,21,Simulation,NA,29,0,1,2,1,1,30678.3181818182,Quadrilateral Cowboy,http://www.vgchartz.com/gamedb/?name=Quadrilateral+Cowboy,0
+Unravel,2016-02-09,81,8,50,5283301,69430,2074,0,16776,12,122,Action,E,10,2,0,9,1,1,105666.02,Unravel,http://www.vgchartz.com/gamedb/?name=Unravel,0
+SteamWorld Heist,2016-06-07,81,7.8,42,3730166,29150,399,0,5992,8,33,Strategy,NA,7,1,0,7,0,0,88813.4761904762,SteamWorld Heist,http://www.vgchartz.com/gamedb/?name=SteamWorld+Heist,NA
+Firewatch,2016-02-09,81,7.3,18,98532,1566,288,0,317,65,818,General,NA,51,14,0,87,58,58,5474,Firewatch,http://www.vgchartz.com/gamedb/?name=Firewatch,0
+Zombie Night Terror,2016-07-20,81,7.9,20,5125858,20609,1126,0,6479,21,27,Puzzle,NA,17,4,0,5,1,1,256292.9,Zombie Night Terror,http://www.vgchartz.com/gamedb/?name=Zombie+Night+Terror,NA
+Dragon's Dogma: Dark Arisen,2016-01-15,81,8.2,37,48649,379,10,0,243,62,383,Role-Playing,M,54,8,0,52,9,9,1314.83783783784,Dragon's Dogma,http://www.vgchartz.com/game/86404/dragons-dogma/,0.01
+The Bug Butcher,2016-01-19,81,8.2,48,1379935,21701,848,0,6150,20,24,Action,NA,17,3,0,6,1,1,28748.6458333333,The Bug Butcher,http://www.vgchartz.com/gamedb/?name=The+Bug+Butcher,NA
+Nelly Cootalot: The Fowl Fleet,2016-03-22,81,7.9,45,3516006,84123,1620,0,13997,7,26,Adventure,NA,6,1,0,7,0,0,78133.4666666667,Nelly Cootalot: The Fowl Fleet,http://www.vgchartz.com/gamedb/?name=Nelly+Cootalot%3A+The+Fowl+Fleet,NA
+Overcooked,2016-08-03,81,7.6,37,2370690,15875,293,0,4811,15,31,Action,NA,13,2,0,8,0,0,64072.7027027027,Overcooked,http://www.vgchartz.com/gamedb/?name=Overcooked,NA
+Motorsport Manager,2016-11-09,81,8.4,47,866808,14657,265,0,2732,16,43,Action,E10+,14,2,0,8,2,2,18442.7234042553,Motorsport Manager,http://www.vgchartz.com/gamedb/?name=Motorsport+Manager,NA
+Redout,2016-09-02,81,8.2,3,40284,377,5,0,37,18,134,General,NA,15,3,0,30,4,4,13428,Redout,http://www.vgchartz.com/gamedb/?name=Redout,NA
+Atlas Reactor,2016-10-04,81,8.4,32,128078,4446,46,0,1420,12,38,Turn-Based,NA,11,1,0,14,0,0,4002.4375,Atlas Reactor,http://www.vgchartz.com/gamedb/?name=Atlas+Reactor,NA
+Leap of Fate,2016-03-30,80,7.4,46,114623,3334,74,0,1007,8,10,Action,NA,7,1,0,0,1,1,2491.80434782609,Leap of Fate,http://www.vgchartz.com/gamedb/?name=Leap+of+Fate,NA
+Tyranny,2016-11-10,80,7.8,37,1594384,15351,518,0,2201,65,347,Role-Playing,NA,53,12,0,50,15,15,43091.4594594595,Tyranny,http://www.vgchartz.com/game/144691/tyranny/,0.02
+Oxenfree,2016-01-15,80,7.7,35,308205,6657,155,0,839,49,142,Action Adventure,NA,41,8,0,11,5,5,8805.85714285714,Oxenfree,http://www.vgchartz.com/gamedb/?name=Oxenfree,NA
+Football Manager 2017,2016-11-04,80,4.5,49,607008,13236,292,0,1678,45,65,Sports,E,36,9,0,6,2,2,12387.9183673469,Football Manager 2017,http://www.vgchartz.com/game/141660/football-manager-2017/,0.24
+Cities: Skylines - Natural Disasters,2016-11-29,80,6.5,43,563822,8069,258,0,1933,11,11,Strategy,NA,NA,NA,NA,NA,NA,NA,13112.1395348837,Cities: Skylines,http://www.vgchartz.com/game/84637/cities-skylines/,0.14
+BioShock: The Collection,2016-09-16,80,6.3,38,103084,811,13,0,248,8,70,Action,M,5,3,0,4,0,0,2712.73684210526,BioShock,http://www.vgchartz.com/game/7217/bioshock/,0.41
+Samorost 3,2016-03-24,80,8.1,49,225394,4420,131,0,1330,29,82,Adventure Games,NA,23,6,0,11,1,1,4599.87755102041,Samorost 3,http://www.vgchartz.com/gamedb/?name=Samorost+3,NA
+Ghost 1.0,2016-06-07,80,7.8,15,1593820,5252,304,0,195,7,14,Action Adventure,NA,6,1,0,1,0,0,106254.666666667,Ghost 1.0,http://www.vgchartz.com/gamedb/?name=Ghost+1.0,NA
+1979 Revolution: Black Friday,2016-04-05,80,7.8,46,2853559,30074,582,0,5439,24,56,Adventure,NA,21,3,0,7,2,2,62033.8913043478,1979 Revolution: Black Friday,http://www.vgchartz.com/gamedb/?name=1979+Revolution%3A+Black+Friday,NA
+Fractured Space,2016-09-22,79,8.6,50,183449,4320,150,0,808,10,14,Strategy,NA,9,1,0,3,0,0,3668.98,Fractured Space,http://www.vgchartz.com/gamedb/?name=Fractured+Space,NA
+Fallout 4: Far Harbor,2016-05-19,79,6.6,48,820614,25180,351,0,3748,15,198,Role-Playing,M,12,3,0,10,5,5,17096.125,Fallout 4,http://www.vgchartz.com/game/85600/fallout-4/,1.38
+Goetia,2016-04-14,79,7.8,50,232725,6399,91,0,659,7,12,Adventure,NA,5,2,0,2,1,1,4654.5,Goetia,http://www.vgchartz.com/gamedb/?name=Goetia,NA
+Dying Light: The Following,2016-02-09,79,8.3,50,6415015,163141,7619,0,17151,33,118,Action Adventure,M,28,5,0,7,5,5,128300.3,Dying Light,http://www.vgchartz.com/game/72237/dying-light/,0.23
+Tom Clancy's The Division,2016-03-08,79,5.9,48,193131,5091,68,0,951,33,1208,Action,M,24,9,0,130,59,59,4023.5625,Tom Clancy's The Division,http://www.vgchartz.com/game/83957/tom-clancys-the-division/,0.45
+Kelvin and the Infamous Machine,2016-07-21,79,7.9,50,9236239,201047,2857,0,27525,13,8,Adventure,NA,8,5,0,1,0,0,184724.78,Kelvin and the Infamous Machine,http://www.vgchartz.com/gamedb/?name=Kelvin+and+the+Infamous+Machine,NA
+Offworld Trading Company,2016-04-28,79,7.3,42,3739493,18593,186,0,5345,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,89035.5476190476,Offworld Trading Company,http://www.vgchartz.com/gamedb/?name=Offworld+Trading+Company,NA
+Pillars of Eternity: The White March - Part 2,2016-02-16,79,7,50,318092,7108,70,0,1453,22,132,Role-Playing,NA,18,4,0,9,1,1,6361.84,Pillars of Eternity,http://www.vgchartz.com/game/72346/pillars-of-eternity/,0.02
+Trackmania Turbo,2016-03-24,79,6.8,46,8469577,179338,5959,0,20019,13,43,Racing,E,10,3,0,3,2,2,184121.239130435,Trackmania Turbo,http://www.vgchartz.com/gamedb/?name=Trackmania+Turbo,0.01
+Hitman - Episode 3: Marrakesh,2016-05-31,79,5.3,49,1710941,15813,405,0,2992,7,45,Action Adventure,NA,7,0,0,2,2,2,34917.1632653061,Hitman - Episode 3: Marrakesh,http://www.vgchartz.com/gamedb/?name=Hitman+-+Episode+3%3A+Marrakesh,NA
+Anarcute,2016-07-12,79,7.2,45,145625,7611,91,0,675,7,5,Action,NA,6,1,0,0,2,2,3236.11111111111,Anarcute,http://www.vgchartz.com/gamedb/?name=Anarcute,NA
+Homeworld: Deserts of Kharak,2016-01-20,79,8.1,50,5587,60,1,0,24,52,170,Strategy,E10+,41,11,0,27,12,12,111.74,Homeworld,http://www.vgchartz.com/game/13252/homeworld/,0.02
+Hue,2016-08-30,79,7.6,15,710247,3367,103,0,765,8,9,Puzzle,NA,6,2,0,3,0,0,47349.8,Hue,http://www.vgchartz.com/gamedb/?name=Hue,0
+Obliteracers,2016-02-23,78,7.4,49,405145,11543,144,0,2391,8,7,Racing,E,5,3,0,3,0,0,8268.26530612245,Obliteracers,http://www.vgchartz.com/gamedb/?name=Obliteracers,NA
+Shadow Warrior 2,2016-10-13,78,8.3,16,12442,360,11,0,142,61,361,Action,NA,45,16,0,44,13,13,777.625,Shadow Warrior,http://www.vgchartz.com/game/23333/shadow-warrior/,0
+DeathSmiles,2016-03-10,78,7.4,45,1873137,49016,387,0,11188,10,5,Action,NA,NA,NA,NA,NA,NA,NA,41625.2666666667,DeathSmiles,http://www.vgchartz.com/gamedb/?name=DeathSmiles,NA
+The Sims 4: City Living,2016-11-01,78,6.3,50,3796754,51513,700,0,7791,13,41,Simulation,T,9,4,0,3,5,5,75935.08,The Sims 4: City Living,http://www.vgchartz.com/game/142527/the-sims-4-city-living/,0.24
+Stellaris,2016-05-09,78,8,38,389040,8197,165,0,1565,57,580,Strategy,NA,46,10,1,69,29,29,10237.8947368421,Stellaris,http://www.vgchartz.com/game/98721/stellaris/,0.06
+Xanadu Next,2016-11-03,78,7.2,50,260108,9113,177,0,1900,16,10,Role-Playing,NA,14,2,0,2,0,0,5202.16,Xanadu Next,http://www.vgchartz.com/gamedb/?name=Xanadu+Next,0
+Zero Escape: Zero Time Dilemma,2016-06-29,78,8.6,0,0,0,0,0,0,8,43,Adventure,NA,6,2,0,3,0,0,NaN,Zero Escape: Zero Time Dilemma,http://www.vgchartz.com/gamedb/?name=Zero+Escape%3A+Zero+Time+Dilemma,0
+"That Dragon, Cancer",2016-01-12,78,5.9,42,355086,3726,62,0,448,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8454.42857142857,"That Dragon, Cancer",http://www.vgchartz.com/gamedb/?name=That+Dragon%2C+Cancer,NA
