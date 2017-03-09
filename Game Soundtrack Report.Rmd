@@ -263,7 +263,10 @@ As one can see from the summary above, the total views a soundtrack has is not s
 
 There are many possible explanations for why soundtrack popularity does not affect how much a game sold or how highly rated it was. A very probable explanation is in the grand scheme of games, the soundtrack just isn't a major factor. Maybe unless a soundtrack is annoying the gamer's overall experience is not affected. Or maybe most game soundtracks are good enough to listen to while playing, but don't have enough appeal to the point that people would look the music up on youtube and listen when away from playing. 
 
-Therefore while it is recommended for game developers creating higher budget to invest a little in to their soundtracks in order to create a polished piece of work, indie developers simiply should create a soundtrack that isn't distracting. 
+Therefore while it is recommended for game developers creating higher budget to invest in to their soundtracks in order to create a polished piece of work, achieving a soundtrack that is greater than acceptable will not result in a return in investment.  Indie developers on the other hand simply should create a soundtrack that isn't distracting, and focus more of their efforts in other aspects like gameplay.
+
+A recommended future study is to analyze the reviews given to games on metacritic and other review sites. The character content of these reviews should be dissassembled to find out the main concerns an objects the game reviewing community has.
+
 
 
 
