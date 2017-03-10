@@ -557,202 +557,169 @@ for(gg_g in gg_games){
     #turn the list of used video titles into a dataframe
     holder_data_frame<- data.frame(optimal_titles, stringsAsFactors = FALSE)
     holder_data_frame <- holder_data_frame %>% mutate(videoID=videoID_df[,gg_g][key_title_spots])
-  
-  
-    #make sure each of the titles contain either "soundtrack", "OST", or "music"
-    keep_rows<- c()
+      
+    #create list of urls to use from the etag column of holder_data_frame
+    stats_url_list <- sapply(holder_data_frame[2], create_stats_url)
     
-    if(is.na(table(grepl("Soundtrack", holder_data_frame[,1], fixed = FALSE))["TRUE"]) == FALSE){
-      keep_rows <- append(keep_rows, grep("Soundtrack", holder_data_frame[,1], fixed = FALSE))
-    }
-    if(is.na(table(grepl("OST", holder_data_frame[,1], fixed = FALSE))["TRUE"]) == FALSE){
-      keep_rows <- append(keep_rows, grep("OST", holder_data_frame[,1], fixed = FALSE))
-    }
-    if(is.na(table(grepl("Music", holder_data_frame[,1], fixed = FALSE))["TRUE"]) == FALSE){
-      keep_rows <- append(keep_rows, grep("Music", holder_data_frame[,1], fixed = FALSE))
-    }
-    if(is.na(table(grepl("Playlist", holder_data_frame[,1], fixed = FALSE))["TRUE"]) == FALSE){
-      keep_rows <- append(keep_rows, grep("Playlist", holder_data_frame[,1], fixed = FALSE))
-    }
-    if(is.na(table(grepl("Sound", holder_data_frame[,1], fixed = FALSE))["TRUE"]) == FALSE){
-      keep_rows <- append(keep_rows, grep("Sound", holder_data_frame[,1], fixed = FALSE))
+    #use urls that were created and JSON function to scrape Youtube Stats API for data
+    stats_JSON <- sapply(stats_url_list, get_JSON)
+    
+    stats_JSON_df <- data.frame(stats_JSON)
+    
+    #manipulate stats_JSON_df 
+    
+    
+    #transpose the stats dataframe to put video titles as rows
+    stats_JSON_df<-as.data.frame(t(stats_JSON_df))
+    
+    #carve out section stats_JSON_df with subset that contains the stats
+    stats <- subset.data.frame(select(stats_JSON_df, ends_with("items")))
+    
+    bahaha<-c(1:nrow(stats))
+    stats_collection <- data.frame()
+    
+    #even after carving out "items" column from stats JSON, the results are still clumped together
+    #use for-loop to separate stats JSON results into their separate components (viewCount, likeCount, etc) and store it in a matrix
+    for (bah in bahaha) {
+      vid_stat<-as.character(stats$items[bah])
+      
+      vid_stat_sep<- unlist(strsplit(vid_stat, split="\\,"))
+      
+      vid_stat_matrix <- matrix(data = vid_stat_sep[4:8], nrow = 5, ncol=1, byrow=TRUE)
+      
+      vid_df<- as.data.frame(vid_stat_matrix)
+      
+      stats_collection<- append(stats_collection, vid_df)
     }
     
+    #store the matrix generated above into a dataframe
+    stats_collection_df<- as.data.frame(stats_collection)
+    colnames(stats_collection_df)<- holder_data_frame[1:nrow(holder_data_frame), 2]
+    
+    #when forming the matrix, sometimes the stats_JSON doesn't have anything for a certain stat for a video, and this messes up the data.
+    #example: if a video returns nothing for "favoriteCount", commentCount" will be moved up a row in the matrix where "favoriteCount" should be
+    #and the last spot on the matrix where "CommentCount" was supposed to be has an NA
+    #we need the fourth row to contain NA, and the fifth row to contain "CommentCount"
+    
+    #rearrange stats_collection so that stats are in their appropriate rows
+    
+    #find the columns of stats_collection_df that contain NA
+    #sum up the number of NAs per column
+    NA_per_column<- colSums(is.na(stats_collection_df))
+    
+    #find all the columns that don't have any NAs
+    non_empty_spots<-grep(pattern = 0, NA_per_column)
+    
+    #find columns with NAs by subtracting all the columns that don't have NAs
+    lacking_columns<- c(1:ncol(stats_collection_df))[-non_empty_spots]  
+    
+    #create a list (go_test_row) of the objects in the lacking column
+    #replace the NAs in go_test_row with term "placeholder" to prevent errors with using function: startsWith
+    #replace every row in the lacking column with NA
+    #re-fill the column by matching what the object in go_test_row list is with the appropriate row
+    
+    #only deal with lacking_columns that have something in them, otherwise the entire column should be NAs
+    if(sum(lacking_columns) > 0){
+      for (lacking in lacking_columns) {
         
-    if(length(keep_rows) > 0){
-      holder_data_frame<- holder_data_frame[unique(keep_rows),]
-      
-      
-      #create list of urls to use from the etag column of holder_data_frame
-      stats_url_list <- sapply(holder_data_frame[2], create_stats_url)
-      
-      #use urls that were created and JSON function to scrape Youtube Stats API for data
-      stats_JSON <- sapply(stats_url_list, get_JSON)
-      
-      stats_JSON_df <- data.frame(stats_JSON)
-      
-      #manipulate stats_JSON_df 
-      
-      
-      #transpose the stats dataframe to put video titles as rows
-      stats_JSON_df<-as.data.frame(t(stats_JSON_df))
-      
-      #carve out section stats_JSON_df with subset that contains the stats
-      stats <- subset.data.frame(select(stats_JSON_df, ends_with("items")))
-      
-      bahaha<-c(1:nrow(stats))
-      stats_collection <- data.frame()
-      
-      #even after carving out "items" column from stats JSON, the results are still clumped together
-      #use for-loop to separate stats JSON results into their separate components (viewCount, likeCount, etc) and store it in a matrix
-      for (bah in bahaha) {
-        vid_stat<-as.character(stats$items[bah])
+        go_test_row<- as.character(stats_collection_df[,lacking])
+        #replace the NAs in go_test_row with term "placeholder" to prevent errors with using function: startsWith
+        go_test_row[grep(TRUE, is.na(go_test_row))] <- "placeholder"
+        #ceate a blank slate, replace every row in the lacking column with NA, original values are stored in go_test_row
+        stats_collection_df[,lacking]<- NA
         
-        vid_stat_sep<- unlist(strsplit(vid_stat, split="\\,"))
-        
-        vid_stat_matrix <- matrix(data = vid_stat_sep[4:8], nrow = 5, ncol=1, byrow=TRUE)
-        
-        vid_df<- as.data.frame(vid_stat_matrix)
-        
-        stats_collection<- append(stats_collection, vid_df)
-      }
-      
-      #store the matrix generated above into a dataframe
-      stats_collection_df<- as.data.frame(stats_collection)
-      colnames(stats_collection_df)<- holder_data_frame[1:nrow(holder_data_frame), 2]
-      
-      #when forming the matrix, sometimes the stats_JSON doesn't have anything for a certain stat for a video, and this messes up the data.
-      #example: if a video returns nothing for "favoriteCount", commentCount" will be moved up a row in the matrix where "favoriteCount" should be
-      #and the last spot on the matrix where "CommentCount" was supposed to be has an NA
-      #we need the fourth row to contain NA, and the fifth row to contain "CommentCount"
-      
-      #rearrange stats_collection so that stats are in their appropriate rows
-      
-      #find the columns of stats_collection_df that contain NA
-      #sum up the number of NAs per column
-      NA_per_column<- colSums(is.na(stats_collection_df))
-      
-      #find all the columns that don't have any NAs
-      non_empty_spots<-grep(pattern = 0, NA_per_column)
-      
-      #find columns with NAs by subtracting all the columns that don't have NAs
-      lacking_columns<- c(1:ncol(stats_collection_df))[-non_empty_spots]  
-      
-      #create a list (go_test_row) of the objects in the lacking column
-      #replace the NAs in go_test_row with term "placeholder" to prevent errors with using function: startsWith
-      #replace every row in the lacking column with NA
-      #re-fill the column by matching what the object in go_test_row list is with the appropriate row
-      
-      #only deal with lacking_columns that have something in them, otherwise the entire column should be NAs
-      if(sum(lacking_columns) > 0){
-        for (lacking in lacking_columns) {
-          
-          go_test_row<- as.character(stats_collection_df[,lacking])
-          #replace the NAs in go_test_row with term "placeholder" to prevent errors with using function: startsWith
-          go_test_row[grep(TRUE, is.na(go_test_row))] <- "placeholder"
-          #ceate a blank slate, replace every row in the lacking column with NA, original values are stored in go_test_row
-          stats_collection_df[,lacking]<- NA
-          
-          for(go_test in go_test_row){
-            #if the object in go_test_row starts with "statistics", it should be placed in the first row of the column
-            if(startsWith(go_test, " statistics") == TRUE){
-              stats_collection_df[1,lacking]<- as.character(go_test)
-            }
-            #if the object in go_test_row starts with "likeCount", it should be placed in the second row of the column, etc, etc
-            if(startsWith(go_test, " likeCount") == TRUE){
-              stats_collection_df[2,lacking]<- as.character(go_test)
-            }
-            if(startsWith(go_test, " dislikeCount") == TRUE){
-              stats_collection_df[3,lacking]<- as.character(go_test)
-            }
-            if(startsWith(go_test, " favoriteCount") == TRUE){
-              stats_collection_df[4,lacking]<- as.character(go_test)
-            }
-            if(startsWith(go_test, " commentCount") == TRUE){
-              stats_collection_df[5,lacking]<- as.character(go_test)
-            }
+        for(go_test in go_test_row){
+          #if the object in go_test_row starts with "statistics", it should be placed in the first row of the column
+          if(startsWith(go_test, " statistics") == TRUE){
+            stats_collection_df[1,lacking]<- as.character(go_test)
+          }
+          #if the object in go_test_row starts with "likeCount", it should be placed in the second row of the column, etc, etc
+          if(startsWith(go_test, " likeCount") == TRUE){
+            stats_collection_df[2,lacking]<- as.character(go_test)
+          }
+          if(startsWith(go_test, " dislikeCount") == TRUE){
+            stats_collection_df[3,lacking]<- as.character(go_test)
+          }
+          if(startsWith(go_test, " favoriteCount") == TRUE){
+            stats_collection_df[4,lacking]<- as.character(go_test)
+          }
+          if(startsWith(go_test, " commentCount") == TRUE){
+            stats_collection_df[5,lacking]<- as.character(go_test)
           }
         }
       }
-      
-      #collect all the stats from test_data_fram_df into their appropriate lists (viewCount, likeCount, etc) to mass remove extra symbols
-      number_of_videos <- c(1:ncol(stats_collection_df))
-      
-      viewCount_list<- c()
-      likeCount_list<- c()
-      dislikeCount_list<-c()
-      favoriteCount_list<- c()
-      commentCount_list<-c()
-      
-      for(num in number_of_videos){
-        viewCount_list<- append(viewCount_list, as.character(stats_collection_df[1, num]))
-        likeCount_list<- append(likeCount_list, as.character(stats_collection_df[2, num]))
-        dislikeCount_list<- append(dislikeCount_list, as.character(stats_collection_df[3, num]))
-        favoriteCount_list<- append(favoriteCount_list, as.character(stats_collection_df[4, num]))
-        commentCount_list<- append(commentCount_list, as.character(stats_collection_df[5, num]))
-      }
-      
-      #clean up the data
-      #remove " statistics = list(viewCount = \"" and replace with ""
-      viewCount_list<- gsub(pattern =" statistics = list(viewCount = \"", "", viewCount_list, fixed = TRUE)
-      viewCount_list<- gsub(pattern ="\"", "", viewCount_list, fixed = TRUE)
-      
-      likeCount_list<- gsub(pattern =" likeCount = \"", "", likeCount_list, fixed = TRUE)
-      likeCount_list<- gsub(pattern ="\"", "", likeCount_list, fixed = TRUE)
-      
-      dislikeCount_list<- gsub(pattern =" dislikeCount = \"", "", dislikeCount_list, fixed = TRUE)
-      dislikeCount_list<- gsub(pattern ="\"", "", dislikeCount_list, fixed = TRUE)
-      
-      favoriteCount_list<- gsub(pattern =" favoriteCount = \"", "", favoriteCount_list, fixed = TRUE)
-      favoriteCount_list<- gsub(pattern ="\"", "", favoriteCount_list, fixed = TRUE)
-      
-      commentCount_list<- gsub(pattern =" commentCount = \"", "", commentCount_list, fixed = TRUE)
-      commentCount_list<- gsub(pattern ="))", "", commentCount_list, fixed = TRUE)
-      commentCount_list<- gsub(pattern ="\"", "", commentCount_list, fixed = TRUE)
-      
-      
-      
-      #add stat data from the lists to the holder_data_frame
-      holder_data_frame<- holder_data_frame %>% mutate(viewCount = viewCount_list)
-      holder_data_frame<- holder_data_frame %>% mutate(likeCount = likeCount_list)
-      holder_data_frame<- holder_data_frame %>% mutate(dislikeCount = dislikeCount_list)
-      holder_data_frame<- holder_data_frame %>% mutate(favoriteCount = favoriteCount_list)
-      holder_data_frame<- holder_data_frame %>% mutate(commentCount = commentCount_list)
-      holder_data_frame<- holder_data_frame %>% mutate(game_name = colnames(titles2_df[gg_g]))
-      
-      #create a title for the holder_data_frame that reflects what game it has data of
-      stats_df_lable <- paste0(gsub(pattern=" ", replacement= "_", x=colnames(titles_df[
-        gg_g])), "_stats_df")
-      
-      #use this line to keep track of which game is being done as the for-loop is run
-      print(stats_df_lable)
-      
-      #rename the column names the represent what the data in the column is
-      colnames(holder_data_frame)<- c("video_titles", "etag", "viewCount", "likeCount", "dislikeCount", "favoriteCount", "commentCount", "game_name")
-      
-      #fill the empty list with the dataframe to be used later for manipulation and analysis
-      list_of_data_frames[[gg_g]]<- data.frame(holder_data_frame)
-      
-      #name each object in the list_of_data_frames so we know which dataframe is which game
-      names(list_of_data_frames[gg_g]) <- stats_df_lable 
-      
-      #store holder_data_frame into a catch-all dataframe
-      soundtrack_data_df<-rbind(soundtrack_data_df, holder_data_frame) 
-      
-      num_of_useable_videos<- append(num_of_useable_videos, nrow(holder_data_frame))
-      
-      #increase which_key_term by 5 so the next 5 terms in the key_terms_list can be used with the next game
-      which_key_term<- which_key_term +5
-    }else{
-      non_list_of_data_frame<- append(non_list_of_data_frame, colnames(titles2_df[gg2]))
-      
-      #increase which_key_term by 5 so the next 5 terms in the key_terms_list can be used with the next game
-      which_key_term<- which_key_term + 5
-      
-      #a game that the youtube search API can't return related videos is a game that unfortunately has to be thrown out of the study
-      #add the game's number to bad_line so we can update the original game_title_df and remove the game from it
-      bad_line<- c(bad_line, gg2)
-      }
+    }
+    
+    #collect all the stats from test_data_fram_df into their appropriate lists (viewCount, likeCount, etc) to mass remove extra symbols
+    number_of_videos <- c(1:ncol(stats_collection_df))
+    
+    viewCount_list<- c()
+    likeCount_list<- c()
+    dislikeCount_list<-c()
+    favoriteCount_list<- c()
+    commentCount_list<-c()
+    
+    for(num in number_of_videos){
+      viewCount_list<- append(viewCount_list, as.character(stats_collection_df[1, num]))
+      likeCount_list<- append(likeCount_list, as.character(stats_collection_df[2, num]))
+      dislikeCount_list<- append(dislikeCount_list, as.character(stats_collection_df[3, num]))
+      favoriteCount_list<- append(favoriteCount_list, as.character(stats_collection_df[4, num]))
+      commentCount_list<- append(commentCount_list, as.character(stats_collection_df[5, num]))
+    }
+    
+    #clean up the data
+    #remove " statistics = list(viewCount = \"" and replace with ""
+    viewCount_list<- gsub(pattern =" statistics = list(viewCount = \"", "", viewCount_list, fixed = TRUE)
+    viewCount_list<- gsub(pattern ="\"", "", viewCount_list, fixed = TRUE)
+    
+    likeCount_list<- gsub(pattern =" likeCount = \"", "", likeCount_list, fixed = TRUE)
+    likeCount_list<- gsub(pattern ="\"", "", likeCount_list, fixed = TRUE)
+    
+    dislikeCount_list<- gsub(pattern =" dislikeCount = \"", "", dislikeCount_list, fixed = TRUE)
+    dislikeCount_list<- gsub(pattern ="\"", "", dislikeCount_list, fixed = TRUE)
+    
+    favoriteCount_list<- gsub(pattern =" favoriteCount = \"", "", favoriteCount_list, fixed = TRUE)
+    favoriteCount_list<- gsub(pattern ="\"", "", favoriteCount_list, fixed = TRUE)
+    
+    commentCount_list<- gsub(pattern =" commentCount = \"", "", commentCount_list, fixed = TRUE)
+    commentCount_list<- gsub(pattern ="))", "", commentCount_list, fixed = TRUE)
+    commentCount_list<- gsub(pattern ="\"", "", commentCount_list, fixed = TRUE)
+    
+    
+    
+    #add stat data from the lists to the holder_data_frame
+    holder_data_frame<- holder_data_frame %>% mutate(viewCount = viewCount_list)
+    holder_data_frame<- holder_data_frame %>% mutate(likeCount = likeCount_list)
+    holder_data_frame<- holder_data_frame %>% mutate(dislikeCount = dislikeCount_list)
+    holder_data_frame<- holder_data_frame %>% mutate(favoriteCount = favoriteCount_list)
+    holder_data_frame<- holder_data_frame %>% mutate(commentCount = commentCount_list)
+    holder_data_frame<- holder_data_frame %>% mutate(game_name = colnames(titles2_df[gg_g]))
+    
+    #create a title for the holder_data_frame that reflects what game it has data of
+    stats_df_lable <- paste0(gsub(pattern=" ", replacement= "_", x=colnames(titles_df[
+      gg_g])), "_stats_df")
+    
+    #use this line to keep track of which game is being done as the for-loop is run
+    print(stats_df_lable)
+    
+    #rename the column names the represent what the data in the column is
+    colnames(holder_data_frame)<- c("video_titles", "etag", "viewCount", "likeCount", "dislikeCount", "favoriteCount", "commentCount", "game_name")
+    
+    #fill the empty list with the dataframe to be used later for manipulation and analysis
+    list_of_data_frames[[gg_g]]<- data.frame(holder_data_frame)
+    
+    #name each object in the list_of_data_frames so we know which dataframe is which game
+    names(list_of_data_frames[gg_g]) <- stats_df_lable 
+    
+    #store holder_data_frame into a catch-all dataframe
+    soundtrack_data_df<-rbind(soundtrack_data_df, holder_data_frame) 
+    
+    num_of_useable_videos<- append(num_of_useable_videos, nrow(holder_data_frame))
+    
+    #increase which_key_term by 5 so the next 5 terms in the key_terms_list can be used with the next game
+    which_key_term<- which_key_term +5      
+
+
     }else{
     
     non_list_of_data_frame<- append(non_list_of_data_frame, colnames(titles2_df[gg2]))
@@ -820,6 +787,7 @@ for(gg_g in gg_games_2){
   best_match<- sort(stringdist(final_game_title_df$all_game_titles[gg_g], soundtrack_data_df$game_name))[1]
   
   video_num<- length(grep(best_match, stringdist(final_game_title_df$all_game_titles[gg_g], soundtrack_data_df$game_name)))
+  video_num<- nrow(game_data_frame)
   total_views<- sum(as.numeric(game_data_frame$viewCount), na.rm = TRUE) 
   total_likes<- sum(as.numeric(game_data_frame$likeCount), na.rm = TRUE)
   total_dislikes<- sum(as.numeric(game_data_frame$dislikeCount), na.rm = TRUE)
